@@ -1961,3 +1961,1187 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.27-09.07.48:399][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_2.BP_Camera_2
 [2023.07.27-09.07.48:399][988]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
 [2023.07.27-09.07.48:399][988]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.08.47:002][202]LogContentBrowser: Deferred new asset file creation: BP_Camera_3
+[2023.07.27-09.08.47:006][202]LogContentBrowser: Creating deferred item: BP_Camera_3
+[2023.07.27-09.08.47:027][203]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_3).
+[2023.07.27-09.08.47:542][231]LogContentBrowser: Attempting asset rename: BP_Camera_3 -> BP_Camera_3
+[2023.07.27-09.08.47:615][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2023.07.27-09.08.47:624][231]LogContentBrowser: End creating deferred item BP_Camera_3
+[2023.07.27-09.08.48:343][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3_C
+[2023.07.27-09.08.48:343][258]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3_C
+[2023.07.27-09.08.48:344][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3 as actor: BP_Camera_3_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_3_C_0
+[2023.07.27-09.08.48:346][258]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3 as actor: BP_Camera_3_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_3_C_0
+[2023.07.27-09.08.48:928][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3_C
+[2023.07.27-09.08.48:928][288]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3_C
+[2023.07.27-09.08.48:931][288]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3 as actor: BP_Camera_3_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_3_C_1
+[2023.07.27-09.08.48:933][288]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3 as actor: BP_Camera_3_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_3_C_1
+[2023.07.27-09.08.48:974][289]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.09.31:963][225]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.31:963][225]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.31:963][225]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.31:963][225]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.31:964][225]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.31:964][225]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.46:514][516]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.09.46:604][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.09.51:053][604]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.10.17:675][133]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.10.17:798][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2023.07.27-09.10.24:181][263]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.10.24:194][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.10.24:194][263]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:10:24)
+[2023.07.27-09.10.24:194][263]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.10.24:263][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069139s)
+[2023.07.27-09.10.24:263][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.069184s)
+[2023.07.27-09.10.24:263][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.10.24:264][263]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.10.24:264][263]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2023.07.27-09.10.24:334][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.07.27-09.10.24:338][263]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.10.24:338][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.10.24:338][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.10.24:339][263]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.10.24:339][263]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.10.24:339][263]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.10.24:341][263]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.10.24:386][263]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.10.24:387][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.10.24:387][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.10.24:387][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.10.24:389][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.07.27-09.10.24:389][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=11
+[2023.07.27-09.10.24:391][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.07.27-09.10.24:391][263]LogInit: FAudioDevice initialized.
+[2023.07.27-09.10.24:391][263]LogAudio: Display: Audio Device (ID: 11) registered with world '2'.
+[2023.07.27-09.10.24:391][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.07.27-09.10.24:394][263]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.10.24:432][263]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.10.24
+[2023.07.27-09.10.24:432][263]LogWorld: Bringing up level for play took: 0.038124
+[2023.07.27-09.10.24:434][263]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.07.27-09.10.24:438][263]PIE: Server logged in
+[2023.07.27-09.10.24:439][263]PIE: Play in editor total start time 0,246 seconds.
+[2023.07.27-09.10.26:595][330]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClassWithTag_OutActors_2' of length 0 in '/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2_C:ExecuteUbergraph_WD_Camera_Switch2'!
+[2023.07.27-09.10.26:595][330]LogScript: Warning: Last function called:
+	/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2_C.ExecuteUbergraph_WD_Camera_Switch2
+
+[2023.07.27-09.10.27:994][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.28:192][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.28:192][415]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.10.28:193][415]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.10.28:195][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.10.28:210][415]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.10.28:218][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.10.28:286][415]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.10.28:286][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.07.27-09.10.28:288][415]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.07.27-09.10.28:297][415]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.28:308][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.07.27-09.10.28:364][416]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.27-09.10.28:420][416]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.10.39:591][616]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.10.39:672][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.07.27-09.10.41:818][657]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.10.41:830][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.10.41:830][657]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:10:41)
+[2023.07.27-09.10.41:831][657]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.10.41:898][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068899s)
+[2023.07.27-09.10.41:899][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.068944s)
+[2023.07.27-09.10.41:899][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.10.41:899][657]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.10.41:900][657]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2023.07.27-09.10.41:969][657]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.07.27-09.10.41:971][657]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.10.41:971][657]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.10.41:971][657]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.10.41:971][657]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.10.41:971][657]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.10.41:971][657]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.10.41:974][657]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.10.42:004][657]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.10.42:004][657]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.10.42:004][657]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.10.42:004][657]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.10.42:004][657]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.07.27-09.10.42:004][657]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=12
+[2023.07.27-09.10.42:007][657]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.07.27-09.10.42:007][657]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.07.27-09.10.42:007][657]LogInit: FAudioDevice initialized.
+[2023.07.27-09.10.42:007][657]LogAudio: Display: Audio Device (ID: 12) registered with world '2'.
+[2023.07.27-09.10.42:011][657]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.10.42:041][657]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.10.42
+[2023.07.27-09.10.42:042][657]LogWorld: Bringing up level for play took: 0.031398
+[2023.07.27-09.10.42:044][657]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.07.27-09.10.42:046][657]PIE: Server logged in
+[2023.07.27-09.10.42:048][657]PIE: Play in editor total start time 0,218 seconds.
+[2023.07.27-09.10.46:029][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.47:552][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.47:553][880]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.10.47:553][880]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.10.47:557][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.10.47:581][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.10.47:589][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.10.47:652][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.10.47:654][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.27-09.10.47:655][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.27-09.10.47:661][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.10.47:670][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.27-09.10.47:736][881]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.27-09.10.47:747][881]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.10.59:699][133]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.10.59:827][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.07.27-09.11.02:833][198]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.11.02:845][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.11.02:845][198]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:11:02)
+[2023.07.27-09.11.02:845][198]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.11.02:909][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063235s)
+[2023.07.27-09.11.02:909][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.063275s)
+[2023.07.27-09.11.02:909][198]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.11.02:910][198]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.11.02:910][198]LogPlayLevel: PIE: World Init took: (0.000953s)
+[2023.07.27-09.11.02:974][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.07.27-09.11.02:976][198]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.11.02:976][198]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.11.02:976][198]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.11.02:978][198]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.11.02:978][198]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.11.02:978][198]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.11.02:980][198]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.11.03:003][198]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.11.03:003][198]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.11.03:003][198]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.11.03:003][198]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.11.03:004][198]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.07.27-09.11.03:004][198]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=13
+[2023.07.27-09.11.03:006][198]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.07.27-09.11.03:006][198]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.07.27-09.11.03:006][198]LogInit: FAudioDevice initialized.
+[2023.07.27-09.11.03:006][198]LogAudio: Display: Audio Device (ID: 13) registered with world '2'.
+[2023.07.27-09.11.03:009][198]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.11.03:039][198]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.11.03
+[2023.07.27-09.11.03:040][198]LogWorld: Bringing up level for play took: 0.031008
+[2023.07.27-09.11.03:042][198]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.07.27-09.11.03:045][198]PIE: Server logged in
+[2023.07.27-09.11.03:047][198]PIE: Play in editor total start time 0,201 seconds.
+[2023.07.27-09.11.06:608][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.11.10:542][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.11.10:542][441]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.11.10:542][441]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.11.10:547][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.11.10:575][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.11.10:584][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.11.10:647][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.11.10:647][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.27-09.11.10:649][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.27-09.11.10:655][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.11.10:664][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.07.27-09.11.10:728][442]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.07.27-09.11.10:742][442]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.11.12:783][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.07.27-09.11.12:788][472]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.11.12:846][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.11.12:917][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.27-09.11.13:043][472]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.11.13:043][472]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2F44AAAC744AE9417A5D8E680DCCFFB1E.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.11.13:064][472]LogFileHelpers: Saving map '2' took 0.219
+[2023.07.27-09.11.13:064][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.11.13:111][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.11.13:111][472]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl24BD7F3ED497BD55C3125CCAE2181F43F.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.11.13:115][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.11.13:133][472]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.11.13:133][472]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch2E9F2C82E4FC20B950F28B38A3EAABF9E.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.11.13:157][472]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3
+[2023.07.27-09.11.13:157][472]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_3AFF7443646296A876013F7BD0DDCABF9.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.uasset'
+[2023.07.27-09.11.13:178][472]LogFileHelpers: InternalPromptForCheckoutAndSave took 389 ms (total: 1.13 sec)
+[2023.07.27-09.11.13:193][472]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.11.13:193][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.11.13:193][472]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.11.13:194][472]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.11.13:194][472]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_3.BP_Camera_3
+[2023.07.27-09.11.21:932][803]LogContentBrowser: Deferred new asset file creation: BP_Camera_4
+[2023.07.27-09.11.21:941][803]LogContentBrowser: Creating deferred item: BP_Camera_4
+[2023.07.27-09.11.21:969][804]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_4).
+[2023.07.27-09.11.22:900][846]LogContentBrowser: Attempting asset rename: BP_Camera_4 -> BP_Camera_4
+[2023.07.27-09.11.22:972][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.07.27-09.11.22:979][846]LogContentBrowser: End creating deferred item BP_Camera_4
+[2023.07.27-09.11.23:664][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4_C
+[2023.07.27-09.11.23:664][866]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4_C
+[2023.07.27-09.11.23:666][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4 as actor: BP_Camera_4_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_4_C_0
+[2023.07.27-09.11.23:668][866]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4 as actor: BP_Camera_4_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_4_C_0
+[2023.07.27-09.11.24:303][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4_C
+[2023.07.27-09.11.24:303][893]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4_C
+[2023.07.27-09.11.24:306][893]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4 as actor: BP_Camera_4_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_4_C_1
+[2023.07.27-09.11.24:309][893]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4 as actor: BP_Camera_4_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_4_C_1
+[2023.07.27-09.11.24:402][894]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.11.53:992][490]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.11.53:992][490]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.11.53:992][490]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.11.53:992][490]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.11.53:993][490]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.11.53:993][490]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.14:280][847]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.12.14:406][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.22:094][981]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.12.35:928][230]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.12.36:012][230]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.07.27-09.12.49:742][487]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.12.49:754][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.12.49:754][487]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:12:49)
+[2023.07.27-09.12.49:754][487]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.12.49:827][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073070s)
+[2023.07.27-09.12.49:827][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.073104s)
+[2023.07.27-09.12.49:827][487]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.12.49:827][487]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.12.49:829][487]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2023.07.27-09.12.49:899][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.07.27-09.12.49:902][487]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.12.49:902][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.12.49:902][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.12.49:903][487]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.12.49:903][487]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.12.49:903][487]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.12.49:905][487]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.12.49:936][487]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.12.49:936][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.12.49:936][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.12.49:936][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.12.49:937][487]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.07.27-09.12.49:937][487]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=14
+[2023.07.27-09.12.49:939][487]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.07.27-09.12.49:939][487]LogInit: FAudioDevice initialized.
+[2023.07.27-09.12.49:939][487]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.07.27-09.12.49:939][487]LogAudio: Display: Audio Device (ID: 14) registered with world '2'.
+[2023.07.27-09.12.49:942][487]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.12.49:976][487]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.12.49
+[2023.07.27-09.12.49:977][487]LogWorld: Bringing up level for play took: 0.034350
+[2023.07.27-09.12.49:979][487]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2023.07.27-09.12.49:982][487]PIE: Server logged in
+[2023.07.27-09.12.49:982][487]PIE: Play in editor total start time 0,229 seconds.
+[2023.07.27-09.12.53:699][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.12.54:803][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.12.54:803][657]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.12.54:804][657]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.12.54:808][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.12.54:844][657]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.12.54:853][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.12.54:915][657]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.12.54:918][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.27-09.12.54:919][657]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.27-09.12.54:935][657]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.07.27-09.12.54:978][658]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.07.27-09.12.54:982][658]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.13.10:362][957]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.13.10:482][957]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.07.27-09.13.14:099][ 28]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.13.14:112][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.13.14:112][ 28]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:13:14)
+[2023.07.27-09.13.14:112][ 28]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.13.14:181][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069274s)
+[2023.07.27-09.13.14:181][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.069316s)
+[2023.07.27-09.13.14:181][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.13.14:181][ 28]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.13.14:182][ 28]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2023.07.27-09.13.14:256][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.07.27-09.13.14:257][ 28]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.07.27-09.13.14:257][ 28]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.13.14:257][ 28]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.13.14:258][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.13.14:258][ 28]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.13.14:258][ 28]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.13.14:258][ 28]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.13.14:258][ 28]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.13.14:258][ 28]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.13.14:258][ 28]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.13.14:258][ 28]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.13.14:258][ 28]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.13.14:260][ 28]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.13.14:308][ 28]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.13.14:308][ 28]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.13.14:308][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.13.14:308][ 28]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.13.14:309][ 28]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.07.27-09.13.14:309][ 28]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=15
+[2023.07.27-09.13.14:310][ 28]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.07.27-09.13.14:310][ 28]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.07.27-09.13.14:310][ 28]LogInit: FAudioDevice initialized.
+[2023.07.27-09.13.14:310][ 28]LogAudio: Display: Audio Device (ID: 15) registered with world '2'.
+[2023.07.27-09.13.14:313][ 28]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.13.14:347][ 28]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.13.14
+[2023.07.27-09.13.14:348][ 28]LogWorld: Bringing up level for play took: 0.034316
+[2023.07.27-09.13.14:350][ 28]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.07.27-09.13.14:354][ 28]PIE: Server logged in
+[2023.07.27-09.13.14:355][ 28]PIE: Play in editor total start time 0,244 seconds.
+[2023.07.27-09.13.19:203][194]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.13.28:612][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.13.28:613][515]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.13.28:613][515]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.13.28:617][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.13.28:654][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.13.28:662][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.13.28:727][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.13.28:727][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.27-09.13.28:728][515]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.27-09.13.28:734][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.13.28:743][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.07.27-09.13.28:808][516]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.27-09.13.28:822][516]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.13.41:138][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.27-09.13.41:142][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.13.41:226][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.13.41:290][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.07.27-09.13.41:415][751]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.13.41:415][751]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/24C2407E64F3BD53406E0EF8AD956DC64.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.13.41:440][751]LogFileHelpers: Saving map '2' took 0.215
+[2023.07.27-09.13.41:440][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.13.41:462][751]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.13.41:462][751]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl257097FEA41C6A69803EA24ACE38E2149.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.13.41:466][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.13.41:480][751]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.13.41:482][751]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch2CE890505448E98E16AE72B849B3B4977.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.13.41:507][751]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4
+[2023.07.27-09.13.41:507][751]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_497449EA0456FCE671BB8BF891A81A378.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.uasset'
+[2023.07.27-09.13.41:529][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 386 ms (total: 1.52 sec)
+[2023.07.27-09.13.41:537][751]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.13.41:537][751]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.13.41:537][751]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.13.41:538][751]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.13.41:538][751]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_4.BP_Camera_4
+[2023.07.27-09.13.53:661][142]Cmd: DELETE
+[2023.07.27-09.13.53:661][142]Cmd: ACTOR DELETE
+[2023.07.27-09.13.53:674][142]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.07.27-09.13.53:751][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.07.27-09.13.53:753][142]LogEditorActor: Deleted 1 Actors (0.091 secs)
+[2023.07.27-09.14.14:969][948]LogContentBrowser: Deferred new asset file creation: BP_Camera_5
+[2023.07.27-09.14.14:976][948]LogContentBrowser: Creating deferred item: BP_Camera_5
+[2023.07.27-09.14.15:005][949]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_5).
+[2023.07.27-09.14.15:499][969]LogContentBrowser: Attempting asset rename: BP_Camera_5 -> BP_Camera_5
+[2023.07.27-09.14.15:576][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.07.27-09.14.15:585][969]LogContentBrowser: End creating deferred item BP_Camera_5
+[2023.07.27-09.14.16:394][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5_C
+[2023.07.27-09.14.16:394][991]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5_C
+[2023.07.27-09.14.16:396][991]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5 as actor: BP_Camera_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_5_C_0
+[2023.07.27-09.14.16:398][991]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5 as actor: BP_Camera_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_5_C_0
+[2023.07.27-09.14.17:653][ 38]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5_C
+[2023.07.27-09.14.17:653][ 38]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5_C
+[2023.07.27-09.14.17:657][ 38]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5 as actor: BP_Camera_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_5_C_1
+[2023.07.27-09.14.17:659][ 38]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5 as actor: BP_Camera_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_5_C_1
+[2023.07.27-09.14.17:756][ 39]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.15.07:333][938]LogEditorTransaction: Undo Create Reroute Node
+[2023.07.27-09.15.37:439][476]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.15.37:439][476]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.15.37:439][476]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.15.37:439][476]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.15.37:439][476]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.15.37:441][476]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.16.45:416][688]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.16.45:513][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.07.27-09.16.47:835][731]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.16.47:850][731]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.07.27-09.16.47:851][731]LogPlayLevel: [PlayLevel] Compiling BP_CameraControl2 before play...
+[2023.07.27-09.16.48:026][731]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2023.07.27-09.16.48:028][731]LogPlayLevel: PlayLevel: Blueprint regeneration took 178 ms (1 blueprints)
+[2023.07.27-09.16.48:028][731]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:16:48)
+[2023.07.27-09.16.48:029][731]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.16.48:089][731]LogPlayLevel: PIE: StaticDuplicateObject took: (0.059537s)
+[2023.07.27-09.16.48:089][731]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.059569s)
+[2023.07.27-09.16.48:089][731]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.16.48:089][731]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.16.48:090][731]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2023.07.27-09.16.48:155][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.27-09.16.48:156][731]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.07.27-09.16.48:156][731]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.16.48:156][731]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.16.48:156][731]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.16.48:157][731]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.16.48:157][731]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.16.48:157][731]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.16.48:157][731]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.16.48:157][731]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.16.48:157][731]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.16.48:157][731]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.16.48:157][731]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.16.48:159][731]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.16.48:200][731]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.16.48:200][731]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.16.48:200][731]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.16.48:200][731]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.16.48:203][731]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.07.27-09.16.48:203][731]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=16
+[2023.07.27-09.16.48:206][731]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.07.27-09.16.48:206][731]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.07.27-09.16.48:206][731]LogInit: FAudioDevice initialized.
+[2023.07.27-09.16.48:206][731]LogAudio: Display: Audio Device (ID: 16) registered with world '2'.
+[2023.07.27-09.16.48:210][731]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.16.48:242][731]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.16.48
+[2023.07.27-09.16.48:242][731]LogWorld: Bringing up level for play took: 0.033088
+[2023.07.27-09.16.48:244][731]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.07.27-09.16.48:249][731]PIE: Server logged in
+[2023.07.27-09.16.48:250][731]PIE: Play in editor total start time 0,4 seconds.
+[2023.07.27-09.16.51:388][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.17.01:933][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.17.01:933][196]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.17.01:934][196]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.17.01:936][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.17.01:963][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.17.01:971][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.17.02:033][196]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.17.02:036][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.27-09.17.02:038][196]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.27-09.17.02:043][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.17.02:053][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2023.07.27-09.17.02:111][197]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.07.27-09.17.02:123][197]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.17.45:554][ 29]LogContentBrowser: Deferred new asset file creation: BP_Webcam_5
+[2023.07.27-09.17.45:561][ 29]LogContentBrowser: Creating deferred item: BP_Webcam_5
+[2023.07.27-09.17.45:625][ 30]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Webcam_5).
+[2023.07.27-09.17.46:123][ 40]LogContentBrowser: Attempting asset rename: BP_Webcam_5 -> BP_Webcam_5
+[2023.07.27-09.17.46:202][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.07.27-09.17.46:212][ 40]LogContentBrowser: End creating deferred item BP_Webcam_5
+[2023.07.27-09.17.46:870][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5_C
+[2023.07.27-09.17.46:870][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5_C
+[2023.07.27-09.17.46:873][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5 as actor: BP_Webcam_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_5_C_0
+[2023.07.27-09.17.46:874][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5 as actor: BP_Webcam_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_5_C_0
+[2023.07.27-09.17.47:710][ 64]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5_C
+[2023.07.27-09.17.47:710][ 64]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5_C
+[2023.07.27-09.17.47:713][ 64]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5 as actor: BP_Webcam_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_5_C_1
+[2023.07.27-09.17.47:715][ 64]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5 as actor: BP_Webcam_5_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_5_C_1
+[2023.07.27-09.17.47:899][ 65]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.18.25:617][741]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.25:617][741]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.25:617][741]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.25:617][741]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.25:618][741]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.25:618][741]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.18.40:684][ 11]BlueprintLog: New page: Compile WD_Webcam_Switch2
+[2023.07.27-09.18.40:775][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.27-09.19.07:395][491]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.19.07:408][491]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.19.07:408][491]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:19:07)
+[2023.07.27-09.19.07:409][491]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.19.07:484][491]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076589s)
+[2023.07.27-09.19.07:484][491]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.076624s)
+[2023.07.27-09.19.07:484][491]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.19.07:486][491]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.19.07:486][491]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2023.07.27-09.19.07:558][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.27-09.19.07:562][491]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.19.07:562][491]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.19.07:562][491]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.19.07:562][491]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.19.07:562][491]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.19.07:563][491]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.19.07:565][491]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.19.07:599][491]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.19.07:599][491]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.19.07:599][491]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.19.07:599][491]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.19.07:600][491]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.07.27-09.19.07:600][491]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2023.07.27-09.19.07:602][491]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.07.27-09.19.07:602][491]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.07.27-09.19.07:602][491]LogInit: FAudioDevice initialized.
+[2023.07.27-09.19.07:602][491]LogAudio: Display: Audio Device (ID: 17) registered with world '2'.
+[2023.07.27-09.19.07:605][491]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.19.07:637][491]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.19.07
+[2023.07.27-09.19.07:637][491]LogWorld: Bringing up level for play took: 0.031523
+[2023.07.27-09.19.07:639][491]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.07.27-09.19.07:643][491]PIE: Server logged in
+[2023.07.27-09.19.07:644][491]PIE: Play in editor total start time 0,236 seconds.
+[2023.07.27-09.19.12:810][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.19.16:411][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.19.16:412][803]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.19.16:412][803]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.19.16:416][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.19.16:442][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.19.16:451][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.19.16:518][803]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.19.16:518][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.27-09.19.16:519][803]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.27-09.19.16:525][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.19.16:534][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.07.27-09.19.16:599][804]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.07.27-09.19.16:610][804]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.19.21:125][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.27-09.19.21:129][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.19.21:191][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.19.21:253][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.07.27-09.19.21:383][895]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.19.21:384][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2AF29E8FF4C2FBEED8884BB88603E27F2.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.19.21:405][895]LogFileHelpers: Saving map '2' took 0.215
+[2023.07.27-09.19.21:408][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.uasset" SILENT=true
+[2023.07.27-09.19.21:423][895]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2
+[2023.07.27-09.19.21:423][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Webcam_Switch2FB2759134BEA1BCFF5B9749601C33453.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.uasset'
+[2023.07.27-09.19.21:424][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.19.21:453][895]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.19.21:454][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl28BEFB31341BBD6A724A646B26DDC3B05.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.19.21:459][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.19.21:474][895]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.19.21:474][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch23C05F99642D6F335A31ED681105B2AC9.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.19.21:498][895]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5
+[2023.07.27-09.19.21:498][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_52979136D47852EB4E0B36EAF0C64539D.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.uasset'
+[2023.07.27-09.19.21:501][895]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5
+[2023.07.27-09.19.21:501][895]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Webcam_5351F3D22423685CF2FA3E28D368B7223.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.uasset'
+[2023.07.27-09.19.21:506][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 377 ms (total: 1.89 sec)
+[2023.07.27-09.19.21:522][895]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.19.21:522][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.19.21:522][895]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.19.21:523][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_5.BP_Webcam_5
+[2023.07.27-09.19.21:523][895]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.WD_Webcam_Switch2
+[2023.07.27-09.19.21:524][895]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.19.21:524][895]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_5.BP_Camera_5
+[2023.07.27-09.19.56:856][212]LogContentBrowser: Deferred new asset file creation: BP_Camera_6
+[2023.07.27-09.19.56:863][212]LogContentBrowser: Creating deferred item: BP_Camera_6
+[2023.07.27-09.19.56:892][213]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_6).
+[2023.07.27-09.19.57:554][240]LogContentBrowser: Attempting asset rename: BP_Camera_6 -> BP_Camera_6
+[2023.07.27-09.19.57:631][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.07.27-09.19.57:641][240]LogContentBrowser: End creating deferred item BP_Camera_6
+[2023.07.27-09.19.58:169][253]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6_C
+[2023.07.27-09.19.58:169][253]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6_C
+[2023.07.27-09.19.58:171][253]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6 as actor: BP_Camera_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_6_C_0
+[2023.07.27-09.19.58:173][253]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6 as actor: BP_Camera_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_6_C_0
+[2023.07.27-09.19.58:787][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6_C
+[2023.07.27-09.19.58:787][273]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6_C
+[2023.07.27-09.19.58:791][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6 as actor: BP_Camera_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_6_C_1
+[2023.07.27-09.19.58:793][273]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6 as actor: BP_Camera_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_6_C_1
+[2023.07.27-09.19.58:845][274]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.20.45:245][143]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.03:679][427]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.21.03:770][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.20:297][724]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.21.58:462][420]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.21.58:601][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.07.27-09.22.00:714][458]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.22.00:726][458]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.22.00:727][458]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:22:00)
+[2023.07.27-09.22.00:727][458]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.22.00:808][458]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081395s)
+[2023.07.27-09.22.00:809][458]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.081429s)
+[2023.07.27-09.22.00:809][458]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.22.00:809][458]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.22.00:809][458]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2023.07.27-09.22.00:885][458]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2023.07.27-09.22.00:888][458]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.22.00:888][458]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.22.00:888][458]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.22.00:888][458]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.22.00:888][458]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.22.00:888][458]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.22.00:891][458]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.22.00:938][458]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.22.00:939][458]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.22.00:939][458]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.22.00:939][458]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.22.00:939][458]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.07.27-09.22.00:939][458]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2023.07.27-09.22.00:942][458]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.07.27-09.22.00:942][458]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.07.27-09.22.00:942][458]LogInit: FAudioDevice initialized.
+[2023.07.27-09.22.00:942][458]LogAudio: Display: Audio Device (ID: 18) registered with world '2'.
+[2023.07.27-09.22.00:945][458]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.22.00:976][458]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.22.00
+[2023.07.27-09.22.00:976][458]LogWorld: Bringing up level for play took: 0.030934
+[2023.07.27-09.22.00:978][458]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.07.27-09.22.00:983][458]PIE: Server logged in
+[2023.07.27-09.22.00:984][458]PIE: Play in editor total start time 0,257 seconds.
+[2023.07.27-09.22.04:164][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.22.07:073][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.22.07:073][669]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.22.07:074][669]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.22.07:076][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.22.07:115][669]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.22.07:123][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.22.07:187][669]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.22.07:187][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.07.27-09.22.07:188][669]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.07.27-09.22.07:194][669]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.22.07:204][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.07.27-09.22.07:266][670]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.07.27-09.22.07:277][670]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.22.16:256][ 19]LogContentBrowser: Deferred new asset file creation: BP_Webcam_6
+[2023.07.27-09.22.16:261][ 19]LogContentBrowser: Creating deferred item: BP_Webcam_6
+[2023.07.27-09.22.16:284][ 20]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Webcam_6).
+[2023.07.27-09.22.16:664][ 38]LogContentBrowser: Attempting asset rename: BP_Webcam_6 -> BP_Webcam_6
+[2023.07.27-09.22.16:736][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.07.27-09.22.16:748][ 38]LogContentBrowser: End creating deferred item BP_Webcam_6
+[2023.07.27-09.22.18:532][120]LogContentBrowser: Deferred new asset file creation: BP_Webcam_7
+[2023.07.27-09.22.18:537][120]LogContentBrowser: Creating deferred item: BP_Webcam_7
+[2023.07.27-09.22.18:563][121]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Webcam_7).
+[2023.07.27-09.22.19:067][145]LogContentBrowser: Attempting asset rename: BP_Webcam_7 -> BP_Webcam_7
+[2023.07.27-09.22.19:135][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.07.27-09.22.19:143][145]LogContentBrowser: End creating deferred item BP_Webcam_7
+[2023.07.27-09.22.22:497][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6_C
+[2023.07.27-09.22.22:497][290]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6_C
+[2023.07.27-09.22.22:499][290]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6 as actor: BP_Webcam_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_6_C_0
+[2023.07.27-09.22.22:500][290]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6 as actor: BP_Webcam_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_6_C_0
+[2023.07.27-09.22.24:258][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6_C
+[2023.07.27-09.22.24:259][373]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6_C
+[2023.07.27-09.22.24:261][373]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6 as actor: BP_Webcam_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_6_C_1
+[2023.07.27-09.22.24:263][373]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6 as actor: BP_Webcam_6_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_6_C_1
+[2023.07.27-09.22.24:357][374]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.22.54:302][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7_C
+[2023.07.27-09.22.54:302][ 15]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7_C
+[2023.07.27-09.22.54:304][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7 as actor: BP_Webcam_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_7_C_0
+[2023.07.27-09.22.54:305][ 15]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7 as actor: BP_Webcam_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_7_C_0
+[2023.07.27-09.22.55:303][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7_C
+[2023.07.27-09.22.55:303][ 36]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7_C
+[2023.07.27-09.22.55:306][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7 as actor: BP_Webcam_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_7_C_1
+[2023.07.27-09.22.55:308][ 36]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7 as actor: BP_Webcam_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Webcam_7_C_1
+[2023.07.27-09.22.55:449][ 37]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.23.47:099][925]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.23.47:099][925]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.23.47:099][925]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.23.47:099][925]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.23.47:101][925]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.23.47:101][925]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.10:934][968]BlueprintLog: New page: Compile WD_Webcam_Switch2
+[2023.07.27-09.24.11:017][968]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.32:676][599]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.24.59:427][724]BlueprintLog: New page: Compile WD_Webcam_Switch2
+[2023.07.27-09.24.59:506][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.07.27-09.25.02:554][854]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.25.02:565][854]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.25.02:565][854]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:25:02)
+[2023.07.27-09.25.02:565][854]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.25.02:637][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071958s)
+[2023.07.27-09.25.02:637][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.071992s)
+[2023.07.27-09.25.02:637][854]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.25.02:638][854]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.25.02:638][854]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2023.07.27-09.25.02:706][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.07.27-09.25.02:708][854]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.25.02:708][854]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.25.02:708][854]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.25.02:709][854]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.25.02:709][854]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.25.02:709][854]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.25.02:711][854]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.25.02:755][854]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.25.02:755][854]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.25.02:755][854]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.25.02:755][854]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.25.02:756][854]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.07.27-09.25.02:756][854]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2023.07.27-09.25.02:757][854]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.07.27-09.25.02:758][854]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.07.27-09.25.02:758][854]LogInit: FAudioDevice initialized.
+[2023.07.27-09.25.02:758][854]LogAudio: Display: Audio Device (ID: 19) registered with world '2'.
+[2023.07.27-09.25.02:761][854]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.25.02:794][854]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.25.02
+[2023.07.27-09.25.02:795][854]LogWorld: Bringing up level for play took: 0.034084
+[2023.07.27-09.25.02:797][854]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.07.27-09.25.02:802][854]PIE: Server logged in
+[2023.07.27-09.25.02:803][854]PIE: Play in editor total start time 0,238 seconds.
+[2023.07.27-09.25.06:318][973]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClassWithTag_OutActors' of length 0 in '/Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.WD_Webcam_Switch2_C:ExecuteUbergraph_WD_Webcam_Switch2'!
+[2023.07.27-09.25.06:318][973]LogScript: Warning: Last function called:
+	/Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.WD_Webcam_Switch2_C.ExecuteUbergraph_WD_Webcam_Switch2
+
+[2023.07.27-09.25.08:694][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.08:831][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.08:831][111]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.25.08:832][111]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.25.08:836][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.25.08:846][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.25.08:857][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.25.08:923][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.25.08:924][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.07.27-09.25.08:925][111]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.07.27-09.25.08:932][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.08:941][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2023.07.27-09.25.09:008][112]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.07.27-09.25.28:216][ 29]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.25.37:247][207]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.25.37:259][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.25.37:259][207]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:25:37)
+[2023.07.27-09.25.37:259][207]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.25.37:327][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067643s)
+[2023.07.27-09.25.37:327][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.067684s)
+[2023.07.27-09.25.37:327][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.25.37:328][207]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.25.37:328][207]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2023.07.27-09.25.37:392][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.27-09.25.37:393][207]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.25.37:393][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.25.37:393][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.25.37:394][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.25.37:394][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.25.37:394][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.25.37:397][207]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.25.37:420][207]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.25.37:420][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.25.37:420][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.25.37:420][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.25.37:421][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.07.27-09.25.37:421][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2023.07.27-09.25.37:422][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.07.27-09.25.37:422][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.07.27-09.25.37:422][207]LogInit: FAudioDevice initialized.
+[2023.07.27-09.25.37:423][207]LogAudio: Display: Audio Device (ID: 20) registered with world '2'.
+[2023.07.27-09.25.37:426][207]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.25.37:464][207]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.25.37
+[2023.07.27-09.25.37:464][207]LogWorld: Bringing up level for play took: 0.037929
+[2023.07.27-09.25.37:466][207]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2023.07.27-09.25.37:470][207]PIE: Server logged in
+[2023.07.27-09.25.37:471][207]PIE: Play in editor total start time 0,212 seconds.
+[2023.07.27-09.25.42:970][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.43:373][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.43:373][408]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.25.43:374][408]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.25.43:378][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.25.43:412][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.25.43:421][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.25.43:490][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.25.43:490][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.07.27-09.25.43:492][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.07.27-09.25.43:508][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.07.27-09.25.43:564][409]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.07.27-09.25.43:577][409]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.25.44:862][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.07.27-09.25.44:866][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.25.44:936][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.25.44:999][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.27-09.25.45:126][433]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.25.45:126][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2AA39902047E003936D3B91A29995B9DE.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.25.45:149][433]LogFileHelpers: Saving map '2' took 0.213
+[2023.07.27-09.25.45:153][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.uasset" SILENT=true
+[2023.07.27-09.25.45:169][433]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2
+[2023.07.27-09.25.45:170][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Webcam_Switch231EFEDB340C49132383CC9B0CE4DD6FF.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.uasset'
+[2023.07.27-09.25.45:171][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.25.45:201][433]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.25.45:202][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl2D174EE454AD1D796D1B8CAA9415A0150.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.25.45:205][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.25.45:222][433]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.25.45:223][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch2854CDE894B4FCA82CC242D8DB7061C2A.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.25.45:247][433]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6
+[2023.07.27-09.25.45:247][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_6C05ED4844EEFE3B5A625988B9CFDF2A9.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.uasset'
+[2023.07.27-09.25.45:250][433]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6
+[2023.07.27-09.25.45:250][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Webcam_6C84216B74109306B1B0110BE979D8B14.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.uasset'
+[2023.07.27-09.25.45:254][433]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7
+[2023.07.27-09.25.45:254][433]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Webcam_7E550D7954305FD31420A5BB43B4E096B.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.uasset'
+[2023.07.27-09.25.45:261][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 395 ms (total: 2.29 sec)
+[2023.07.27-09.25.45:270][433]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.25.45:270][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.25.45:270][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_7.BP_Webcam_7
+[2023.07.27-09.25.45:270][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Webcam_Level_2/BP_Webcam_6.BP_Webcam_6
+[2023.07.27-09.25.45:270][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.25.45:271][433]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Webcam_Switch2.WD_Webcam_Switch2
+[2023.07.27-09.25.45:271][433]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.25.45:271][433]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_6.BP_Camera_6
+[2023.07.27-09.25.59:716][936]Cmd: DELETE
+[2023.07.27-09.25.59:716][936]Cmd: ACTOR DELETE
+[2023.07.27-09.25.59:730][936]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.07.27-09.25.59:810][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.07.27-09.25.59:812][936]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2023.07.27-09.26.04:376][ 96]LogContentBrowser: Deferred new asset file creation: BP_Camera_7
+[2023.07.27-09.26.04:383][ 96]LogContentBrowser: Creating deferred item: BP_Camera_7
+[2023.07.27-09.26.04:403][ 97]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_7).
+[2023.07.27-09.26.04:709][109]LogContentBrowser: Attempting asset rename: BP_Camera_7 -> BP_Camera_7
+[2023.07.27-09.26.04:794][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.07.27-09.26.04:807][109]LogContentBrowser: End creating deferred item BP_Camera_7
+[2023.07.27-09.26.05:466][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7_C
+[2023.07.27-09.26.05:466][126]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7_C
+[2023.07.27-09.26.05:468][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7 as actor: BP_Camera_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_7_C_0
+[2023.07.27-09.26.05:469][126]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7 as actor: BP_Camera_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_7_C_0
+[2023.07.27-09.26.06:162][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7_C
+[2023.07.27-09.26.06:162][148]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7_C
+[2023.07.27-09.26.06:166][148]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7 as actor: BP_Camera_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_7_C_1
+[2023.07.27-09.26.06:168][148]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7 as actor: BP_Camera_7_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_7_C_1
+[2023.07.27-09.26.06:211][149]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.27.02:037][306]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.02:038][306]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.02:038][306]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.02:038][306]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.02:038][306]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.02:038][306]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.27.22:857][722]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.27.22:950][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.07.27-09.28.28:699][ 27]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.28:699][ 27]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.28:699][ 27]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.28:699][ 27]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.28:701][ 27]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.28:701][ 27]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.28.49:881][439]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.28.50:021][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.07.27-09.28.52:749][493]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.28.52:761][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.28.52:761][493]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:28:52)
+[2023.07.27-09.28.52:761][493]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.28.52:835][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073876s)
+[2023.07.27-09.28.52:835][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.073917s)
+[2023.07.27-09.28.52:835][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.28.52:835][493]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.28.52:837][493]LogPlayLevel: PIE: World Init took: (0.001123s)
+[2023.07.27-09.28.52:909][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.07.27-09.28.52:912][493]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.07.27-09.28.52:912][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.28.52:912][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.28.52:912][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.28.52:913][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.28.52:913][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.28.52:913][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.28.52:913][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.28.52:913][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.28.52:913][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.28.52:913][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.28.52:913][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.28.52:915][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.28.52:955][493]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.28.52:955][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.28.52:955][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.28.52:955][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.28.52:956][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.07.27-09.28.52:956][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2023.07.27-09.28.52:958][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.07.27-09.28.52:958][493]LogInit: FAudioDevice initialized.
+[2023.07.27-09.28.52:958][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.07.27-09.28.52:958][493]LogAudio: Display: Audio Device (ID: 21) registered with world '2'.
+[2023.07.27-09.28.52:962][493]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.28.53:005][493]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.28.53
+[2023.07.27-09.28.53:007][493]LogWorld: Bringing up level for play took: 0.044456
+[2023.07.27-09.28.53:009][493]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.07.27-09.28.53:013][493]PIE: Server logged in
+[2023.07.27-09.28.53:014][493]PIE: Play in editor total start time 0,253 seconds.
+[2023.07.27-09.28.57:167][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.28.59:982][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.28.59:982][751]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.28.59:983][751]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.28.59:986][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.29.00:009][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.29.00:018][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.29.00:093][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.29.00:093][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.07.27-09.29.00:095][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.07.27-09.29.00:101][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.29.00:110][751]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.07.27-09.29.00:178][752]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.07.27-09.29.00:255][752]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.29.14:931][ 91]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.30.51:559][600]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.30.51:573][600]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.30.51:574][600]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:30:51)
+[2023.07.27-09.30.51:574][600]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.30.51:643][600]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069246s)
+[2023.07.27-09.30.51:643][600]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.069284s)
+[2023.07.27-09.30.51:643][600]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.30.51:644][600]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.30.51:644][600]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2023.07.27-09.30.51:717][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.07.27-09.30.51:719][600]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.30.51:719][600]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.30.51:719][600]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.30.51:720][600]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.30.51:720][600]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.30.51:720][600]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.30.51:721][600]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.30.51:770][600]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.30.51:770][600]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.30.51:770][600]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.30.51:770][600]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.30.51:772][600]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.07.27-09.30.51:772][600]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=22
+[2023.07.27-09.30.51:773][600]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.07.27-09.30.51:773][600]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.07.27-09.30.51:773][600]LogInit: FAudioDevice initialized.
+[2023.07.27-09.30.51:773][600]LogAudio: Display: Audio Device (ID: 22) registered with world '2'.
+[2023.07.27-09.30.51:777][600]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.30.51:811][600]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.30.51
+[2023.07.27-09.30.51:812][600]LogWorld: Bringing up level for play took: 0.035551
+[2023.07.27-09.30.51:814][600]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2023.07.27-09.30.51:818][600]PIE: Server logged in
+[2023.07.27-09.30.51:819][600]PIE: Play in editor total start time 0,246 seconds.
+[2023.07.27-09.30.54:770][697]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.31.00:048][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.31.01:793][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.31.01:793][973]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.31.01:794][973]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.31.01:797][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.31.01:836][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.31.01:845][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.31.01:909][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.31.01:913][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.07.27-09.31.01:914][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.07.27-09.31.01:930][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.07.27-09.31.01:998][974]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.07.27-09.31.02:128][974]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.31.06:611][ 90]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.31.30:234][627]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.34.43:966][515]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.07.27-09.34.43:971][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.34.44:032][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.34.44:096][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.07.27-09.34.44:233][515]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.34.44:233][515]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2DAF3F1F849A675918FF08C828F79F196.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.34.44:257][515]LogFileHelpers: Saving map '2' took 0.226
+[2023.07.27-09.34.44:257][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.34.44:296][515]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.34.44:297][515]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl2CD8325204C30837FD23C8A967BF8185B.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.34.44:300][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.34.44:322][515]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.34.44:322][515]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch23C6C0A954005EC63570C4FA1C93A2C73.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.34.44:349][515]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7
+[2023.07.27-09.34.44:349][515]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_78CD7CF394900C9F0B4AF8F8F268CDDA2.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.uasset'
+[2023.07.27-09.34.44:369][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 397 ms (total: 2.69 sec)
+[2023.07.27-09.34.44:379][515]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.34.44:379][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.34.44:379][515]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.34.44:380][515]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.34.44:380][515]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_7.BP_Camera_7
+[2023.07.27-09.35.22:115][346]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.35.22:128][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.35.22:128][346]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:35:22)
+[2023.07.27-09.35.22:128][346]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.35.22:197][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068814s)
+[2023.07.27-09.35.22:197][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.068851s)
+[2023.07.27-09.35.22:197][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.35.22:198][346]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.35.22:198][346]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2023.07.27-09.35.22:269][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.27-09.35.22:271][346]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.35.22:271][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.35.22:271][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.35.22:272][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.35.22:272][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.35.22:272][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.35.22:274][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.35.22:314][346]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.35.22:314][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.35.22:314][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.35.22:314][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.35.22:315][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.07.27-09.35.22:315][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=23
+[2023.07.27-09.35.22:316][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.07.27-09.35.22:316][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.07.27-09.35.22:316][346]LogInit: FAudioDevice initialized.
+[2023.07.27-09.35.22:316][346]LogAudio: Display: Audio Device (ID: 23) registered with world '2'.
+[2023.07.27-09.35.22:320][346]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.35.22:354][346]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.35.22
+[2023.07.27-09.35.22:354][346]LogWorld: Bringing up level for play took: 0.033798
+[2023.07.27-09.35.22:356][346]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.07.27-09.35.22:360][346]PIE: Server logged in
+[2023.07.27-09.35.22:361][346]PIE: Play in editor total start time 0,233 seconds.
+[2023.07.27-09.35.25:403][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.35.32:633][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.35.32:633][741]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.35.32:634][741]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.35.32:636][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.35.32:656][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.35.32:665][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.35.32:729][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.35.32:730][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.27-09.35.32:732][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.07.27-09.35.32:744][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.35.32:755][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2023.07.27-09.35.32:814][742]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.07.27-09.35.32:827][742]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.35.34:551][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.07.27-09.35.34:556][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.35.34:631][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.35.34:694][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.07.27-09.35.34:826][782]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.35.34:826][782]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2FA9E663C435B0B874E62A285CBC65E1C.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.35.34:847][782]LogFileHelpers: Saving map '2' took 0.217
+[2023.07.27-09.35.34:851][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 295 ms (total: 2.98 sec)
+[2023.07.27-09.35.34:864][782]AssetCheck: New page: Asset Save: 2
+[2023.07.27-09.35.34:864][782]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.07.27-09.36.27:330][127]Cmd: DELETE
+[2023.07.27-09.36.27:331][127]Cmd: ACTOR DELETE
+[2023.07.27-09.36.27:345][127]LogEditorActor: Deleted Actor: TextRenderActor
+[2023.07.27-09.36.27:426][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.07.27-09.36.27:428][127]LogEditorActor: Deleted 1 Actors (0.098 secs)
+[2023.07.27-09.36.29:418][224]LogContentBrowser: Deferred new asset file creation: BP_Camera_8
+[2023.07.27-09.36.29:424][224]LogContentBrowser: Creating deferred item: BP_Camera_8
+[2023.07.27-09.36.29:447][225]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Camera_8).
+[2023.07.27-09.36.29:919][251]LogContentBrowser: Attempting asset rename: BP_Camera_8 -> BP_Camera_8
+[2023.07.27-09.36.29:991][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2023.07.27-09.36.29:999][251]LogContentBrowser: End creating deferred item BP_Camera_8
+[2023.07.27-09.36.30:747][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8_C
+[2023.07.27-09.36.30:747][280]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8_C
+[2023.07.27-09.36.30:749][280]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8 as actor: BP_Camera_8_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_8_C_0
+[2023.07.27-09.36.30:750][280]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8 as actor: BP_Camera_8_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_8_C_0
+[2023.07.27-09.36.31:479][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8_C
+[2023.07.27-09.36.31:479][316]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8_C
+[2023.07.27-09.36.31:482][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8 as actor: BP_Camera_8_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_8_C_1
+[2023.07.27-09.36.31:484][316]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8 as actor: BP_Camera_8_C /Game/ThirdPerson/Maps/2.2:PersistentLevel.BP_Camera_8_C_1
+[2023.07.27-09.36.31:530][317]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.37.15:458][392]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.15:458][392]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.15:458][392]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.15:458][392]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.15:459][392]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.15:459][392]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.37.32:309][752]BlueprintLog: New page: Compile WD_Camera_Switch2
+[2023.07.27-09.37.32:412][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.07.27-09.38.18:174][746]LogEditorTransaction: Undo Create Pin Link
+[2023.07.27-09.38.18:569][748]LogEditorTransaction: Undo Move Node
+[2023.07.27-09.38.18:868][749]LogEditorTransaction: Undo Create Pin Link
+[2023.07.27-09.38.19:268][754]LogEditorTransaction: Undo Move Node
+[2023.07.27-09.38.19:805][762]LogEditorTransaction: Undo Move Node
+[2023.07.27-09.38.20:824][780]LogEditorTransaction: Undo Create Reroute Node
+[2023.07.27-09.38.21:462][790]LogEditorTransaction: Undo Create Pin Link
+[2023.07.27-09.38.22:633][811]LogEditorTransaction: Undo Move Nodes
+[2023.07.27-09.38.55:964][519]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.38.55:964][519]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.38.55:964][519]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.38.55:964][519]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.38.55:965][519]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.38.55:965][519]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.07.27-09.39.19:745][ 16]BlueprintLog: New page: Compile BP_CameraControl2
+[2023.07.27-09.39.19:894][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.07.27-09.39.22:215][ 64]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.27-09.39.22:226][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.27-09.39.22:226][ 64]PIE: New page: PIE session: 2 (27 juil. 2023 à 13:39:22)
+[2023.07.27-09.39.22:226][ 64]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.39.22:296][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069569s)
+[2023.07.27-09.39.22:296][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.069606s)
+[2023.07.27-09.39.22:296][ 64]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.27-09.39.22:296][ 64]LogAIModule: Creating AISystem for world 2
+[2023.07.27-09.39.22:297][ 64]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2023.07.27-09.39.22:366][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.07.27-09.39.22:369][ 64]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.27-09.39.22:369][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.27-09.39.22:369][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.27-09.39.22:369][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.27-09.39.22:369][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.27-09.39.22:369][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.27-09.39.22:373][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.27-09.39.22:440][ 64]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (THX Spatial)
+[2023.07.27-09.39.22:441][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.27-09.39.22:441][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.27-09.39.22:441][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.27-09.39.22:442][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.07.27-09.39.22:442][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=24
+[2023.07.27-09.39.22:444][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.07.27-09.39.22:444][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.07.27-09.39.22:444][ 64]LogInit: FAudioDevice initialized.
+[2023.07.27-09.39.22:444][ 64]LogAudio: Display: Audio Device (ID: 24) registered with world '2'.
+[2023.07.27-09.39.22:447][ 64]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.27-09.39.22:479][ 64]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 0) at 2023.07.27-11.39.22
+[2023.07.27-09.39.22:480][ 64]LogWorld: Bringing up level for play took: 0.032789
+[2023.07.27-09.39.22:483][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2023.07.27-09.39.22:486][ 64]PIE: Server logged in
+[2023.07.27-09.39.22:487][ 64]PIE: Play in editor total start time 0,262 seconds.
+[2023.07.27-09.39.26:646][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.39.28:102][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.39.28:102][265]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.07.27-09.39.28:103][265]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.07.27-09.39.28:106][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.39.28:145][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.27-09.39.28:154][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.27-09.39.28:218][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.27-09.39.28:218][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.07.27-09.39.28:220][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.07.27-09.39.28:225][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.27-09.39.28:235][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.07.27-09.39.28:296][266]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2023.07.27-09.39.28:371][266]LogViewport: Scene viewport resized to 473x274, mode Windowed.
+[2023.07.27-09.39.48:404][636]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.07.27-09.39.48:409][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.27-09.39.48:479][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.27-09.39.48:552][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.07.27-09.39.48:686][636]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.07.27-09.39.48:687][636]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2C82433B04C400E94D2BD51BB90F526C9.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.07.27-09.39.48:708][636]LogFileHelpers: Saving map '2' took 0.230
+[2023.07.27-09.39.48:709][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset" SILENT=true
+[2023.07.27-09.39.48:749][636]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl2
+[2023.07.27-09.39.48:749][636]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl23C0C3DF6469232DEF24A2981950B2449.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl2.uasset'
+[2023.07.27-09.39.48:753][636]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset" SILENT=true
+[2023.07.27-09.39.48:772][636]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2
+[2023.07.27-09.39.48:773][636]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Camera_Switch2A963354C40EE868555CA718A25516B9B.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.uasset'
+[2023.07.27-09.39.48:800][636]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8
+[2023.07.27-09.39.48:800][636]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Camera_8495E5C8343242C9352E4A98B93ACCEDB.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.uasset'
+[2023.07.27-09.39.48:824][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 414 ms (total: 3.40 sec)
+[2023.07.27-09.39.48:834][636]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.27-09.39.48:834][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl2.BP_CameraControl2
+[2023.07.27-09.39.48:834][636]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/Camera/Level2/Camera_Level_2/BP_Camera_8.BP_Camera_8
+[2023.07.27-09.39.48:834][636]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level2/WD_Camera_Switch2.WD_Camera_Switch2
+[2023.07.27-09.39.48:835][636]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
