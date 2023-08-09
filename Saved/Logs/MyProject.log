@@ -2282,3 +2282,296 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.09-12.23.44:351][467]FBXImport: Error: Animation length 9,08 is not compatible with import frame-rate 30 fps (sub frame 0,4), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
 [2023.08.09-12.23.46:248][551]LogSlate: Window 'Message Log' being destroyed
 [2023.08.09-12.23.46:269][551]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.24.14:872][207]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Remy.fbx)
+[2023.08.09-12.24.14:918][207]LogFbx: Loading FBX Scene from D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Remy.fbx
+[2023.08.09-12.24.15:181][207]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.09-12.24.16:766][207]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:796][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster3) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:797][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster4) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:798][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:798][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:798][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:798][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster5) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster6) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Shoes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Tops : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Bottoms : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Hair : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Body : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyelashes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Not valid bind pose for Pose (skinCluster7) - Node Eyes : The relative matrices do not match
+[2023.08.09-12.24.16:799][207]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2023.08.09-12.24.16:800][207]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Shoes
+[2023.08.09-12.24.16:800][207]LogFbx: Warning: Recreating bind pose succeeded.
+[2023.08.09-12.24.16:801][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Shoesmat.Shoesmat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.16:853][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.16:856][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Shoes_Diffuse.Remy_Shoes_Diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.16:868][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.16:868][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.16:880][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Shoes_Specular.Remy_Shoes_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.16:892][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.16:892][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.16:894][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Shoes_Gloss.Remy_Shoes_Gloss (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.16:917][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.16:920][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Shoes_Normal.Remy_Shoes_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.16:933][207]LogFbx: Triangulating skeletal mesh Shoes
+[2023.08.09-12.24.16:990][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Topmat.Topmat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.17:032][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:035][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Top_Diffuse.Remy_Top_Diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:045][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:045][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:049][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Top_Specular.Remy_Top_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:067][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:067][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:068][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Top_Gloss.Remy_Top_Gloss (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:096][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:100][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Top_Normal.Remy_Top_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:114][207]LogFbx: Triangulating skeletal mesh Tops
+[2023.08.09-12.24.17:154][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Bottommat.Bottommat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.17:200][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:204][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Bottom_Diffuse.Remy_Bottom_Diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:218][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:218][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:220][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Bottom_Specular.Remy_Bottom_Specular (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:237][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:237][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:239][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Bottom_Gloss.Remy_Bottom_Gloss (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:269][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:273][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Bottom_Normal.Remy_Bottom_Normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:288][207]LogFbx: Triangulating skeletal mesh Bottoms
+[2023.08.09-12.24.17:332][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Hairmat.Hairmat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.17:368][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:371][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Hair_Diffuse.Remy_Hair_Diffuse (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:375][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:375][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:377][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Hair_Specular.Remy_Hair_Specular (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:380][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:380][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:385][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Hair_Gloss.Remy_Hair_Gloss (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 44.395823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:386][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:389][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Hair_Normal.Remy_Hair_Normal (TFO_BC5, 512x512 x1x1x1) (Required Memory Estimate: 81.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:405][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:405][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:406][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Hair_Opacity.Remy_Hair_Opacity (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 143.645823 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:420][207]LogFbx: Triangulating skeletal mesh Hair
+[2023.08.09-12.24.17:469][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Bodymat.Bodymat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.17:584][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:594][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Diffuse.Remy_Body_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:667][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:667][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:671][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Specular.Remy_Body_Specular (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:728][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.17:728][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.17:732][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Gloss.Remy_Body_Gloss (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:829][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.17:838][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Normal.Remy_Body_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.17:856][207]LogFbx: Triangulating skeletal mesh Body
+[2023.08.09-12.24.17:994][207]LogMaterial: Display: Material /Game/AI/PNJ/MESH/REMY/Eyelashmat.Eyelashmat needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.24.18:110][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.18:121][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Diffuse_ncl1_1.Remy_Body_Diffuse_ncl1_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.18:175][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.18:175][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.18:178][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Specular_ncl1_1.Remy_Body_Specular_ncl1_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.18:234][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.18:234][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.18:238][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Gloss_ncl1_1.Remy_Body_Gloss_ncl1_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.18:339][207]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.24.18:348][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Normal_ncl1_1.Remy_Body_Normal_ncl1_1 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.18:376][207]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.24.18:376][207]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.24.18:385][207]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/REMY/Remy_Body_Opacity.Remy_Body_Opacity (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.24.18:397][207]LogFbx: Triangulating skeletal mesh Eyelashes
+[2023.08.09-12.24.18:400][207]LogFbx: Triangulating skeletal mesh Eyes
+[2023.08.09-12.24.18:448][207]LogFbx: Bones digested - 67  Depth of hierarchy - 12
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 0: Material=0, 6494 triangles
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 1: Material=1, 4362 triangles
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 2: Material=2, 4510 triangles
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 3: Material=3, 4666 triangles
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 4: Material=4, 15058 triangles
+[2023.08.09-12.24.18:992][207]LogSkeletalMesh: Section 5: Material=5, 106 triangles
+[2023.08.09-12.24.19:041][207]LogSkeletalMesh: Building Skeletal Mesh Remy...
+[2023.08.09-12.24.19:059][207]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Remy) ...
+[2023.08.09-12.24.19:516][207]LogSkeletalMesh: Built Skeletal Mesh [0.48s] /Game/AI/PNJ/MESH/REMY/Remy.Remy
+[2023.08.09-12.24.19:637][207]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.24.19:647][207]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.24.19:647][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(7) RightEye
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(8) LeftEye
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(10) LeftArm
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(12) LeftHand
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(25) LeftHandRing1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(26) LeftHandRing2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(27) LeftHandRing3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(28) LeftHandRing4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(33) RightShoulder
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(34) RightArm
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(35) RightForeArm
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(36) RightHand
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(41) RightHandThumb1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(42) RightHandThumb2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(43) RightHandThumb3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(44) RightHandThumb4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(45) RightHandIndex1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(46) RightHandIndex2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(47) RightHandIndex3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(48) RightHandIndex4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(49) RightHandRing1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(50) RightHandRing2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(51) RightHandRing3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(52) RightHandRing4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(53) RightHandPinky1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(54) RightHandPinky2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(55) RightHandPinky3
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(56) RightHandPinky4
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(57) LeftUpLeg
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(58) LeftLeg
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(59) LeftFoot
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(60) LeftToeBase
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(61) LeftToe_End
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(62) RightUpLeg
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(63) RightLeg
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(64) RightFoot
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(65) RightToeBase
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(66) RightToe_End
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(7) RightEye
+[2023.08.09-12.24.19:669][207]LogFbx: SortedLinks :(8) LeftEye
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(9) LeftShoulder
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(10) LeftArm
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(11) LeftForeArm
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(12) LeftHand
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(13) LeftHandMiddle1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(14) LeftHandMiddle2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(15) LeftHandMiddle3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(16) LeftHandMiddle4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(17) LeftHandThumb1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(18) LeftHandThumb2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(19) LeftHandThumb3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(20) LeftHandThumb4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(21) LeftHandIndex1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(22) LeftHandIndex2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(23) LeftHandIndex3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(24) LeftHandIndex4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(25) LeftHandRing1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(26) LeftHandRing2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(27) LeftHandRing3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(28) LeftHandRing4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(33) RightShoulder
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(34) RightArm
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(35) RightForeArm
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(36) RightHand
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(37) RightHandMiddle1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(38) RightHandMiddle2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(39) RightHandMiddle3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(40) RightHandMiddle4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(41) RightHandThumb1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(42) RightHandThumb2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(43) RightHandThumb3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(44) RightHandThumb4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(45) RightHandIndex1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(46) RightHandIndex2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(47) RightHandIndex3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(48) RightHandIndex4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(49) RightHandRing1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(50) RightHandRing2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(51) RightHandRing3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(52) RightHandRing4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(53) RightHandPinky1
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(54) RightHandPinky2
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(55) RightHandPinky3
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(56) RightHandPinky4
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(57) LeftUpLeg
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(58) LeftLeg
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(59) LeftFoot
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(60) LeftToeBase
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(61) LeftToe_End
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(62) RightUpLeg
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(63) RightLeg
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(64) RightFoot
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(65) RightToeBase
+[2023.08.09-12.24.19:670][207]LogFbx: SortedLinks :(66) RightToe_End
+[2023.08.09-12.24.19:670][207]LogFbx: Parsing AnimStack Take 001
+[2023.08.09-12.24.19:917][207]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/PNJ/MESH/REMY/Remy_Anim_Take_001.Remy_Anim_Take_001
+[2023.08.09-12.24.19:964][207]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.09-12.24.20:218][207]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/PNJ/MESH/REMY/Remy_Anim_mixamo_com.Remy_Anim_mixamo_com
+[2023.08.09-12.24.20:287][207]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Remy_Body_Diffuse' was renamed 'Remy_Body_Diffuse_ncl1_1' 
+[2023.08.09-12.24.20:287][207]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Remy_Body_Specular' was renamed 'Remy_Body_Specular_ncl1_1' 
+[2023.08.09-12.24.20:287][207]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Remy_Body_Gloss' was renamed 'Remy_Body_Gloss_ncl1_1' 
+[2023.08.09-12.24.20:287][207]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Remy_Body_Normal' was renamed 'Remy_Body_Normal_ncl1_1' 
+[2023.08.09-12.24.20:287][207]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.09-12.24.21:697][264]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.24.21:717][264]LogSlate: Window 'Message Log' being destroyed
