@@ -4610,3 +4610,1094 @@ UnknownFunction []
 [2023.08.09-12.36.18:536][100]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1508177618
 [2023.08.09-12.36.18:536][100]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1473192617
 [2023.08.09-12.36.18:536][100]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1545305622
+[2023.08.09-12.36.41:763][367]LogViewport: Scene viewport resized to 1560x455, mode Windowed.
+[2023.08.09-12.36.41:835][369]LogViewport: Scene viewport resized to 1560x709, mode Windowed.
+[2023.08.09-12.36.41:872][370]LogViewport: Scene viewport resized to 1560x782, mode Windowed.
+[2023.08.09-12.37.08:062][900]LogViewport: Scene viewport resized to 1560x751, mode Windowed.
+[2023.08.09-12.37.08:133][902]LogViewport: Scene viewport resized to 1560x687, mode Windowed.
+[2023.08.09-12.37.08:182][904]LogViewport: Scene viewport resized to 1560x629, mode Windowed.
+[2023.08.09-12.37.08:220][905]LogViewport: Scene viewport resized to 1560x599, mode Windowed.
+[2023.08.09-12.37.08:271][907]LogViewport: Scene viewport resized to 1560x577, mode Windowed.
+[2023.08.09-12.37.08:318][909]LogViewport: Scene viewport resized to 1560x562, mode Windowed.
+[2023.08.09-12.37.25:871][947]Cmd: EDIT COPY
+[2023.08.09-12.37.26:170][965]Cmd: EDIT PASTE
+[2023.08.09-12.37.26:199][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:203][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:210][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:214][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:220][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:224][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:231][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:235][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:241][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:246][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:252][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.26:256][965]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.37.57:743][837]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.08.09-12.37.57:752][837]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.37.57:763][837]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.37.57:763][837]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.37.57:763][837]LogWorldPartition: Display: GetPartitionedActors took 19 us (total: 425 us)
+[2023.08.09-12.37.57:766][837]LogWorldPartition: Display: GenerateStreaming took 2 ms (total: 55 ms)
+[2023.08.09-12.37.57:766][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.37.57:766][837]PIE: New page: SIE session: ThirdPersonMap (9 août 2023 à 16:37:57)
+[2023.08.09-12.37.57:766][837]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.37.57:807][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040677s)
+[2023.08.09-12.37.57:807][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040702s)
+[2023.08.09-12.37.57:807][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.37.57:807][837]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.37.57:808][837]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.37.57:808][837]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.37.57:808][837]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.37.57:818][837]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.37.57:818][837]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 1.96 sec)
+[2023.08.09-12.37.57:818][837]LogPlayLevel: PIE: World Init took: (0.011374s)
+[2023.08.09-12.37.57:828][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.09-12.37.57:831][837]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.37.57:831][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.37.57:831][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.37.57:832][837]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.37.57:832][837]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.37.57:832][837]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.37.57:833][837]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.37.57:841][837]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.37.57:841][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.37.57:841][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.37.57:841][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.37.57:842][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.08.09-12.37.57:842][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.08.09-12.37.57:843][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.08.09-12.37.57:843][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.08.09-12.37.57:843][837]LogInit: FAudioDevice initialized.
+[2023.08.09-12.37.57:843][837]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.37.57:846][837]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.37.57:893][837]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.37.57
+[2023.08.09-12.37.57:895][837]LogWorld: Bringing up level for play took: 0.049183
+[2023.08.09-12.37.57:897][837]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2023.08.09-12.37.57:897][837]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=124.000
+[2023.08.09-12.37.57:902][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.37.57:902][837]PIE: Server logged in
+[2023.08.09-12.37.57:902][837]PIE: Play in editor total start time 0,151 seconds.
+[2023.08.09-12.37.57:931][837]LogWorldPartition: New Streaming Source: SIE -> Position: X=2444.643 Y=-1641.112 Z=278.993
+[2023.08.09-12.38.01:677][ 33]LogEditorViewport: Clicking Background
+[2023.08.09-12.38.18:561][570]LogViewport: Scene viewport resized to 1560x852, mode Windowed.
+[2023.08.09-12.38.46:594][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.38.46:594][210]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.38.46:595][210]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.38.46:599][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.38.46:599][210]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.38.46:602][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.38.46:607][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.38.46:620][210]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.09-12.38.46:620][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.09-12.38.46:621][210]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.09-12.38.46:624][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.38.46:632][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.09-12.38.46:755][211]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.08.09-12.38.46:821][212]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.38.47:977][279]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.38.47:997][279]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.38.50:387][419]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.38.50:398][419]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.38.50:398][419]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.38.50:398][419]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 444 us)
+[2023.08.09-12.38.50:402][419]LogWorldPartition: Display: GenerateStreaming took 3 ms (total: 59 ms)
+[2023.08.09-12.38.50:402][419]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.38.50:402][419]PIE: New page: PIE session: ThirdPersonMap (9 août 2023 à 16:38:50)
+[2023.08.09-12.38.50:402][419]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.38.50:442][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040783s)
+[2023.08.09-12.38.50:442][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040808s)
+[2023.08.09-12.38.50:442][419]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.38.50:442][419]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.38.50:443][419]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.38.50:443][419]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.38.50:443][419]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.38.50:452][419]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.38.50:452][419]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 1.97 sec)
+[2023.08.09-12.38.50:453][419]LogPlayLevel: PIE: World Init took: (0.010916s)
+[2023.08.09-12.38.50:462][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.08.09-12.38.50:463][419]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.38.50:463][419]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.38.50:463][419]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.38.50:464][419]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.38.50:464][419]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.38.50:464][419]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.38.50:465][419]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.38.50:473][419]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.38.50:473][419]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.38.50:473][419]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.38.50:473][419]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.38.50:473][419]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.08.09-12.38.50:473][419]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.08.09-12.38.50:475][419]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.08.09-12.38.50:475][419]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.08.09-12.38.50:475][419]LogInit: FAudioDevice initialized.
+[2023.08.09-12.38.50:475][419]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.38.50:477][419]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.38.50:523][419]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.38.50
+[2023.08.09-12.38.50:525][419]LogWorld: Bringing up level for play took: 0.047731
+[2023.08.09-12.38.50:527][419]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2023.08.09-12.38.50:528][419]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=95.804
+[2023.08.09-12.38.50:533][419]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.38.50:533][419]PIE: Server logged in
+[2023.08.09-12.38.50:534][419]PIE: Play in editor total start time 0,147 seconds.
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:174][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:174][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:174][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:174][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:174][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.39.10:175][549]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.10:175][549]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.39.52:123][ 66]LogScript: Warning: Accessed None trying to read property CallFunc_Create_ReturnValue
+	BP_identifiants_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_identifiants_C_UAID_98EECBD0681D398601_1292397695
+	Function /Game/Blueprints/Ordinateur_mails/BP_identifiants.BP_identifiants_C:ExecuteUbergraph_BP_identifiants:020F
+[2023.08.09-12.39.52:123][ 66]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Create_ReturnValue". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Identifiants Blueprint:  BP_identifiants
+[2023.08.09-12.39.53:326][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.39.53:326][116]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.39.53:328][116]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.39.53:332][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.39.53:332][116]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.39.53:337][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.39.53:342][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.39.53:351][116]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.09-12.39.53:352][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.09-12.39.53:354][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.08.09-12.39.53:356][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.39.53:366][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.08.09-12.39.53:547][117]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.08.09-12.39.55:132][204]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.39.55:152][204]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.40.17:921][567]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.40.25:072][837]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.40.34:650][ 85]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.40.40:079][190]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.41.00:193][504]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.09-12.41.00:200][504]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.41.00:212][504]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.41.00:212][504]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.41.00:212][504]LogWorldPartition: Display: GetPartitionedActors took 21 us (total: 466 us)
+[2023.08.09-12.41.00:215][504]LogWorldPartition: Display: GenerateStreaming took 3 ms (total: 62 ms)
+[2023.08.09-12.41.00:215][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.41.00:215][504]PIE: New page: PIE session: ThirdPersonMap (9 août 2023 à 16:41:00)
+[2023.08.09-12.41.00:216][504]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.41.00:260][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043722s)
+[2023.08.09-12.41.00:260][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.043750s)
+[2023.08.09-12.41.00:260][504]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.41.00:261][504]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.41.00:262][504]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.41.00:262][504]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.41.00:262][504]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.41.00:272][504]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.41.00:272][504]LogWorldPartition: Display: WorldPartition initialize took 10 ms (total: 1.98 sec)
+[2023.08.09-12.41.00:272][504]LogPlayLevel: PIE: World Init took: (0.011999s)
+[2023.08.09-12.41.00:282][504]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.09-12.41.00:285][504]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.41.00:286][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.41.00:286][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.41.00:286][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.41.00:286][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.41.00:286][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.41.00:288][504]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.41.00:296][504]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.41.00:296][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.41.00:296][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.41.00:296][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.41.00:297][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.08.09-12.41.00:297][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.08.09-12.41.00:298][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.08.09-12.41.00:298][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.08.09-12.41.00:298][504]LogInit: FAudioDevice initialized.
+[2023.08.09-12.41.00:298][504]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.41.00:300][504]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.41.00:347][504]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.41.00
+[2023.08.09-12.41.00:349][504]LogWorld: Bringing up level for play took: 0.048638
+[2023.08.09-12.41.00:351][504]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2023.08.09-12.41.00:352][504]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=95.804
+[2023.08.09-12.41.00:357][504]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.00:357][504]PIE: Server logged in
+[2023.08.09-12.41.00:357][504]PIE: Play in editor total start time 0,156 seconds.
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.19:722][626]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.19:722][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:773][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.24:774][929]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.24:774][929]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:103][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:103][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.34:104][489]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.34:104][489]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:373][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:373][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:373][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:373][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:373][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.37:374][685]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.37:374][685]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:770][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:770][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:770][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:770][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:770][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.39:771][829]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.39:771][829]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:220][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:220][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:220][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:220][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_3' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_4' of length 0 in '/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap'!
+[2023.08.09-12.41.41:221][916]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C.ExecuteUbergraph_ThirdPersonMap
+
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_8". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_7". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.41:221][916]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_5". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.41.44:001][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.41.44:001][ 61]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.41.44:002][ 61]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.41.44:005][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.41.44:005][ 61]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.41.44:008][ 61]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.41.44:011][ 61]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.41.44:021][ 61]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.09-12.41.44:022][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.09-12.41.44:024][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.08.09-12.41.44:027][ 61]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.41.44:036][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.08.09-12.41.44:180][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.08.09-12.41.44:191][ 62]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.41.44:243][ 62]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.41.44:290][ 62]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.41.44:351][ 62]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.41.45:546][ 78]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.41.45:625][ 78]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.41.51:392][338]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.51:491][344]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.51:675][355]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.51:808][363]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.51:908][369]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.52:142][383]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.52:175][385]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.53:174][442]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.54:106][498]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.55:525][583]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.55:691][593]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.55:875][604]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.55:975][610]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.56:291][629]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.56:475][640]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.56:637][647]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.41.58:968][778]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.42.07:717][138]Cmd: EDIT COPY
+[2023.08.09-12.42.07:984][154]Cmd: EDIT PASTE
+[2023.08.09-12.42.08:066][155]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.08:776][197]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.09:278][212]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.09:333][216]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.09:675][238]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.09:792][245]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.10:358][279]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.10:557][288]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.12:181][385]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.13:504][458]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.13:604][464]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.14:129][492]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.16:403][632]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.16:553][641]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.17:444][691]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.20:627][880]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.20:727][882]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.20:829][884]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.21:013][887]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.21:823][931]LogViewport: Scene viewport resized to 492x269, mode Windowed.
+[2023.08.09-12.42.34:799][427]Cmd: DELETE
+[2023.08.09-12.42.34:799][427]Cmd: ACTOR DELETE
+[2023.08.09-12.42.34:805][427]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.09-12.42.34:815][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.08.09-12.42.34:818][427]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2023.08.09-12.42.34:827][428]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.42.39:954][733]LogViewport: Scene viewport resized to 1560x781, mode Windowed.
+[2023.08.09-12.42.40:022][735]LogViewport: Scene viewport resized to 1560x499, mode Windowed.
+[2023.08.09-12.42.40:085][737]LogViewport: Scene viewport resized to 1560x313, mode Windowed.
+[2023.08.09-12.42.40:138][739]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
+[2023.08.09-12.42.41:959][843]LogViewport: Scene viewport resized to 1036x268, mode Windowed.
+[2023.08.09-12.42.56:225][942]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
