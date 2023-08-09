@@ -2575,3 +2575,91 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.09-12.24.20:287][207]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
 [2023.08.09-12.24.21:697][264]LogSlate: Window 'Message Log' being destroyed
 [2023.08.09-12.24.21:717][264]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.24.39:884][388]LogViewport: Scene viewport resized to 1560x160, mode Windowed.
+[2023.08.09-12.24.46:816][788]LogViewport: Scene viewport resized to 1560x202, mode Windowed.
+[2023.08.09-12.24.46:896][790]LogViewport: Scene viewport resized to 1560x443, mode Windowed.
+[2023.08.09-12.24.46:944][792]LogViewport: Scene viewport resized to 1560x516, mode Windowed.
+[2023.08.09-12.24.46:992][794]LogViewport: Scene viewport resized to 1560x555, mode Windowed.
+[2023.08.09-12.24.47:046][796]LogViewport: Scene viewport resized to 1560x662, mode Windowed.
+[2023.08.09-12.24.47:095][798]LogViewport: Scene viewport resized to 1560x709, mode Windowed.
+[2023.08.09-12.24.47:149][800]LogViewport: Scene viewport resized to 1560x731, mode Windowed.
+[2023.08.09-12.24.47:449][819]LogViewport: Scene viewport resized to 1560x668, mode Windowed.
+[2023.08.09-12.24.47:519][821]LogViewport: Scene viewport resized to 1560x496, mode Windowed.
+[2023.08.09-12.24.47:558][822]LogViewport: Scene viewport resized to 1560x422, mode Windowed.
+[2023.08.09-12.24.47:612][824]LogViewport: Scene viewport resized to 1560x311, mode Windowed.
+[2023.08.09-12.24.47:654][826]LogViewport: Scene viewport resized to 1560x283, mode Windowed.
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Total job queries 930, among them cache hits 33 (3.55%)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Tracking 729 distinct input hashes that result in 169 distinct outputs (23.18%)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: RAM used: 5.41 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.33%
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Shaders Compiled: 210
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Jobs assigned 210, completed 210 (100.00%)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Average time worker was idle: 35.27 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Job execution time: average 4.45 s, max 6.51 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Job life time (pending + execution): average 4.50 s, max 6.60
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 37.66 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Jobs were issued in 72 batches (only local compilation was used), average 2.92 jobs/batch
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Average processing rate: 5.58 jobs/sec
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Total thread time: 268.68 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Total thread preprocess time: 16.54 s
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Percentage time preprocessing: 6.16%
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Effective parallelization: 7.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.54 sec, max 1.87 sec, min 0.91 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   14 times, average 1.49 sec, max 1.73 sec, min 1.31 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 1.46 sec, max 1.86 sec, min 1.00 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   14 times, average 1.43 sec, max 1.75 sec, min 1.04 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 1.41 sec, max 1.69 sec, min 1.20 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.78% of total time (compiled   14 times, average 1.49 sec, max 1.73 sec, min 1.31 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.59% of total time (compiled   14 times, average 1.46 sec, max 1.86 sec, min 1.00 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.47% of total time (compiled   14 times, average 1.43 sec, max 1.75 sec, min 1.04 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.35% of total time (compiled   14 times, average 1.41 sec, max 1.69 sec, min 1.20 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.18% of total time (compiled   15 times, average 1.29 sec, max 1.56 sec, min 0.90 sec)
+[2023.08.09-12.24.50:027][968]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.24.55:641][306]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Video/MediaPlayer_PUB.MediaPlayer_PUB
+[2023.08.09-12.24.55:784][306]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/MediaAssets.FileMediaSource
+[2023.08.09-12.24.56:998][375]LogMediaAssets: Error: Failed to validate media source Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver (file://D:/Données/Desktop/Cyberpunk Futuristic VR Headset Interface Background video  Footage  Screensaver.mp4)
+[2023.08.09-12.24.59:080][477]LogMediaAssets: Error: Failed to validate media source Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver (file://D:/Données/Desktop/Cyberpunk 3D Futuristic Brain Interface Background video  Footage  Screensaver.mp4)
+[2023.08.09-12.24.59:991][509]LogMediaAssets: Error: Failed to validate media source free_video_cyber_security_background (file://D:/Données/Desktop/free video cyber security background.mp4)
+[2023.08.09-12.25.01:292][565]LogContentBrowser: Attempting asset rename: free_video_cyber_security_background -> free_video_cyber_security_background
+[2023.08.09-12.25.01:457][577]LogMediaAssets: Error: Failed to validate media source free_video_cyber_security_background (file://D:/Données/Desktop/free video cyber security background.mp4)
+[2023.08.09-12.25.05:700][799]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.05:718][799]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.08:820][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.08.09-12.25.10:597][979]LogSlate: Window 'Delete Assets' being destroyed
+[2023.08.09-12.25.10:660][979]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver.Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver.Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver
+	Asset Type: FileMediaSource
+	Asset Name: /Game/Video/free_video_cyber_security_background.free_video_cyber_security_background
+	Asset Type: FileMediaSource
+[2023.08.09-12.25.10:836][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.09-12.25.10:846][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.08.09-12.25.10:854][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.08.09-12.25.12:231][ 51]LogViewport: Scene viewport resized to 1036x251, mode Windowed.
+[2023.08.09-12.25.22:282][196]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Video/MediaPlayer_PUB.MediaPlayer_PUB
+[2023.08.09-12.25.22:414][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/MediaAssets.FileMediaSource
+[2023.08.09-12.25.25:249][363]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.25:267][363]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.30:243][487]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_0
+[2023.08.09-12.25.34:227][487]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\Cyberpunk 3D Futuristic Brain Interface Background video  Footage  Screensaver.mp4)
+[2023.08.09-12.25.34:228][487]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_0
+[2023.08.09-12.25.39:004][487]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\Cyberpunk Futuristic VR Headset Interface Background video  Footage  Screensaver.mp4)
+[2023.08.09-12.25.39:005][487]LogAssetTools: Warning: Two factories registered with same priority : AvfFileMediaSourceFactory_0 and WmfFileMediaSourceFactory_0
+[2023.08.09-12.25.39:039][487]LogFactory: FactoryCreateFile: FileMediaSource with AvfFileMediaSourceFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\free video cyber security background.mp4)
+[2023.08.09-12.25.43:039][716]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver.Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.25.45:231][838]LogSlate: Window 'Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver' being destroyed
+[2023.08.09-12.25.45:249][838]LogSlate: Window 'Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver' being destroyed
+[2023.08.09-12.25.46:655][922]LogAssetEditorSubsystem: Opening Asset editor for MediaPlayer /Game/Video/MediaPlayer_PUB.MediaPlayer_PUB
+[2023.08.09-12.25.46:777][922]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/MediaAssets.FileMediaSource
+[2023.08.09-12.25.49:750][ 90]LogContentBrowser: Attempting asset rename: Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver -> Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.25.53:400][295]LogMediaAssets: Error: Failed to validate media source free_video_cyber_security_background (file://D:/Données/Desktop/free video cyber security background.mp4)
+[2023.08.09-12.25.56:242][437]LogMediaAssets: Error: Failed to validate media source free_video_cyber_security_background (file://D:/Données/Desktop/free video cyber security background.mp4)
+[2023.08.09-12.25.57:749][508]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.57:766][508]LogSlate: Window 'MediaPlayer_PUB' being destroyed
+[2023.08.09-12.25.59:680][594]LogViewport: Scene viewport resized to 1560x283, mode Windowed.
