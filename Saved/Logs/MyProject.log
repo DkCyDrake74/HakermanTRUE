@@ -6109,3 +6109,552 @@ UnknownFunction []
 [2023.08.09-12.46.11:432][987]LogViewport: Scene viewport resized to 1560x625, mode Windowed.
 [2023.08.09-12.46.11:489][989]LogViewport: Scene viewport resized to 1560x499, mode Windowed.
 [2023.08.09-12.46.11:543][991]LogViewport: Scene viewport resized to 1560x498, mode Windowed.
+[2023.08.09-12.46.51:702][434]LogViewport: Scene viewport resized to 1560x449, mode Windowed.
+[2023.08.09-12.46.51:765][436]LogViewport: Scene viewport resized to 1560x360, mode Windowed.
+[2023.08.09-12.46.51:816][438]LogViewport: Scene viewport resized to 1560x324, mode Windowed.
+[2023.08.09-12.46.51:866][440]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
+[2023.08.09-12.46.52:102][455]LogViewport: Scene viewport resized to 1560x325, mode Windowed.
+[2023.08.09-12.46.52:173][457]LogViewport: Scene viewport resized to 1560x434, mode Windowed.
+[2023.08.09-12.46.52:235][459]LogViewport: Scene viewport resized to 1560x447, mode Windowed.
+[2023.08.09-12.46.52:553][480]LogViewport: Scene viewport resized to 1560x459, mode Windowed.
+[2023.08.09-12.46.52:612][482]LogViewport: Scene viewport resized to 1560x473, mode Windowed.
+[2023.08.09-12.47.37:069][151]LogViewport: Scene viewport resized to 1560x513, mode Windowed.
+[2023.08.09-12.47.37:132][153]LogViewport: Scene viewport resized to 1560x592, mode Windowed.
+[2023.08.09-12.47.37:185][155]LogViewport: Scene viewport resized to 1560x615, mode Windowed.
+[2023.08.09-12.47.37:237][157]LogViewport: Scene viewport resized to 1560x630, mode Windowed.
+[2023.08.09-12.47.37:305][159]LogViewport: Scene viewport resized to 1560x642, mode Windowed.
+[2023.08.09-12.47.37:412][166]LogViewport: Scene viewport resized to 1560x653, mode Windowed.
+[2023.08.09-12.47.37:463][168]LogViewport: Scene viewport resized to 1560x684, mode Windowed.
+[2023.08.09-12.47.37:540][172]LogViewport: Scene viewport resized to 1560x690, mode Windowed.
+[2023.08.09-12.47.37:592][174]LogViewport: Scene viewport resized to 1560x697, mode Windowed.
+[2023.08.09-12.48.01:420][605]LogViewport: Scene viewport resized to 1560x671, mode Windowed.
+[2023.08.09-12.48.01:484][607]LogViewport: Scene viewport resized to 1560x580, mode Windowed.
+[2023.08.09-12.48.01:542][609]LogViewport: Scene viewport resized to 1560x553, mode Windowed.
+[2023.08.09-12.49.00:851][140]Cmd: EDIT COPY
+[2023.08.09-12.49.01:086][151]Cmd: EDIT PASTE
+[2023.08.09-12.49.01:155][152]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.03:830][294]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.03:910][296]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.06:977][453]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.08:134][509]Cmd: DELETE
+[2023.08.09-12.49.08:134][509]Cmd: ACTOR DELETE
+[2023.08.09-12.49.08:139][509]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.09-12.49.08:148][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.09-12.49.08:152][509]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.08.09-12.49.08:161][510]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.11:171][689]LogViewport: Scene viewport resized to 1560x559, mode Windowed.
+[2023.08.09-12.49.11:235][691]LogViewport: Scene viewport resized to 1560x558, mode Windowed.
+[2023.08.09-12.49.11:313][695]LogViewport: Scene viewport resized to 1560x557, mode Windowed.
+[2023.08.09-12.49.11:363][697]LogViewport: Scene viewport resized to 1560x558, mode Windowed.
+[2023.08.09-12.49.11:438][701]LogViewport: Scene viewport resized to 1560x557, mode Windowed.
+[2023.08.09-12.49.13:074][797]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.13:511][806]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.13:656][814]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.13:734][819]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.14:139][845]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.14:189][848]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.14:789][881]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.19:910][172]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.20:257][191]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.20:588][211]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.20:788][223]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.20:872][228]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.20:987][235]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.21:172][246]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.21:781][283]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.22:509][325]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.26:248][548]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.26:314][552]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.26:416][558]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.26:757][576]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.27:211][586]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.27:756][620]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.28:339][655]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.28:820][681]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.38:196][240]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.49.38:926][283]LogViewport: Scene viewport resized to 492x176, mode Windowed.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/LACFJEOCL0M4RFG0DQM0AL': Can't find file.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D9/P32G7U8RET090SYYV126S9': Can't find file.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0D/DRDKKGPJ60XUSQSWFIMEQ6': Can't find file.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5K/ZGZFXJT2BIGLE9F1P1GXOS': Can't find file.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EQ/SBC8NDAV0BM0GO8PGTB5MU': Can't find file.
+[2023.08.09-12.49.48:339][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NU/F0PZDXUMQCCJDGZ4XVUGO6': Can't find file.
+[2023.08.09-12.49.48:340][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CT/T3USXN6RXQJB4U5VO45UUX': Can't find file.
+[2023.08.09-12.49.48:340][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GF/SD761V8A4D39ASLTMQGFPN': Can't find file.
+[2023.08.09-12.49.48:345][697]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/LACFJEOCL0M4RFG0DQM0AL': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/82/LACFJEOCL0M4RFG0DQM0AL': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D9/P32G7U8RET090SYYV126S9': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D9/P32G7U8RET090SYYV126S9': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0D/DRDKKGPJ60XUSQSWFIMEQ6': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/0D/DRDKKGPJ60XUSQSWFIMEQ6': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5K/ZGZFXJT2BIGLE9F1P1GXOS': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5K/ZGZFXJT2BIGLE9F1P1GXOS': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EQ/SBC8NDAV0BM0GO8PGTB5MU': Can't find file.
+[2023.08.09-12.49.48:412][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/EQ/SBC8NDAV0BM0GO8PGTB5MU': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NU/F0PZDXUMQCCJDGZ4XVUGO6': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NU/F0PZDXUMQCCJDGZ4XVUGO6': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CT/T3USXN6RXQJB4U5VO45UUX': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/CT/T3USXN6RXQJB4U5VO45UUX': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GF/SD761V8A4D39ASLTMQGFPN': Can't find file.
+[2023.08.09-12.49.48:413][697]LogLinker: Warning: Failed to load '/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/GF/SD761V8A4D39ASLTMQGFPN': Can't find file.
+[2023.08.09-12.49.48:480][697]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FF8CAA7CC1D79D01_1076092806 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/VX/82141838BUWZ8PBQIES0RR.PackageMetaData in its package
+[2023.08.09-12.49.48:481][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.09-12.49.48:491][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.09-12.49.48:498][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.08.09-12.49.48:501][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8X/VIHAUW7OH2EIOHO4D9YAMP
+[2023.08.09-12.49.48:502][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/VIHAUW7OH2EIOHO4D9YAMP2D685638463DE0D5C4EEF595F1AC609E.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8X/VIHAUW7OH2EIOHO4D9YAMP.uasset'
+[2023.08.09-12.49.48:503][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YA/TLX9ACOMVV7RKH47X5T91F
+[2023.08.09-12.49.48:504][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/TLX9ACOMVV7RKH47X5T91F5BAC7928480C3B16A024BCA102BF24B5.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YA/TLX9ACOMVV7RKH47X5T91F.uasset'
+[2023.08.09-12.49.48:505][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0J/VJPUNK79PMA94I3PPAKHS9
+[2023.08.09-12.49.48:505][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/VJPUNK79PMA94I3PPAKHS9FE02D2BA4352D9313F110ABEFEB1E985.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0J/VJPUNK79PMA94I3PPAKHS9.uasset'
+[2023.08.09-12.49.48:507][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V2/SGWAHKH7BPTFCT52L4KB13
+[2023.08.09-12.49.48:507][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/SGWAHKH7BPTFCT52L4KB131F8C0A1C42F54058AF8E17BCF58771ED.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/V2/SGWAHKH7BPTFCT52L4KB13.uasset'
+[2023.08.09-12.49.48:508][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BV/A3UD8Z3HXWNI8M5K0B24PD
+[2023.08.09-12.49.48:509][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/A3UD8Z3HXWNI8M5K0B24PD6A93D8D84C41443F7DE0FF9A2F9B184D.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BV/A3UD8Z3HXWNI8M5K0B24PD.uasset'
+[2023.08.09-12.49.48:510][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GX/KU2CPRH98YS4HACLJOCSEK
+[2023.08.09-12.49.48:510][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/KU2CPRH98YS4HACLJOCSEK556E8ABF4887A3545561AFB7891BF321.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/GX/KU2CPRH98YS4HACLJOCSEK.uasset'
+[2023.08.09-12.49.48:512][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UI/GSMKBBBCSHHO5BI25QN1QC
+[2023.08.09-12.49.48:512][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/GSMKBBBCSHHO5BI25QN1QC00028BF94112656BDC71CB81A3ED4424.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UI/GSMKBBBCSHHO5BI25QN1QC.uasset'
+[2023.08.09-12.49.48:514][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LY/K37DLV4ASP0LP4AH95G56B
+[2023.08.09-12.49.48:514][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/K37DLV4ASP0LP4AH95G56BC050DDE84F31EEA269C656B86F375599.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/LY/K37DLV4ASP0LP4AH95G56B.uasset'
+[2023.08.09-12.49.48:515][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5U/9TNFMX2TSSAYI4IMEIF7CZ
+[2023.08.09-12.49.48:516][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/9TNFMX2TSSAYI4IMEIF7CZ24A46B3546884730D7D3EDB825F3881E.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5U/9TNFMX2TSSAYI4IMEIF7CZ.uasset'
+[2023.08.09-12.49.48:517][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OF/HH1CPYKNCVZ5FCCRXA8AUJ
+[2023.08.09-12.49.48:517][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/HH1CPYKNCVZ5FCCRXA8AUJ037DFAC64FFE55C5A5C4DC9FF8CB894D.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OF/HH1CPYKNCVZ5FCCRXA8AUJ.uasset'
+[2023.08.09-12.49.48:519][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z9/DXLKUJU5WS7NR3JZSBGVWP
+[2023.08.09-12.49.48:519][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/DXLKUJU5WS7NR3JZSBGVWP171C7108429964BF1C2128BD0D5C397B.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z9/DXLKUJU5WS7NR3JZSBGVWP.uasset'
+[2023.08.09-12.49.48:521][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SO/SMW027P7RM4U9309E0E7TP
+[2023.08.09-12.49.48:521][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/SMW027P7RM4U9309E0E7TPB68883F44431342769A4C1B775202DD1.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SO/SMW027P7RM4U9309E0E7TP.uasset'
+[2023.08.09-12.49.48:522][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/40/613T04PECNCM9L199MWU3K
+[2023.08.09-12.49.48:523][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/613T04PECNCM9L199MWU3K681E0A234C66B23C0F3FB9BD93F5AEF5.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/40/613T04PECNCM9L199MWU3K.uasset'
+[2023.08.09-12.49.48:525][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XV/709TYDH396TFZFPE0VB9WM
+[2023.08.09-12.49.48:525][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/709TYDH396TFZFPE0VB9WM59FA49B94E673B84F7869893A16D5702.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XV/709TYDH396TFZFPE0VB9WM.uasset'
+[2023.08.09-12.49.48:527][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z2/PSWF9C5N0KWGJKNF0NF0V5
+[2023.08.09-12.49.48:527][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/PSWF9C5N0KWGJKNF0NF0V5443A87124B831BDE6B149DB3DBBC82AC.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z2/PSWF9C5N0KWGJKNF0NF0V5.uasset'
+[2023.08.09-12.49.48:528][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AZ/V34RFCI6TQXCOYIPWBC7NR
+[2023.08.09-12.49.48:528][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/V34RFCI6TQXCOYIPWBC7NR1A7306CC44C8A8DF7324D2B7E88C9C68.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/AZ/V34RFCI6TQXCOYIPWBC7NR.uasset'
+[2023.08.09-12.49.48:530][697]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AH/S73LWYA868GHPFHRI783BS
+[2023.08.09-12.49.48:530][697]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/S73LWYA868GHPFHRI783BS84C8CCBF4ECB0EC80BE076BAEBE8D8E6.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/AH/S73LWYA868GHPFHRI783BS.uasset'
+[2023.08.09-12.49.48:544][697]LogFileHelpers: InternalPromptForCheckoutAndSave took 199 ms (total: 564 ms)
+[2023.08.09-12.49.48:547][697]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Game/Blueprints/Camera/Camera/Level1/Camera_Level_1/BP_Camera_1_1.BP_Camera_1_1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Camera_1_C_UAID_00FF8CAA7CC1689A01_1233231087
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Game/Blueprints/Camera/Camera/Level1/Camera_Level_1/BP_Camera_3_1.BP_Camera_3_1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Camera_3_C_UAID_00FF8CAA7CC1689A01_1433842089
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1AE09A30A8701_1249657501
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1AE09A3088701_1293923173
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FF8CAA7CC1D79D01_1384767807
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FF8CAA7CC1D69D01_2045408629
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763599628
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763599627
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763598626
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763597625
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763596624
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1763594623
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/Engine.PointLight /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.PointLight_UAID_047C1653135F9B8201_1331378725
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1316973616
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Game/Blueprints/Camera/Camera/Level1/Camera_Level_1/BP_Camera_2_1.BP_Camera_2_1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Camera_2_C_UAID_00FF8CAA7CC1689A01_1358292088
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Game/Blueprints/Camera/Camera/Level1/Camera_Level_1/BP_Camera_4_1.BP_Camera_4_1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Camera_4_C_UAID_00FF8CAA7CC1689A01_1498741090
+[2023.08.09-12.49.48:547][697]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D69D01_1473192617
+[2023.08.09-12.49.48:556][697]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1AE09A33D8701_1331675511 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HL/ZYBBE1AO61KYEBSEF4L6MI.PackageMetaData in its package
+[2023.08.09-12.49.48:556][697]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1AE09A3BE8701_2106974192 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/PJ/7XPKX9X25CPDHOY4MBREH7.PackageMetaData in its package
+[2023.08.09-12.49.48:557][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.09-12.49.48:588][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.08.09-12.49.49:971][747]LogViewport: Scene viewport resized to 1560x750, mode Windowed.
+[2023.08.09-12.49.50:039][748]LogViewport: Scene viewport resized to 492x237, mode Windowed.
+[2023.08.09-12.50.15:815][764]Cmd: EDIT COPY
+[2023.08.09-12.50.16:064][779]Cmd: EDIT PASTE
+[2023.08.09-12.50.16:095][779]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.16:099][779]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.16:106][779]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.16:110][779]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.19:182][959]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.50.19:192][959]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.50.19:192][959]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.50.19:192][959]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 487 us)
+[2023.08.09-12.50.19:194][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.19:194][959]LoadErrors: Error: /Game/Video/free_video_cyber_security_background : [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file. /Game/Video/free_video_cyber_security_background
+[2023.08.09-12.50.19:195][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.19:195][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.19:195][959]LoadErrors: Failed to load /Game/Video/free_video_cyber_security_background.free_video_cyber_security_background Referenced by MediaPlaylist0
+[2023.08.09-12.50.19:196][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:196][959]LoadErrors: Error: /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver : [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file. /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.50.19:197][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:197][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:197][959]LoadErrors: Failed to load /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver.Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver Referenced by MediaPlaylist0
+[2023.08.09-12.50.19:198][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:198][959]LoadErrors: Error: /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver : [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file. /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.50.19:198][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:199][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:200][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:200][959]LoadErrors: Error: /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver : [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file. /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.50.19:200][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:200][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:201][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:201][959]LoadErrors: Error: /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver : [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file. /Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver
+[2023.08.09-12.50.19:201][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:202][959]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.19:204][959]LogWorldPartition: Display: GenerateStreaming took 11 ms (total: 73 ms)
+[2023.08.09-12.50.19:204][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.50.19:204][959]PIE: New page: SIE session: ThirdPersonMap (9 août 2023 à 16:50:19)
+[2023.08.09-12.50.19:205][959]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.50.19:245][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039820s)
+[2023.08.09-12.50.19:245][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.039841s)
+[2023.08.09-12.50.19:245][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.50.19:245][959]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.50.19:246][959]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.50.19:246][959]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.50.19:246][959]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.50.19:255][959]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.50.19:255][959]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 1.99 sec)
+[2023.08.09-12.50.19:256][959]LogPlayLevel: PIE: World Init took: (0.011183s)
+[2023.08.09-12.50.19:264][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.08.09-12.50.19:267][959]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.50.19:267][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.50.19:267][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.50.19:267][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.50.19:267][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.50.19:267][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.50.19:269][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.50.19:277][959]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.50.19:277][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.50.19:277][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.50.19:277][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.50.19:278][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.08.09-12.50.19:278][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.08.09-12.50.19:279][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.08.09-12.50.19:279][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.08.09-12.50.19:279][959]LogInit: FAudioDevice initialized.
+[2023.08.09-12.50.19:279][959]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.50.19:281][959]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.50.19:328][959]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.50.19
+[2023.08.09-12.50.19:330][959]LogWorld: Bringing up level for play took: 0.048423
+[2023.08.09-12.50.19:332][959]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2023.08.09-12.50.19:332][959]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=124.000
+[2023.08.09-12.50.19:336][959]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.19:336][959]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.19:336][959]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.19:336][959]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.19:336][959]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.19:336][959]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.50.19:336][959]PIE: Server logged in
+[2023.08.09-12.50.19:337][959]PIE: Play in editor total start time 0,155 seconds.
+[2023.08.09-12.50.19:364][959]LogWorldPartition: New Streaming Source: SIE -> Position: X=802.397 Y=-1637.588 Z=345.565
+[2023.08.09-12.50.23:958][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.50.23:958][201]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.50.23:959][201]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.50.23:963][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.50.23:963][201]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.50.23:966][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.50.23:970][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.50.23:982][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.50.23:982][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.09-12.50.23:983][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.08.09-12.50.23:994][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.08.09-12.50.24:152][202]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2023.08.09-12.50.24:252][203]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.50.26:072][311]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.50.26:093][311]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.50.36:538][923]Cmd: TRANSACTION UNDO
+[2023.08.09-12.50.36:538][923]LogEditorTransaction: Undo Move Elements
+[2023.08.09-12.50.41:098][172]Cmd: TRANSACTION UNDO
+[2023.08.09-12.50.41:098][172]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.09-12.50.41:872][200]Cmd: TRANSACTION UNDO
+[2023.08.09-12.50.41:872][200]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.09-12.50.49:438][645]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.08.09-12.50.49:446][645]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.50.49:457][645]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.50.49:457][645]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.50.49:457][645]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 506 us)
+[2023.08.09-12.50.49:459][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.49:459][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.49:459][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.50.49:460][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:461][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:461][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:463][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:463][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:463][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:465][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:465][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:465][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:466][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:466][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:466][645]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.50.49:468][645]LogWorldPartition: Display: GenerateStreaming took 11 ms (total: 85 ms)
+[2023.08.09-12.50.49:469][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.50.49:469][645]PIE: New page: SIE session: ThirdPersonMap (9 août 2023 à 16:50:49)
+[2023.08.09-12.50.49:469][645]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.50.49:516][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046871s)
+[2023.08.09-12.50.49:516][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.046892s)
+[2023.08.09-12.50.49:516][645]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.50.49:516][645]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.50.49:517][645]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.50.49:517][645]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.50.49:517][645]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.50.49:527][645]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.50.49:527][645]LogWorldPartition: Display: WorldPartition initialize took 10 ms (total: 2.00 sec)
+[2023.08.09-12.50.49:528][645]LogPlayLevel: PIE: World Init took: (0.012058s)
+[2023.08.09-12.50.49:537][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.08.09-12.50.49:540][645]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.50.49:540][645]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.50.49:540][645]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.50.49:540][645]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.50.49:540][645]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.50.49:540][645]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.50.49:542][645]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.50.49:550][645]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.50.49:550][645]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.50.49:550][645]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.50.49:550][645]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.50.49:550][645]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.08.09-12.50.49:550][645]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.08.09-12.50.49:551][645]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.08.09-12.50.49:551][645]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.08.09-12.50.49:552][645]LogInit: FAudioDevice initialized.
+[2023.08.09-12.50.49:552][645]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.50.49:554][645]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.50.49:602][645]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.50.49
+[2023.08.09-12.50.49:604][645]LogWorld: Bringing up level for play took: 0.049341
+[2023.08.09-12.50.49:606][645]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2023.08.09-12.50.49:606][645]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=124.000
+[2023.08.09-12.50.49:609][645]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.49:609][645]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.49:609][645]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.49:609][645]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.49:609][645]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.50.49:610][645]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.50.49:610][645]PIE: Server logged in
+[2023.08.09-12.50.49:611][645]PIE: Play in editor total start time 0,165 seconds.
+[2023.08.09-12.50.49:639][645]LogWorldPartition: New Streaming Source: SIE -> Position: X=732.930 Y=-1109.078 Z=347.645
+[2023.08.09-12.50.52:153][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.50.52:153][768]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.50.52:154][768]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.50.52:157][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.50.52:157][768]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.50.52:162][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.50.52:165][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.50.52:177][768]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.09-12.50.52:177][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.09-12.50.52:179][768]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.08.09-12.50.52:181][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.50.52:190][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.08.09-12.50.52:341][769]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2023.08.09-12.50.56:455][ 13]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.50.56:476][ 13]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.50.58:655][138]Cmd: EDIT COPY
+[2023.08.09-12.50.58:895][147]Cmd: EDIT PASTE
+[2023.08.09-12.50.58:910][147]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.58:914][147]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.58:921][147]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.50.58:925][147]LogClass: Warning: Short type name "MediaPlateComponent0" provided for TryFindType. Please convert it to a path name (suggested: "None"). Callstack:
+
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+UnknownFunction []
+
+[2023.08.09-12.51.03:359][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.09-12.51.03:431][410]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OG/HS8R5GQG7DT661PG2H4LB3
+[2023.08.09-12.51.03:431][410]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/HS8R5GQG7DT661PG2H4LB35E454DC54732EF67524C7B88CFE580B7.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/OG/HS8R5GQG7DT661PG2H4LB3.uasset'
+[2023.08.09-12.51.03:433][410]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/J2/60P68RMBY9EGHZZBMGQSRR
+[2023.08.09-12.51.03:433][410]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/60P68RMBY9EGHZZBMGQSRR8EA3A3C54750E9883F1C3E9319448FAD.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/J2/60P68RMBY9EGHZZBMGQSRR.uasset'
+[2023.08.09-12.51.03:435][410]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MT/Z2UVCC40JK5Q8TBFUMLXUR
+[2023.08.09-12.51.03:435][410]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Z2UVCC40JK5Q8TBFUMLXUR142233CF41A37B86535734A364330F08.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/MT/Z2UVCC40JK5Q8TBFUMLXUR.uasset'
+[2023.08.09-12.51.03:436][410]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9J/X810OWALES2VHVOUWVIKWU
+[2023.08.09-12.51.03:436][410]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/X810OWALES2VHVOUWVIKWU927523DC426A683B903D7892C156FE72.tmp' to 'C:/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/9J/X810OWALES2VHVOUWVIKWU.uasset'
+[2023.08.09-12.51.03:457][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 663 ms)
+[2023.08.09-12.51.03:460][410]AssetCheck: New page: Asset Save: multiple assets
+[2023.08.09-12.51.03:460][410]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D79D01_1502578811
+[2023.08.09-12.51.03:460][410]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D79D01_1502576810
+[2023.08.09-12.51.03:460][410]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D79D01_1459748809
+[2023.08.09-12.51.03:460][410]LogContentValidation: Display: Validating /Script/MediaPlate.MediaPlate /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.MediaPlate_UAID_00FF8CAA7CC1D79D01_1459746808
+[2023.08.09-12.51.04:354][465]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.08.09-12.51.04:363][465]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.08.09-12.51.04:375][465]LogWorldPartition: Display: GenerateStreaming started...
+[2023.08.09-12.51.04:375][465]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.08.09-12.51.04:375][465]LogWorldPartition: Display: GetPartitionedActors took 20 us (total: 526 us)
+[2023.08.09-12.51.04:377][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.51.04:377][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.51.04:377][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\VD\XU3X4PP3HDUVCWM6BS3V04.uasset: Failed to load '/Game/Video/free_video_cyber_security_background': Can't find file.
+[2023.08.09-12.51.04:378][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:379][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:379][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\A\BX\90BDA530DUPZLB22TLL8Z2.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:380][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:380][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:381][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\0\OW\F5MYRH7U8HY818KYE1RXUC.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:382][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:382][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:382][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\1\34\78YKW2OUSNIYQ7PZXO1XP6.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:384][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:384][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:384][465]LogLinker: Warning: [AssetLog] C:\HakermanTRUE\Content\__ExternalActors__\ThirdPerson\Maps\ThirdPersonMap\C\WR\LUD5X71KM1CMAA5U7WH057.uasset: Failed to load '/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver': Can't find file.
+[2023.08.09-12.51.04:389][465]LogWorldPartition: Display: GenerateStreaming took 13 ms (total: 98 ms)
+[2023.08.09-12.51.04:389][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.09-12.51.04:389][465]PIE: New page: SIE session: ThirdPersonMap (9 août 2023 à 16:51:04)
+[2023.08.09-12.51.04:389][465]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.51.04:429][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040132s)
+[2023.08.09-12.51.04:429][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.040158s)
+[2023.08.09-12.51.04:429][465]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.51.04:430][465]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.08.09-12.51.04:431][465]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.08.09-12.51.04:431][465]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.08.09-12.51.04:431][465]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.08.09-12.51.04:440][465]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.08.09-12.51.04:440][465]LogWorldPartition: Display: WorldPartition initialize took 9 ms (total: 2.01 sec)
+[2023.08.09-12.51.04:440][465]LogPlayLevel: PIE: World Init took: (0.010971s)
+[2023.08.09-12.51.04:449][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.08.09-12.51.04:452][465]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.09-12.51.04:452][465]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.09-12.51.04:452][465]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.09-12.51.04:453][465]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.09-12.51.04:453][465]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.09-12.51.04:453][465]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.09-12.51.04:454][465]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.09-12.51.04:462][465]LogAudioMixer: Display: Using Audio Hardware Device Casque (Realtek USB2.0 Audio)
+[2023.08.09-12.51.04:462][465]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.09-12.51.04:462][465]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.09-12.51.04:462][465]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.09-12.51.04:462][465]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2023.08.09-12.51.04:462][465]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2023.08.09-12.51.04:464][465]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2023.08.09-12.51.04:464][465]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2023.08.09-12.51.04:464][465]LogInit: FAudioDevice initialized.
+[2023.08.09-12.51.04:464][465]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonMap'.
+[2023.08.09-12.51.04:467][465]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.08.09-12.51.04:512][465]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.08.09-14.51.04
+[2023.08.09-12.51.04:514][465]LogWorld: Bringing up level for play took: 0.047511
+[2023.08.09-12.51.04:516][465]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.08.09-12.51.04:516][465]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1171.000 Y=-2873.000 Z=124.000
+[2023.08.09-12.51.04:520][465]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.51.04:520][465]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.51.04:520][465]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.51.04:520][465]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.51.04:520][465]LogMediaPlate: Warning: Could not play anything.
+[2023.08.09-12.51.04:522][465]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.08.09-12.51.04:522][465]PIE: Server logged in
+[2023.08.09-12.51.04:523][465]PIE: Play in editor total start time 0,16 seconds.
+[2023.08.09-12.51.04:550][465]LogWorldPartition: New Streaming Source: SIE -> Position: X=644.515 Y=-463.069 Z=347.645
+[2023.08.09-12.51.04:874][477]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=27
+[2023.08.09-12.51.07:679][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.51.07:679][602]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.08.09-12.51.07:680][602]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.51.07:684][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.51.07:685][602]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.08.09-12.51.07:688][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.09-12.51.07:691][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.51.07:703][602]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.09-12.51.07:703][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.08.09-12.51.07:706][602]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2023.08.09-12.51.07:709][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.09-12.51.07:717][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.08.09-12.51.07:852][603]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.08.09-12.51.09:305][690]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.51.09:326][690]LogSlate: Window 'Message Log' being destroyed
