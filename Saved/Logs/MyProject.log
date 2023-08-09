@@ -5701,3 +5701,411 @@ UnknownFunction []
 [2023.08.09-12.42.40:138][739]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
 [2023.08.09-12.42.41:959][843]LogViewport: Scene viewport resized to 1036x268, mode Windowed.
 [2023.08.09-12.42.56:225][942]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
+[2023.08.09-12.43.17:059][466]LogViewport: Scene viewport resized to 1036x268, mode Windowed.
+[2023.08.09-12.43.22:838][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\rout/source/WifiRouter.fbx)
+[2023.08.09-12.43.22:843][547]LogFbx: Loading FBX Scene from D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\rout/source/WifiRouter.fbx
+[2023.08.09-12.43.22:846][547]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.09-12.43.24:175][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.09-12.43.24:302][547]LogFbx: Display: Triangulating static mesh Wifi_Router
+[2023.08.09-12.43.24:337][547]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.09-12.43.24:382][547]LogInterchangeEngine: [Pending] Importing
+[2023.08.09-12.43.24:382][547]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.09-12.43.24:382][547]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.09-12.43.24:382][547]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.08.09-12.43.24:382][547]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.08.09-12.43.24:445][548]LogInterchangeEngine: [Pending] Importing -  (5)
+[2023.08.09-12.43.24:482][549]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_Metallic.Wifi_mat_Metallic (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.24:527][549]LogInterchangeEngine: [Pending] Importing -  (4)
+[2023.08.09-12.43.24:529][549]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Total job queries 1043, among them cache hits 93 (8.92%)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Tracking 782 distinct input hashes that result in 190 distinct outputs (24.30%)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: RAM used: 5.71 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.35%
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Shaders Compiled: 214
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Jobs assigned 214, completed 214 (100.00%)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Average time worker was idle: 40.01 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Job execution time: average 4.38 s, max 6.51 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Job life time (pending + execution): average 4.43 s, max 6.60
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 39.24 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Jobs were issued in 76 batches (only local compilation was used), average 2.82 jobs/batch
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Average processing rate: 5.45 jobs/sec
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Total thread time: 270.47 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Total thread preprocess time: 16.67 s
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Percentage time preprocessing: 6.16%
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Effective parallelization: 6.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.54 sec, max 1.87 sec, min 0.91 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   14 times, average 1.49 sec, max 1.73 sec, min 1.31 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   14 times, average 1.46 sec, max 1.86 sec, min 1.00 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled   14 times, average 1.43 sec, max 1.75 sec, min 1.04 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   13 times, average 1.40 sec, max 1.85 sec, min 0.68 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.73% of total time (compiled   14 times, average 1.49 sec, max 1.73 sec, min 1.31 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 7.54% of total time (compiled   14 times, average 1.46 sec, max 1.86 sec, min 1.00 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.52% of total time (compiled   15 times, average 1.36 sec, max 1.69 sec, min 0.59 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.42% of total time (compiled   14 times, average 1.43 sec, max 1.75 sec, min 1.04 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.34% of total time (compiled   16 times, average 1.24 sec, max 1.56 sec, min 0.57 sec)
+[2023.08.09-12.43.24:531][549]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.43.24:532][549]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion.Wifi_mat_AmbientOcclusion (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.24:723][552]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_Roughness.Wifi_mat_Roughness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.24:735][552]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.09-12.43.24:743][553]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.08.09-12.43.24:743][553]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.24:766][553]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.24:771][553]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX.Wifi_mat_Normal_DirectX (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.24:774][553]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor.Wifi_mat_BaseColor (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.25:195][558]LogInterchangePipeline: Display: Auto-detected normal map
+[2023.08.09-12.43.25:204][558]LogTexture: Display: Building textures: /Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX.Wifi_mat_Normal_DirectX (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.25:741][573]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.43.25:760][573]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.43.37:850][159]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Model3D/Import/serv1/source/server_dalam_rak.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.08.09-12.43.37:850][159]LogInterchangeEngine: [Pending] Importing
+[2023.08.09-12.43.37:850][159]LogPackageName: Warning: TryConvertFilenameToLongPackageName was passed an ObjectPath (/Game/Model3D/Import/serv1/source/server_dalam_rak.fbm) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryConvertFilenameToLongPackageName will fail on ObjectPaths.
+[2023.08.09-12.43.37:850][159]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.08.09-12.43.37:868][159]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\serv1/source/server dalam rak.fbx)
+[2023.08.09-12.43.37:874][159]LogFbx: Loading FBX Scene from D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\serv1/source/server dalam rak.fbx
+[2023.08.09-12.43.37:878][159]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.09-12.43.37:927][159]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.43.37:964][159]LogTexture: Display: Building textures: /Game/Model3D/Import/serv1/source/server_dalam_rak/316.316 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.37:970][159]LogTexture: Display: Building textures: /Game/Model3D/Import/serv1/source/server_dalam_rak/320.320 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.37:974][159]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.08.09-12.43.37:974][159]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.39:093][159]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.09-12.43.39:182][159]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.43.39:191][159]LogTexture: Display: Building textures: /Game/Model3D/Import/serv1/source/316_2.316_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.39:208][159]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.43.39:208][159]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.43.39:235][159]LogTexture: Display: Building textures: /Game/Model3D/Import/serv1/source/320_2.320_2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.39:255][159]FBXImport: FBX File Loading: Found name clash, node 'root' was renamed to 'root1' 
+[2023.08.09-12.43.39:255][159]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.09-12.43.39:281][159]LogInterchangeEngine: [Pending] Importing
+[2023.08.09-12.43.39:311][160]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.39:327][160]LogInterchangeEngine: [Pending] Importing
+[2023.08.09-12.43.39:396][161]LogTexture: Display: Building textures: /Game/Model3D/Import/serv1/textures/316.316 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.43.39:397][161]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.39:494][162]LogInterchangeEngine: [Success] Import Done
+[2023.08.09-12.43.40:824][215]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.43.40:844][215]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.43.42:209][273]LogViewport: Scene viewport resized to 1560x302, mode Windowed.
+[2023.08.09-12.43.51:737][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak
+[2023.08.09-12.43.51:737][837]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak
+[2023.08.09-12.43.51:738][837]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_0
+[2023.08.09-12.43.52:411][879]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak
+[2023.08.09-12.43.52:411][879]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak
+[2023.08.09-12.43.52:413][879]LogActorFactory: Actor Factory spawned StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_00FF8CAA7CC1D79D01_1076092806
+[2023.08.09-12.43.52:447][880]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.43.54:438][  2]LogViewport: Scene viewport resized to 1560x330, mode Windowed.
+[2023.08.09-12.43.54:498][  4]LogViewport: Scene viewport resized to 1560x498, mode Windowed.
+[2023.08.09-12.43.54:548][  6]LogViewport: Scene viewport resized to 1560x667, mode Windowed.
+[2023.08.09-12.43.54:602][  8]LogViewport: Scene viewport resized to 1560x806, mode Windowed.
+[2023.08.09-12.43.54:657][ 10]LogViewport: Scene viewport resized to 1560x877, mode Windowed.
+[2023.08.09-12.43.54:711][ 12]LogViewport: Scene viewport resized to 1560x897, mode Windowed.
+[2023.08.09-12.43.57:831][200]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.00:948][387]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.05:161][613]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.05:261][615]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.08:567][813]Cmd: TRANSACTION UNDO
+[2023.08.09-12.44.08:567][813]LogEditorTransaction: Undo Clicking on Elements
+[2023.08.09-12.44.10:741][924]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.08.09-12.44.15:502][206]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.15:726][216]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.16:011][221]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.17:845][294]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.18:029][297]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.25:364][739]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.32:522][166]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.34:798][302]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.37:428][449]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.37:685][456]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.38:193][487]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.38:573][511]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.44.38:862][526]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.05:108][ 63]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.05:490][ 71]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.07:917][220]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.08:268][241]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.08:368][247]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.08:626][257]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.09:028][265]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.09:586][299]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.10:109][329]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.45.42:533][885]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.08.09-12.45.42:539][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8X/VIHAUW7OH2EIOHO4D9YAMP_Auto1
+[2023.08.09-12.45.42:539][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/VIHAUW7OH2EIOHO4D9YAMP_Auto1B3B8120F471955E3A4BF64AACF950F50.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/8X/VIHAUW7OH2EIOHO4D9YAMP_Auto1.uasset'
+[2023.08.09-12.45.42:542][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YA/TLX9ACOMVV7RKH47X5T91F_Auto1
+[2023.08.09-12.45.42:542][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/TLX9ACOMVV7RKH47X5T91F_Auto1C224E4FE4AF0B59E402320A0A528A5FC.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/YA/TLX9ACOMVV7RKH47X5T91F_Auto1.uasset'
+[2023.08.09-12.45.42:544][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0J/VJPUNK79PMA94I3PPAKHS9_Auto1
+[2023.08.09-12.45.42:544][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/VJPUNK79PMA94I3PPAKHS9_Auto127326BD64E6999E2D8FD4596E7039643.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/0J/VJPUNK79PMA94I3PPAKHS9_Auto1.uasset'
+[2023.08.09-12.45.42:546][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BV/A3UD8Z3HXWNI8M5K0B24PD_Auto1
+[2023.08.09-12.45.42:546][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/A3UD8Z3HXWNI8M5K0B24PD_Auto1587DB16740F2A2325F41779C640CA878.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/BV/A3UD8Z3HXWNI8M5K0B24PD_Auto1.uasset'
+[2023.08.09-12.45.42:548][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5U/9TNFMX2TSSAYI4IMEIF7CZ_Auto1
+[2023.08.09-12.45.42:548][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/9TNFMX2TSSAYI4IMEIF7CZ_Auto1769946AF4CED71021A9891B337E4BAA8.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/5U/9TNFMX2TSSAYI4IMEIF7CZ_Auto1.uasset'
+[2023.08.09-12.45.42:550][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SO/SMW027P7RM4U9309E0E7TP_Auto1
+[2023.08.09-12.45.42:550][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/SMW027P7RM4U9309E0E7TP_Auto1EB5A8D714B3AFE356996348348729E6A.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/SO/SMW027P7RM4U9309E0E7TP_Auto1.uasset'
+[2023.08.09-12.45.42:553][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/40/613T04PECNCM9L199MWU3K_Auto1
+[2023.08.09-12.45.42:553][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/613T04PECNCM9L199MWU3K_Auto15E37D13E436A29841B8A2CAD909E50B9.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/40/613T04PECNCM9L199MWU3K_Auto1.uasset'
+[2023.08.09-12.45.42:555][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XV/709TYDH396TFZFPE0VB9WM_Auto1
+[2023.08.09-12.45.42:555][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/709TYDH396TFZFPE0VB9WM_Auto16A1C6D304A5574E2A3FDE58B1E7854AB.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/XV/709TYDH396TFZFPE0VB9WM_Auto1.uasset'
+[2023.08.09-12.45.42:557][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z2/PSWF9C5N0KWGJKNF0NF0V5_Auto1
+[2023.08.09-12.45.42:557][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/PSWF9C5N0KWGJKNF0NF0V5_Auto18EDD3BAC4B81C13B289A94B83C301220.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/Z2/PSWF9C5N0KWGJKNF0NF0V5_Auto1.uasset'
+[2023.08.09-12.45.42:558][885]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.040
+[2023.08.09-12.45.42:558][885]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.08.09-12.45.42:559][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_2] ([2] browsable assets)...
+[2023.08.09-12.45.42:612][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_2.BP_AI_Narration_2]
+[2023.08.09-12.45.42:660][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_2.BP_AI_Narration_2_C]
+[2023.08.09-12.45.42:660][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_2]
+[2023.08.09-12.45.42:660][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_2" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:665][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_2_Auto1
+[2023.08.09-12.45.42:665][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_2_Auto1C03964E74FEDAD53387A0E898367C2C4.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_2_Auto1.uasset'
+[2023.08.09-12.45.42:665][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_3] ([2] browsable assets)...
+[2023.08.09-12.45.42:684][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_3.BP_AI_Narration_3]
+[2023.08.09-12.45.42:730][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_3.BP_AI_Narration_3_C]
+[2023.08.09-12.45.42:730][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_3]
+[2023.08.09-12.45.42:731][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_3" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:735][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_3_Auto1
+[2023.08.09-12.45.42:735][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_3_Auto19C9AB2444C61C98FE9D4439C53F32CBA.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_3_Auto1.uasset'
+[2023.08.09-12.45.42:736][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_4] ([2] browsable assets)...
+[2023.08.09-12.45.42:768][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_4.BP_AI_Narration_4]
+[2023.08.09-12.45.42:806][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_4.BP_AI_Narration_4_C]
+[2023.08.09-12.45.42:806][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_4]
+[2023.08.09-12.45.42:806][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_4" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:810][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_4_Auto1
+[2023.08.09-12.45.42:810][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_4_Auto183C72672401A5B3991DDE79DBD48F9CF.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_4_Auto1.uasset'
+[2023.08.09-12.45.42:811][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_5] ([2] browsable assets)...
+[2023.08.09-12.45.42:839][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_5.BP_AI_Narration_5]
+[2023.08.09-12.45.42:886][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_5.BP_AI_Narration_5_C]
+[2023.08.09-12.45.42:886][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_5]
+[2023.08.09-12.45.42:886][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_5" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_5_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:891][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_5_Auto1
+[2023.08.09-12.45.42:891][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_5_Auto1D5F4AFE545DA9721259AF08CCD9BDD25.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_5_Auto1.uasset'
+[2023.08.09-12.45.42:892][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_6] ([2] browsable assets)...
+[2023.08.09-12.45.42:912][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_6.BP_AI_Narration_6]
+[2023.08.09-12.45.42:945][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_6.BP_AI_Narration_6_C]
+[2023.08.09-12.45.42:945][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_6]
+[2023.08.09-12.45.42:946][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_6" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_6_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:950][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_6_Auto1
+[2023.08.09-12.45.42:950][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_6_Auto1E339997B4D1298C57647F7B8457F979C.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_6_Auto1.uasset'
+[2023.08.09-12.45.42:951][885]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AI/PNJ/BP_AI_Narration_7] ([2] browsable assets)...
+[2023.08.09-12.45.42:955][885]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AI/PNJ/BP_AI_Narration_7.BP_AI_Narration_7]
+[2023.08.09-12.45.42:971][885]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/AI/PNJ/BP_AI_Narration_7.BP_AI_Narration_7_C]
+[2023.08.09-12.45.42:971][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/BP_AI_Narration_7]
+[2023.08.09-12.45.42:971][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/BP_AI_Narration_7" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_7_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.42:976][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/BP_AI_Narration_7_Auto1
+[2023.08.09-12.45.42:976][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/BP_AI_Narration_7_Auto14B3A125A4D465B303E998E8F27A81A4F.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/BP_AI_Narration_7_Auto1.uasset'
+[2023.08.09-12.45.42:977][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/ADAM/Adam] ([1] browsable assets)...
+[2023.08.09-12.45.42:988][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/ADAM/Adam.Adam]
+[2023.08.09-12.45.42:988][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/ADAM/Adam]
+[2023.08.09-12.45.42:988][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/ADAM/Adam" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:056][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Auto1
+[2023.08.09-12.45.43:056][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Adam_Auto1E8B52654401C4ED1A86EA7B37769027A.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Auto1.uasset'
+[2023.08.09-12.45.43:057][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:063][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/ADAM/Adam_Skeleton.Adam_Skeleton]
+[2023.08.09-12.45.43:063][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton]
+[2023.08.09-12.45.43:063][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:065][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton_Auto1
+[2023.08.09-12.45.43:065][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Adam_Skeleton_Auto1B72AFC3E47EA6DB7AFFB84915445C574.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:066][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:070][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset.Adam_PhysicsAsset]
+[2023.08.09-12.45.43:070][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset]
+[2023.08.09-12.45.43:070][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:073][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:073][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Adam_PhysicsAsset_Auto186EF41954A64EF0A3C42F49DEEC3A043.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/ADAM/Adam_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:074][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRIAN/Brian] ([1] browsable assets)...
+[2023.08.09-12.45.43:093][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/BRIAN/Brian.Brian]
+[2023.08.09-12.45.43:093][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRIAN/Brian]
+[2023.08.09-12.45.43:093][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRIAN/Brian" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:139][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Auto1
+[2023.08.09-12.45.43:139][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Brian_Auto1AF5385D24BB58FB80884AC8B80A06067.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Auto1.uasset'
+[2023.08.09-12.45.43:140][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:146][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton.Brian_Skeleton]
+[2023.08.09-12.45.43:146][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton]
+[2023.08.09-12.45.43:147][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:148][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton_Auto1
+[2023.08.09-12.45.43:148][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Brian_Skeleton_Auto10C92014543C352DC56FBF485A5094903.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:149][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:154][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset.Brian_PhysicsAsset]
+[2023.08.09-12.45.43:154][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset]
+[2023.08.09-12.45.43:154][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:157][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:157][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Brian_PhysicsAsset_Auto1F9771381452F21BFAA1D17BBFF1A448D.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRIAN/Brian_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:158][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRYCE/Bryce] ([1] browsable assets)...
+[2023.08.09-12.45.43:163][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/BRYCE/Bryce.Bryce]
+[2023.08.09-12.45.43:163][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRYCE/Bryce]
+[2023.08.09-12.45.43:163][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRYCE/Bryce" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:212][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Auto1
+[2023.08.09-12.45.43:212][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Bryce_Auto1261BFFCC474FE661637900B4BBDFCEC4.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Auto1.uasset'
+[2023.08.09-12.45.43:213][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:227][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton.Bryce_Skeleton]
+[2023.08.09-12.45.43:227][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton]
+[2023.08.09-12.45.43:227][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:229][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton_Auto1
+[2023.08.09-12.45.43:229][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Bryce_Skeleton_Auto1606F5F6246A3789164082897B3662D0F.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:230][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:234][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset.Bryce_PhysicsAsset]
+[2023.08.09-12.45.43:234][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset]
+[2023.08.09-12.45.43:234][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:237][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:237][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Bryce_PhysicsAsset_Auto15830137C4E4EAA5DC1108A94EC206C4F.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BRYCE/Bryce_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:238][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/KATE/Kate] ([1] browsable assets)...
+[2023.08.09-12.45.43:245][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/KATE/Kate.Kate]
+[2023.08.09-12.45.43:245][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/KATE/Kate]
+[2023.08.09-12.45.43:245][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/KATE/Kate" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:302][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Auto1
+[2023.08.09-12.45.43:302][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Kate_Auto190EFD8794ABCF8B58D6C0E96480CB5B1.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Auto1.uasset'
+[2023.08.09-12.45.43:303][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/KATE/Kate_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:309][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/KATE/Kate_Skeleton.Kate_Skeleton]
+[2023.08.09-12.45.43:309][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/KATE/Kate_Skeleton]
+[2023.08.09-12.45.43:309][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/KATE/Kate_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:311][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Skeleton_Auto1
+[2023.08.09-12.45.43:311][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Kate_Skeleton_Auto1A71EE71A4152FE3300813BB39753AED5.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:312][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:316][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset.Kate_PhysicsAsset]
+[2023.08.09-12.45.43:316][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset]
+[2023.08.09-12.45.43:316][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:319][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:319][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Kate_PhysicsAsset_Auto138FC0AFD43AA9E30383783BAAB10DC58.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/KATE/Kate_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:320][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/LOUISE/Louise] ([1] browsable assets)...
+[2023.08.09-12.45.43:328][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/LOUISE/Louise.Louise]
+[2023.08.09-12.45.43:328][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/LOUISE/Louise]
+[2023.08.09-12.45.43:328][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/LOUISE/Louise" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:376][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Auto1
+[2023.08.09-12.45.43:376][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Louise_Auto1EB8190414B8F3991A2DCC38E22C9726F.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Auto1.uasset'
+[2023.08.09-12.45.43:377][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:383][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton.Louise_Skeleton]
+[2023.08.09-12.45.43:383][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton]
+[2023.08.09-12.45.43:383][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:384][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton_Auto1
+[2023.08.09-12.45.43:384][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Louise_Skeleton_Auto153E5D03043D9963E4461539CB9C9855E.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:385][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:390][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset.Louise_PhysicsAsset]
+[2023.08.09-12.45.43:390][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset]
+[2023.08.09-12.45.43:390][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:393][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:393][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Louise_PhysicsAsset_Auto1A75B271841178B46D7564499027FB23E.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/LOUISE/Louise_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:394][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/MEGAN/Megan] ([1] browsable assets)...
+[2023.08.09-12.45.43:399][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/MEGAN/Megan.Megan]
+[2023.08.09-12.45.43:399][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/MEGAN/Megan]
+[2023.08.09-12.45.43:399][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/MEGAN/Megan" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:457][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Auto1
+[2023.08.09-12.45.43:457][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Megan_Auto148595EA2418204E29B2F7FAAF19E00D6.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Auto1.uasset'
+[2023.08.09-12.45.43:458][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:464][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton.Megan_Skeleton]
+[2023.08.09-12.45.43:464][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton]
+[2023.08.09-12.45.43:464][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:465][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton_Auto1
+[2023.08.09-12.45.43:465][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Megan_Skeleton_Auto1206FCC324F5B3272AA4BD2824CFB2E53.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:466][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:471][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset.Megan_PhysicsAsset]
+[2023.08.09-12.45.43:471][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset]
+[2023.08.09-12.45.43:471][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:473][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:473][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Megan_PhysicsAsset_Auto181A7311F4F1BEF0D814E709B74B2A626.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/MEGAN/Megan_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:474][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/REMY/Remy] ([1] browsable assets)...
+[2023.08.09-12.45.43:479][885]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/AI/PNJ/MESH/REMY/Remy.Remy]
+[2023.08.09-12.45.43:479][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/REMY/Remy]
+[2023.08.09-12.45.43:479][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/REMY/Remy" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:517][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Auto1
+[2023.08.09-12.45.43:517][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Remy_Auto1276B4EAF429923F48CF9098E360E6966.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Auto1.uasset'
+[2023.08.09-12.45.43:518][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/REMY/Remy_Skeleton] ([1] browsable assets)...
+[2023.08.09-12.45.43:524][885]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/AI/PNJ/MESH/REMY/Remy_Skeleton.Remy_Skeleton]
+[2023.08.09-12.45.43:524][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/REMY/Remy_Skeleton]
+[2023.08.09-12.45.43:524][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/REMY/Remy_Skeleton" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:526][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Skeleton_Auto1
+[2023.08.09-12.45.43:526][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Remy_Skeleton_Auto1349CDB3348834A227662A186EAE71CEC.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_Skeleton_Auto1.uasset'
+[2023.08.09-12.45.43:526][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset] ([1] browsable assets)...
+[2023.08.09-12.45.43:531][885]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset.Remy_PhysicsAsset]
+[2023.08.09-12.45.43:531][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset]
+[2023.08.09-12.45.43:531][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:535][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset_Auto1
+[2023.08.09-12.45.43:535][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Remy_PhysicsAsset_Auto127A774EB476CB0C6BD7E4F9391266AF9.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/REMY/Remy_PhysicsAsset_Auto1.uasset'
+[2023.08.09-12.45.43:536][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver] ([1] browsable assets)...
+[2023.08.09-12.45.43:536][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver]
+[2023.08.09-12.45.43:536][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver_Auto1
+[2023.08.09-12.45.43:536][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Cyberpunk_3D_Futuristic_Brain_In41F7EC5D45E77CDD93A15985986D21EB.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Video/Cyberpunk_3D_Futuristic_Brain_Interface_Background_video__Footage__Screensaver_Auto1.uasset'
+[2023.08.09-12.45.43:537][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver] ([1] browsable assets)...
+[2023.08.09-12.45.43:537][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver]
+[2023.08.09-12.45.43:537][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver_Auto1
+[2023.08.09-12.45.43:537][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Cyberpunk_Futuristic_VR_Headset_1F0302254E33B1F64B917E93F6E891BD.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Video/Cyberpunk_Futuristic_VR_Headset_Interface_Background_video__Footage__Screensaver_Auto1.uasset'
+[2023.08.09-12.45.43:538][885]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Video/free_video_cyber_security_background] ([1] browsable assets)...
+[2023.08.09-12.45.43:538][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Video/free_video_cyber_security_background]
+[2023.08.09-12.45.43:538][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Video/free_video_cyber_security_background_Auto1
+[2023.08.09-12.45.43:538][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/free_video_cyber_security_backgr33E5876C432DE4FC12354AA890BA9E61.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Video/free_video_cyber_security_background_Auto1.uasset'
+[2023.08.09-12.45.43:539][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/source/WifiRouter] ([1] browsable assets)...
+[2023.08.09-12.45.43:544][885]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model3D/Import/rout/source/WifiRouter.WifiRouter]
+[2023.08.09-12.45.43:544][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/source/WifiRouter]
+[2023.08.09-12.45.43:544][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model3D/Import/rout/source/WifiRouter" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/source/WifiRouter_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:548][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/source/WifiRouter_Auto1
+[2023.08.09-12.45.43:548][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/WifiRouter_Auto1D165CFF84F798315CDA99E90B4585752.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/source/WifiRouter_Auto1.uasset'
+[2023.08.09-12.45.43:549][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion] ([1] browsable assets)...
+[2023.08.09-12.45.43:550][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion.Wifi_mat_AmbientOcclusion]
+[2023.08.09-12.45.43:550][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion]
+[2023.08.09-12.45.43:559][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion_Auto1
+[2023.08.09-12.45.43:559][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Wifi_mat_AmbientOcclusion_Auto1713F52BE42865C4F2190D6A8291D7665.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_AmbientOcclusion_Auto1.uasset'
+[2023.08.09-12.45.43:560][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX] ([1] browsable assets)...
+[2023.08.09-12.45.43:561][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX.Wifi_mat_Normal_DirectX]
+[2023.08.09-12.45.43:561][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX]
+[2023.08.09-12.45.43:615][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX_Auto1
+[2023.08.09-12.45.43:615][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Wifi_mat_Normal_DirectX_Auto13FD8A9D0497B4A560F50FF8EF14C255B.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Normal_DirectX_Auto1.uasset'
+[2023.08.09-12.45.43:615][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor] ([1] browsable assets)...
+[2023.08.09-12.45.43:617][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor.Wifi_mat_BaseColor]
+[2023.08.09-12.45.43:617][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor]
+[2023.08.09-12.45.43:672][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor_Auto1
+[2023.08.09-12.45.43:672][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Wifi_mat_BaseColor_Auto1BE54F95A4F72E2FD023CAEB62C176842.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_BaseColor_Auto1.uasset'
+[2023.08.09-12.45.43:673][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/textures/Wifi_mat_Metallic] ([1] browsable assets)...
+[2023.08.09-12.45.43:675][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/rout/textures/Wifi_mat_Metallic.Wifi_mat_Metallic]
+[2023.08.09-12.45.43:675][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/textures/Wifi_mat_Metallic]
+[2023.08.09-12.45.43:683][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Metallic_Auto1
+[2023.08.09-12.45.43:683][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Wifi_mat_Metallic_Auto18F0A2B824AB7EA3C4C7185B80E29680B.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Metallic_Auto1.uasset'
+[2023.08.09-12.45.43:684][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/rout/textures/Wifi_mat_Roughness] ([1] browsable assets)...
+[2023.08.09-12.45.43:686][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/rout/textures/Wifi_mat_Roughness.Wifi_mat_Roughness]
+[2023.08.09-12.45.43:686][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/rout/textures/Wifi_mat_Roughness]
+[2023.08.09-12.45.43:694][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Roughness_Auto1
+[2023.08.09-12.45.43:694][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/Wifi_mat_Roughness_Auto140BE896C4CD26B254888C19B4A2F4E39.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/rout/textures/Wifi_mat_Roughness_Auto1.uasset'
+[2023.08.09-12.45.43:695][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/serv1/source/server_dalam_rak] ([1] browsable assets)...
+[2023.08.09-12.45.43:700][885]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Model3D/Import/serv1/source/server_dalam_rak.server_dalam_rak]
+[2023.08.09-12.45.43:700][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/serv1/source/server_dalam_rak]
+[2023.08.09-12.45.43:702][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak_Auto1
+[2023.08.09-12.45.43:702][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/server_dalam_rak_Auto15F8BB2F14D41B7F197CA70BDCEA07295.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak_Auto1.uasset'
+[2023.08.09-12.45.43:703][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/serv1/source/server_dalam_rak/320] ([1] browsable assets)...
+[2023.08.09-12.45.43:704][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/serv1/source/server_dalam_rak/320.320]
+[2023.08.09-12.45.43:704][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/serv1/source/server_dalam_rak/320]
+[2023.08.09-12.45.43:712][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak/320_Auto1
+[2023.08.09-12.45.43:712][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/320_Auto139CE5A5449198491AFBDBA9EA436009D.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak/320_Auto1.uasset'
+[2023.08.09-12.45.43:713][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/serv1/source/server_dalam_rak/316] ([1] browsable assets)...
+[2023.08.09-12.45.43:714][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/serv1/source/server_dalam_rak/316.316]
+[2023.08.09-12.45.43:714][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/serv1/source/server_dalam_rak/316]
+[2023.08.09-12.45.43:722][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak/316_Auto1
+[2023.08.09-12.45.43:722][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/316_Auto1571A12F34E73B488D6C635B9A89D1152.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/serv1/source/server_dalam_rak/316_Auto1.uasset'
+[2023.08.09-12.45.43:723][885]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Model3D/Import/serv1/textures/316] ([1] browsable assets)...
+[2023.08.09-12.45.43:724][885]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Model3D/Import/serv1/textures/316.316]
+[2023.08.09-12.45.43:724][885]OBJ SavePackage: Finished generating thumbnails for package [/Game/Model3D/Import/serv1/textures/316]
+[2023.08.09-12.45.43:724][885]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Model3D/Import/serv1/textures/316" FILE="C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/serv1/textures/316_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.08.09-12.45.43:732][885]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Model3D/Import/serv1/textures/316_Auto1
+[2023.08.09-12.45.43:732][885]LogSavePackage: Moving 'C:/HakermanTRUE/Saved/316_Auto180B4F2364EA0C66E0B571093024BFFCC.tmp' to 'C:/HakermanTRUE/Saved/Autosaves/Game/Model3D/Import/serv1/textures/316_Auto1.uasset'
+[2023.08.09-12.45.43:733][885]LogFileHelpers: Auto-saving content packages took 1.175
+[2023.08.09-12.45.59:851][383]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.00:376][407]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.00:578][411]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.01:440][458]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.01:867][484]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.02:108][496]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.04:211][605]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.04:284][608]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.04:523][622]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.04:710][631]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.07:042][757]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.07:192][760]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.07:544][767]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.09:733][887]Cmd: DELETE
+[2023.08.09-12.46.09:733][887]Cmd: ACTOR DELETE
+[2023.08.09-12.46.09:740][887]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.08.09-12.46.09:750][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.08.09-12.46.09:751][887]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.08.09-12.46.09:759][888]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.08.09-12.46.11:369][985]LogViewport: Scene viewport resized to 1560x836, mode Windowed.
+[2023.08.09-12.46.11:432][987]LogViewport: Scene viewport resized to 1560x625, mode Windowed.
+[2023.08.09-12.46.11:489][989]LogViewport: Scene viewport resized to 1560x499, mode Windowed.
+[2023.08.09-12.46.11:543][991]LogViewport: Scene viewport resized to 1560x498, mode Windowed.
