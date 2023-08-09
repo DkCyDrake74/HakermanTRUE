@@ -1337,3 +1337,404 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.09-12.20.20:403][163]LogSlate: Window 'Message Log' being destroyed
 [2023.08.09-12.20.21:026][199]LogSlate: Took 0.001389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
 [2023.08.09-12.20.24:466][391]LogViewport: Scene viewport resized to 1560x160, mode Windowed.
+[2023.08.09-12.20.37:650][474]LogViewport: Scene viewport resized to 1036x142, mode Windowed.
+[2023.08.09-12.20.53:060][742]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Brian.fbx)
+[2023.08.09-12.20.53:145][742]LogFbx: Loading FBX Scene from D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Brian.fbx
+[2023.08.09-12.20.53:295][742]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.09-12.20.54:616][742]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.09-12.20.54:655][742]LogFbx: Valid bind pose for Pose (skinCluster2) - Ch01_Body
+[2023.08.09-12.20.54:655][742]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch01_Body
+[2023.08.09-12.20.54:655][742]LogFbx: Valid bind pose for Pose (skinCluster4) - Ch01_Body
+[2023.08.09-12.20.54:655][742]LogFbx: Valid bind pose for Pose (skinCluster5) - Ch01_Body
+[2023.08.09-12.20.54:655][742]LogFbx: Valid bind pose for Pose (skinCluster6) - Ch01_Body
+[2023.08.09-12.20.54:657][742]LogMaterial: Display: Material /Game/AI/PNJ/MESH/BRIAN/Ch01_body.Ch01_body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.20.55:027][742]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.20.55:027][742]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.20.55:061][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Diffuse.Ch01_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.55:287][742]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.20.55:287][742]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.20.55:297][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Specular.Ch01_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.55:427][742]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.20.55:436][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Glossiness.Ch01_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.55:887][742]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.20.55:922][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Normal.Ch01_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.55:968][742]LogFbx: Triangulating skeletal mesh Ch01_Body
+[2023.08.09-12.20.56:239][742]LogFbx: Triangulating skeletal mesh Ch01_Shirt
+[2023.08.09-12.20.56:340][742]LogMaterial: Display: Material /Game/AI/PNJ/MESH/BRIAN/Ch01_hair.Ch01_hair needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.20.56:713][742]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.20.56:713][742]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.20.56:749][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Diffuse_ncl1_1.Ch01_1001_Diffuse_ncl1_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.57:230][742]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.20.57:264][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Normal_ncl1_1.Ch01_1001_Normal_ncl1_1 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.57:689][742]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.20.57:690][742]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.20.57:726][742]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRIAN/Ch01_1001_Diffuse_ncl1_1.Ch01_1001_Diffuse_ncl1_1 (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.20.57:773][742]LogFbx: Triangulating skeletal mesh Ch01_Eyelashes
+[2023.08.09-12.20.57:809][742]LogFbx: Triangulating skeletal mesh Ch01_Sneakers
+[2023.08.09-12.20.57:882][742]LogFbx: Triangulating skeletal mesh Ch01_Pants
+[2023.08.09-12.20.58:015][742]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2023.08.09-12.20.58:824][742]LogSkeletalMesh: Section 0: Material=0, 41986 triangles
+[2023.08.09-12.20.58:824][742]LogSkeletalMesh: Section 1: Material=1, 832 triangles
+[2023.08.09-12.20.58:912][742]LogSkeletalMesh: Building Skeletal Mesh Brian...
+[2023.08.09-12.20.58:935][742]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Brian) ...
+[2023.08.09-12.20.59:660][742]LogSkeletalMesh: Built Skeletal Mesh [0.75s] /Game/AI/PNJ/MESH/BRIAN/Brian.Brian
+[2023.08.09-12.20.59:822][742]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.20.59:831][742]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.20.59:831][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(32) RightArm
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(34) RightHand
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.20.59:853][742]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(32) RightArm
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(34) RightHand
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.09-12.20.59:854][742]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.09-12.20.59:854][742]LogFbx: Parsing AnimStack Take 001
+[2023.08.09-12.20.59:854][742]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.09-12.21.00:103][742]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/PNJ/MESH/BRIAN/Brian_Anim_mixamo_com.Brian_Anim_mixamo_com
+[2023.08.09-12.21.00:155][742]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch01_1001_Diffuse' was renamed 'Ch01_1001_Diffuse_ncl1_1' 
+[2023.08.09-12.21.00:155][742]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch01_1001_Normal' was renamed 'Ch01_1001_Normal_ncl1_1' 
+[2023.08.09-12.21.00:155][742]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.09-12.21.00:155][742]FBXImport: Error: Animation length 9,08 is not compatible with import frame-rate 30 fps (sub frame 0,4), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
+[2023.08.09-12.21.02:065][839]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.21.02:084][839]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.21.31:649][310]LogDerivedDataCache: C:/Users/Utilisateur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:10.091 and deleted 0 files with total size 0 MiB. Scanned 37504 files in 33636 folders with total size 2499 MiB.
+[2023.08.09-12.21.33:221][315]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.08.09-12.21.33:703][316]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.08.09-12.21.33:703][316]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.08.09-12.21.38:926][541]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Bryce.fbx)
+[2023.08.09-12.21.39:011][541]LogFbx: Loading FBX Scene from D:\Données\Desktop\PROJET PERSO (UTOPYK)\PRISM\MODELS\PNJ\Bryce.fbx
+[2023.08.09-12.21.39:123][541]LogFbx: FBX Scene Loaded Succesfully
+[2023.08.09-12.21.40:399][541]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster3) - Ch42_Sneakers
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster4) - Ch42_Sneakers
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster5) - Ch42_Sneakers
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster6) - Ch42_Sneakers
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster7) - Ch42_Sneakers
+[2023.08.09-12.21.40:430][541]LogFbx: Valid bind pose for Pose (skinCluster8) - Ch42_Sneakers
+[2023.08.09-12.21.40:432][541]LogMaterial: Display: Material /Game/AI/PNJ/MESH/BRYCE/Ch42_Body.Ch42_Body needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.21.40:797][541]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.21.40:834][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1001_Diffuse.Ch42_1001_Diffuse (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.41:017][541]LogEditorFactories: Display: Auto-detected grayscale, image changed to G8
+[2023.08.09-12.21.41:018][541]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.21.41:028][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1001_Specular.Ch42_1001_Specular (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.41:156][541]LogEditorFactories: Display: Image imported as : TSF G8
+[2023.08.09-12.21.41:167][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1001_Glossiness.Ch42_1001_Glossiness (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.41:614][541]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.21.41:650][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1001_Normal.Ch42_1001_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.41:703][541]LogFbx: Triangulating skeletal mesh Ch42_Sneakers
+[2023.08.09-12.21.41:800][541]LogFbx: Triangulating skeletal mesh Ch42_Body1
+[2023.08.09-12.21.42:038][541]LogFbx: Triangulating skeletal mesh Ch42_Shirt
+[2023.08.09-12.21.42:094][541]LogFbx: Triangulating skeletal mesh Ch42_Shorts
+[2023.08.09-12.21.42:159][541]LogMaterial: Display: Material /Game/AI/PNJ/MESH/BRYCE/Ch42_Hair.Ch42_Hair needed to have new flag set bUsedWithSkeletalMesh !
+[2023.08.09-12.21.42:286][541]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.21.42:286][541]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.21.42:309][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1002_Diffuse.Ch42_1002_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.42:721][541]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.21.42:756][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1001_Normal_ncl1_1.Ch42_1001_Normal_ncl1_1 (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.42:925][541]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.08.09-12.21.42:926][541]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2023.08.09-12.21.42:940][541]LogTexture: Display: Building textures: /Game/AI/PNJ/MESH/BRYCE/Ch42_1002_Diffuse.Ch42_1002_Diffuse (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.08.09-12.21.42:961][541]LogFbx: Triangulating skeletal mesh Ch42__Eyelashes
+[2023.08.09-12.21.42:979][541]LogFbx: Triangulating skeletal mesh Ch42_Hair1
+[2023.08.09-12.21.43:107][541]LogFbx: Bones digested - 65  Depth of hierarchy - 12
+[2023.08.09-12.21.43:904][541]LogSkeletalMesh: Section 0: Material=0, 38587 triangles
+[2023.08.09-12.21.43:904][541]LogSkeletalMesh: Section 1: Material=1, 11600 triangles
+[2023.08.09-12.21.43:991][541]LogSkeletalMesh: Building Skeletal Mesh Bryce...
+[2023.08.09-12.21.44:019][541]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (Bryce) ...
+[2023.08.09-12.21.44:704][541]LogSkeletalMesh: Built Skeletal Mesh [0.71s] /Game/AI/PNJ/MESH/BRYCE/Bryce.Bryce
+[2023.08.09-12.21.44:857][541]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.09-12.21.44:871][541]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.08.09-12.21.44:871][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(32) RightArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(34) RightHand
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(0) Hips
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(1) Spine
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(2) Spine1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(3) Spine2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(4) Neck
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(5) Head
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(8) LeftArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(10) LeftHand
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(31) RightShoulder
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(32) RightArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(33) RightForeArm
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(34) RightHand
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(56) LeftLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(57) LeftFoot
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(61) RightLeg
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(62) RightFoot
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(63) RightToeBase
+[2023.08.09-12.21.44:903][541]LogFbx: SortedLinks :(64) RightToe_End
+[2023.08.09-12.21.44:903][541]LogFbx: Parsing AnimStack Take 001
+[2023.08.09-12.21.44:903][541]LogFbx: Parsing AnimStack mixamo.com
+[2023.08.09-12.21.45:154][541]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/PNJ/MESH/BRYCE/Bryce_Anim_mixamo_com.Bryce_Anim_mixamo_com
+[2023.08.09-12.21.45:210][541]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Ch42_1001_Normal' was renamed 'Ch42_1001_Normal_ncl1_1' 
+[2023.08.09-12.21.45:210][541]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.08.09-12.21.45:210][541]FBXImport: Error: Animation length 9,08 is not compatible with import frame-rate 30 fps (sub frame 0,4), animation has to be frame-border aligned. Either re-export animation or enable snap to closest frame boundary import option. 
+[2023.08.09-12.21.45:858][557]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.21.45:858][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Total job queries 465, among them cache hits 30 (6.45%)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Tracking 351 distinct input hashes that result in 164 distinct outputs (46.72%)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: RAM used: 2.62 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Shaders Compiled: 60
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Jobs assigned 96, completed 60 (62.50%)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Average time worker was idle: 44.02 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.10 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Job execution time: average 4.37 s, max 5.29 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Job life time (pending + execution): average 4.43 s, max 5.38
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 15.46 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 3.43 jobs/batch
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Average processing rate: 3.88 jobs/sec
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Total thread time: 75.33 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Total thread preprocess time: 4.66 s
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Percentage time preprocessing: 6.19%
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Effective parallelization: 4.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 1.52 sec, max 1.68 sec, min 1.25 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    4 times, average 1.48 sec, max 1.66 sec, min 1.31 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    4 times, average 1.46 sec, max 1.55 sec, min 1.22 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    3 times, average 1.46 sec, max 1.54 sec, min 1.42 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    4 times, average 1.44 sec, max 1.58 sec, min 1.22 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 8.05% of total time (compiled    4 times, average 1.52 sec, max 1.68 sec, min 1.25 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy - 7.87% of total time (compiled    4 times, average 1.48 sec, max 1.66 sec, min 1.31 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 7.78% of total time (compiled    4 times, average 1.46 sec, max 1.55 sec, min 1.22 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 7.72% of total time (compiled    5 times, average 1.16 sec, max 1.38 sec, min 0.71 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 7.66% of total time (compiled    4 times, average 1.44 sec, max 1.58 sec, min 1.22 sec)
+[2023.08.09-12.21.45:859][557]LogShaderCompilers: Display: ================================================
+[2023.08.09-12.21.46:964][621]LogSlate: Window 'Message Log' being destroyed
+[2023.08.09-12.21.46:984][621]LogSlate: Window 'Message Log' being destroyed
