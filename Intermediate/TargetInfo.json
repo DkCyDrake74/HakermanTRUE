@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PRISM",
+			"Path": "D:\\Game\\HakermanTRUE\\HakermanTRUE\\Source\\PRISM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PRISMEditor",
+			"Path": "D:\\Game\\HakermanTRUE\\HakermanTRUE\\Source\\PRISMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
