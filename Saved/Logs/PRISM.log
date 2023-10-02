@@ -6972,3 +6972,567 @@ Script Stack (0 frames) :
 [2023.10.02-13.47.14:205][135]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_D8BBC1AE09A34E8801_1436652507
 [2023.10.02-13.47.14:205][135]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Ordinateurs/WD_Ordinateur.WD_Ordinateur
 [2023.10.02-13.47.14:205][135]LogContentValidation: Display: Validating /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_gardes_Level_2_C_UAID_98EECBD0681DD2AE01_2051146864
+[2023.10.02-13.49.27:913][597]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.02-13.49.27:926][597]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.02-13.49.27:950][598]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.02-13.49.30:372][671]LogContentBrowser: Attempting asset rename: NewFolder -> Camera
+[2023.10.02-13.49.30:372][671]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.02-13.49.37:892][823]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:\Users\axelr\Downloads\Camera move ahead .wav)
+[2023.10.02-13.49.37:911][823]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Camera_move_ahead_...
+[2023.10.02-13.49.37:928][823]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_: 262144
+[2023.10.02-13.49.37:928][823]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Camera_move_ahead_...
+[2023.10.02-13.49.37:946][823]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_: 262144
+[2023.10.02-13.49.47:387][ 30]LogDerivedDataCache: C:/Users/axelr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.165 and deleted 0 files with total size 0 MiB. Scanned 5063 files in 5043 folders with total size 303 MiB.
+[2023.10.02-13.50.09:491][604]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2023.10.02-13.50.09:500][604]LogContentBrowser: Creating deferred item: NewSoundCue
+[2023.10.02-13.50.09:521][605]LogContentBrowser: Renaming the item being created (Deferred Item: NewSoundCue).
+[2023.10.02-13.50.20:312][929]LogContentBrowser: Attempting asset rename: NewSoundCue -> Camera_Move_Cue
+[2023.10.02-13.50.20:313][929]LogContentBrowser: End creating deferred item NewSoundCue
+[2023.10.02-13.50.21:378][961]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue
+[2023.10.02-13.50.42:228][559]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.10.02-13.50.44:196][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-13.50.44:280][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Camera/Camera_Move_Cue" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_Move_Cue.uasset" SILENT=true
+[2023.10.02-13.50.44:281][617]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Camera/Camera_Move_Cue
+[2023.10.02-13.50.44:282][617]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_Move_CueB8D8E7DF44F872F6DFAF21906CB15527.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_Move_Cue.uasset'
+[2023.10.02-13.50.44:289][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.21 sec)
+[2023.10.02-13.50.44:297][617]AssetCheck: New page: Asset Save: Camera_Move_Cue
+[2023.10.02-13.50.44:297][617]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue
+[2023.10.02-13.51.11:103][399]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_AI_gardes_Level_1_C_UAID_98EECBD0681D7BAB01_1480965383 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/4Y/SRHKP8YPNQJSBUW3VRKT0F.PackageMetaData in its package
+[2023.10.02-13.51.11:116][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.10.02-13.51.11:119][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.089
+[2023.10.02-13.51.11:120][399]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SFX/Camera/Camera_move_ahead_] ([1] browsable assets)...
+[2023.10.02-13.51.11:122][399]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_]
+[2023.10.02-13.51.11:122][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Camera/Camera_move_ahead_]
+[2023.10.02-13.51.11:126][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/SFX/Camera/Camera_move_ahead__Auto3
+[2023.10.02-13.51.11:126][399]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_move_ahead__Auto312E4D87E4D24FDE8584B3FB09C5C787B.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/Sound/SFX/Camera/Camera_move_ahead__Auto3.uasset'
+[2023.10.02-13.51.11:127][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Camera/Camera_Move_Cue] ([1] browsable assets)...
+[2023.10.02-13.51.11:127][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Camera/Camera_Move_Cue]
+[2023.10.02-13.51.11:128][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/SFX/Camera/Camera_Move_Cue_Auto3
+[2023.10.02-13.51.11:128][399]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_Move_Cue_Auto3EC4C04E743A28C39445F458E488D3018.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/Sound/SFX/Camera/Camera_Move_Cue_Auto3.uasset'
+[2023.10.02-13.51.11:128][399]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.10.02-13.51.11:267][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.02-13.51.14:421][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.02-13.51.15:804][487]LogSlate: Window 'Delete Assets' being destroyed
+[2023.10.02-13.51.15:930][487]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_
+	Asset Type: SoundWave
+[2023.10.02-13.51.16:578][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.02-13.51.16:656][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.10.02-13.51.16:735][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.02-13.52.08:494][774]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/axelr/Downloads/Camera move ahead .wav)
+[2023.10.02-13.52.08:512][774]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Camera_move_ahead_...
+[2023.10.02-13.52.08:529][774]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_: 262144
+[2023.10.02-13.52.08:530][774]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Camera_move_ahead_...
+[2023.10.02-13.52.08:547][775]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_: 262144
+[2023.10.02-13.52.15:348][970]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_
+[2023.10.02-13.52.27:858][301]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.10.02-13.52.37:262][577]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue was zero and has changed. Consider manually Re-saving the asset
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: ================================================
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: Total job queries 352, among them cache hits 19 (5.40%)
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: Tracking 333 distinct input hashes that result in 280 distinct outputs (84.08%)
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: RAM used: 2.71 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.02-13.53.02:844][292]LogShaderCompilers: Display: ================================================
+[2023.10.02-13.53.05:860][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Camera/BP_CameraControl1.BP_CameraControl1
+[2023.10.02-13.53.05:860][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-13.53.27:534][959]BlueprintLog: New page: Compile BP_CameraControl1
+[2023.10.02-13.53.27:675][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.02-13.53.29:401][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-13.53.29:418][  4]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.02-13.53.29:434][  4]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.02-13.53.29:434][  4]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.02-13.53.29:434][  4]LogWorldPartition: Display: GetPartitionedActors took 41 us (total: 770 us)
+[2023.10.02-13.53.29:440][  4]LogWorldPartition: Display: GenerateStreaming took 6 ms (total: 96 ms)
+[2023.10.02-13.53.29:440][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-13.53.29:440][  4]PIE: New page: PIE session: ThirdPersonMap (2 oct. 2023 à 17:53:29)
+[2023.10.02-13.53.29:441][  4]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-13.53.29:520][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078929s)
+[2023.10.02-13.53.29:520][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.078959s)
+[2023.10.02-13.53.29:520][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-13.53.29:521][  4]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.02-13.53.29:522][  4]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.02-13.53.29:522][  4]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.02-13.53.29:522][  4]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.02-13.53.29:540][  4]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.02-13.53.29:540][  4]LogWorldPartition: Display: WorldPartition initialize took 19 ms (total: 4.36 sec)
+[2023.10.02-13.53.29:541][  4]LogPlayLevel: PIE: World Init took: (0.021528s)
+[2023.10.02-13.53.29:624][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.02-13.53.29:625][  4]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-13.53.29:625][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.02-13.53.29:625][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-13.53.29:626][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-13.53.29:626][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-13.53.29:626][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-13.53.29:628][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-13.53.29:652][  4]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.02-13.53.29:653][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-13.53.29:653][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-13.53.29:653][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-13.53.29:653][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.10.02-13.53.29:653][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.10.02-13.53.29:655][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.10.02-13.53.29:655][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.10.02-13.53.29:655][  4]LogInit: FAudioDevice initialized.
+[2023.10.02-13.53.29:655][  4]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2023.10.02-13.53.29:660][  4]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.02-13.53.29:748][  4]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.02-15.53.29
+[2023.10.02-13.53.29:751][  4]LogWorld: Bringing up level for play took: 0.091589
+[2023.10.02-13.53.29:754][  4]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.10.02-13.53.29:755][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.02-13.53.29:756][  4]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.02-13.53.29:764][  4]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-13.53.29:764][  4]PIE: Server logged in
+[2023.10.02-13.53.29:764][  4]PIE: Play in editor total start time 0,347 seconds.
+[2023.10.02-13.53.29:809][  4]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.30:349][  5]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.30:366][  6]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.30:716][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=19
+[2023.10.02-13.53.30:933][  7]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:022][  8]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:209][  9]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:297][ 10]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:326][ 11]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:366][ 12]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:398][ 13]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:486][ 14]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:513][ 15]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:571][ 16]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:633][ 17]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:670][ 18]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:704][ 19]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:744][ 20]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:792][ 21]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:835][ 22]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:877][ 23]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:928][ 24]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.31:968][ 25]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:006][ 26]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:041][ 27]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:088][ 28]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:127][ 29]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:174][ 30]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:228][ 31]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:270][ 32]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:328][ 33]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:364][ 34]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:410][ 35]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:463][ 36]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:507][ 37]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:600][ 39]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:642][ 39]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:686][ 40]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:737][ 41]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:768][ 42]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:802][ 43]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:848][ 44]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:892][ 45]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:946][ 46]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.32:991][ 47]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:039][ 48]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:091][ 49]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:138][ 50]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:188][ 51]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:234][ 52]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:288][ 53]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:329][ 54]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:375][ 55]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:411][ 56]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:459][ 57]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:526][ 58]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:555][ 59]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:597][ 60]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:647][ 61]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:683][ 62]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:734][ 63]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:785][ 65]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:818][ 65]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.33:862][ 66]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Camera_Move_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2023.10.02-13.53.34:831][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-13.53.34:831][ 66]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-13.53.34:832][ 66]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-13.53.34:838][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-13.53.34:900][ 66]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.02-13.53.34:906][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-13.53.34:915][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-13.53.35:008][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-13.53.35:016][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.02-13.53.35:020][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.10.02-13.53.35:039][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.10.02-13.53.35:255][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.10.02-13.53.38:585][132]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-13.53.38:591][132]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-13.53.56:437][644]BlueprintLog: New page: Compile BP_CameraControl1
+[2023.10.02-13.53.56:582][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.10.02-13.53.58:545][695]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-13.53.58:545][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-13.56.07:112][217]LogHttp: Warning: 000005E699CDC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8D806189-411A-7FFF-9282-65BA201AEA74%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e59deb7748f2ad7266ab8e8d64e01a11%7C62eb6f0e8e394aa68127d178cceb967b%7C4f99d4cb-c641-4b86-93a2-eeb159e3e72b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 0 (Found bundle for host: 0x5e594170330 [serially])
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 1 (Re-using existing connection #2 with host datarouter.ol.epicgames.com)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.208.248.194) port 443 (#2))
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: 000005E699CDC800: libcurl info message cache 7 (Closing connection 2)
+[2023.10.02-13.56.07:113][217]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8D806189-411A-7FFF-9282-65BA201AEA74%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=e59deb7748f2ad7266ab8e8d64e01a11%7C62eb6f0e8e394aa68127d178cceb967b%7C4f99d4cb-c641-4b86-93a2-eeb159e3e72b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.10.02-14.01.15:966][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.02-14.01.15:972][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EH/SYIV4ABB1S5XR3BCAUYGH9_Auto4
+[2023.10.02-14.01.15:972][142]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/SYIV4ABB1S5XR3BCAUYGH9_Auto439705AFE48914BBE079658B00A00194F.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EH/SYIV4ABB1S5XR3BCAUYGH9_Auto4.uasset'
+[2023.10.02-14.01.15:973][142]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.097
+[2023.10.02-14.01.15:973][142]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.097
+[2023.10.02-14.01.15:973][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Sound/SFX/Camera/Camera_Move_Cue] ([1] browsable assets)...
+[2023.10.02-14.01.15:973][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Camera/Camera_Move_Cue]
+[2023.10.02-14.01.15:974][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/SFX/Camera/Camera_Move_Cue_Auto4
+[2023.10.02-14.01.15:974][142]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_Move_Cue_Auto495DA20DE4F2EB68092C6F8BE201505EC.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/Sound/SFX/Camera/Camera_Move_Cue_Auto4.uasset'
+[2023.10.02-14.01.15:975][142]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Camera/BP_CameraControl1] ([2] browsable assets)...
+[2023.10.02-14.01.15:975][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Camera/BP_CameraControl1]
+[2023.10.02-14.01.15:997][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Camera/BP_CameraControl1_Auto4
+[2023.10.02-14.01.15:997][142]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl1_Auto4CB04233C4452EBDE921E76BF34677AC1.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/Blueprints/Camera/BP_CameraControl1_Auto4.uasset'
+[2023.10.02-14.01.15:998][142]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/SFX/Camera/Camera_move_ahead_] ([1] browsable assets)...
+[2023.10.02-14.01.16:001][142]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_]
+[2023.10.02-14.01.16:001][142]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/SFX/Camera/Camera_move_ahead_]
+[2023.10.02-14.01.16:005][142]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Sound/SFX/Camera/Camera_move_ahead__Auto4
+[2023.10.02-14.01.16:005][142]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_move_ahead__Auto40522B3F04C1927BAF0174ABF51E8EA58.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/Sound/SFX/Camera/Camera_move_ahead__Auto4.uasset'
+[2023.10.02-14.01.16:006][142]LogFileHelpers: Auto-saving content packages took 0.033
+[2023.10.02-14.05.31:023][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-14.05.31:039][510]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.02-14.05.31:056][510]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.02-14.05.31:056][510]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.02-14.05.31:056][510]LogWorldPartition: Display: GetPartitionedActors took 38 us (total: 809 us)
+[2023.10.02-14.05.31:066][510]LogWorldPartition: Display: GenerateStreaming took 10 ms (total: 106 ms)
+[2023.10.02-14.05.31:066][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-14.05.31:066][510]PIE: New page: PIE session: ThirdPersonMap (2 oct. 2023 à 18:05:31)
+[2023.10.02-14.05.31:066][510]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.05.31:151][510]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084279s)
+[2023.10.02-14.05.31:151][510]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.084308s)
+[2023.10.02-14.05.31:151][510]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-14.05.31:152][510]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.02-14.05.31:153][510]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.02-14.05.31:153][510]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.02-14.05.31:153][510]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.02-14.05.31:172][510]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.02-14.05.31:172][510]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 4.38 sec)
+[2023.10.02-14.05.31:172][510]LogPlayLevel: PIE: World Init took: (0.021544s)
+[2023.10.02-14.05.31:249][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.02-14.05.31:251][510]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-14.05.31:252][510]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.02-14.05.31:252][510]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-14.05.31:252][510]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-14.05.31:252][510]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-14.05.31:252][510]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-14.05.31:254][510]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-14.05.31:276][510]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.02-14.05.31:276][510]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-14.05.31:276][510]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-14.05.31:276][510]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-14.05.31:278][510]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.10.02-14.05.31:278][510]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.10.02-14.05.31:279][510]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.10.02-14.05.31:279][510]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.10.02-14.05.31:279][510]LogInit: FAudioDevice initialized.
+[2023.10.02-14.05.31:279][510]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2023.10.02-14.05.31:283][510]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.02-14.05.31:379][510]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.02-16.05.31
+[2023.10.02-14.05.31:383][510]LogWorld: Bringing up level for play took: 0.099045
+[2023.10.02-14.05.31:385][510]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.10.02-14.05.31:386][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.02-14.05.31:387][510]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.02-14.05.31:394][510]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.05.31:394][510]PIE: Server logged in
+[2023.10.02-14.05.31:395][510]PIE: Play in editor total start time 0,357 seconds.
+[2023.10.02-14.05.32:306][515]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=20
+[2023.10.02-14.05.47:855][888]Cmd: ToggleDebugCamera
+[2023.10.02-14.05.47:945][888]LogWorldPartition: New Streaming Source: DebugCameraController_0 -> Position: X=640.000 Y=-202.046 Z=204.000
+[2023.10.02-14.05.58:046][117]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Third_Person_Character". Node:  Set UiIsActive Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.06.09:124][358]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsBP_Third_Person_Character". Node:  Set UiIsActive Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.06.10:645][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.06.10:645][370]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.06.10:646][370]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-14.06.10:651][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.06.10:652][370]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.02-14.06.10:657][370]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-14.06.10:667][370]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.06.10:773][370]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.02-14.06.10:773][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.02-14.06.10:775][370]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.10.02-14.06.10:780][370]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.06.10:799][370]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.10.02-14.06.10:970][371]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.10.02-14.06.11:909][386]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.06.11:954][386]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.06.17:982][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-14.06.17:999][472]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.02-14.06.18:016][472]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.02-14.06.18:016][472]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.02-14.06.18:016][472]LogWorldPartition: Display: GetPartitionedActors took 39 us (total: 848 us)
+[2023.10.02-14.06.18:026][472]LogWorldPartition: Display: GenerateStreaming took 10 ms (total: 116 ms)
+[2023.10.02-14.06.18:026][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-14.06.18:026][472]PIE: New page: PIE session: ThirdPersonMap (2 oct. 2023 à 18:06:18)
+[2023.10.02-14.06.18:027][472]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.06.18:111][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084189s)
+[2023.10.02-14.06.18:111][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.084219s)
+[2023.10.02-14.06.18:111][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-14.06.18:111][472]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.02-14.06.18:113][472]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.02-14.06.18:113][472]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.02-14.06.18:113][472]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.02-14.06.18:132][472]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.02-14.06.18:132][472]LogWorldPartition: Display: WorldPartition initialize took 19 ms (total: 4.40 sec)
+[2023.10.02-14.06.18:133][472]LogPlayLevel: PIE: World Init took: (0.021797s)
+[2023.10.02-14.06.18:210][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.10.02-14.06.18:212][472]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-14.06.18:212][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.02-14.06.18:212][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-14.06.18:213][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-14.06.18:213][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-14.06.18:213][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-14.06.18:215][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-14.06.18:238][472]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.02-14.06.18:239][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-14.06.18:239][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-14.06.18:239][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-14.06.18:239][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.10.02-14.06.18:239][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.10.02-14.06.18:241][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.10.02-14.06.18:241][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.10.02-14.06.18:241][472]LogInit: FAudioDevice initialized.
+[2023.10.02-14.06.18:241][472]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2023.10.02-14.06.18:244][472]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.02-14.06.18:338][472]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.02-16.06.18
+[2023.10.02-14.06.18:342][472]LogWorld: Bringing up level for play took: 0.097468
+[2023.10.02-14.06.18:344][472]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2023.10.02-14.06.18:345][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.02-14.06.18:346][472]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.02-14.06.18:352][472]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.06.18:353][472]PIE: Server logged in
+[2023.10.02-14.06.18:353][472]PIE: Play in editor total start time 0,355 seconds.
+[2023.10.02-14.06.21:829][512]Cmd: ToggleDebugCamera
+[2023.10.02-14.06.21:842][512]LogWorldPartition: New Streaming Source: DebugCameraController_0 -> Position: X=1031.484 Y=-2998.915 Z=226.712
+[2023.10.02-14.06.44:446][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.06.44:446][944]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.06.44:448][944]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-14.06.44:453][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.06.44:453][944]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.02-14.06.44:458][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-14.06.44:467][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.06.44:546][944]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.02-14.06.44:546][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.02-14.06.44:548][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.10.02-14.06.44:552][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.06.44:575][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2023.10.02-14.06.44:721][945]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2023.10.02-14.06.54:229][221]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.06.54:236][221]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.07.35:330][885]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.10.02-14.07.35:352][885]LogContentBrowser: Creating deferred item: NewFolder
+[2023.10.02-14.07.35:375][886]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.10.02-14.07.42:828][110]LogContentBrowser: Attempting asset rename: NewFolder -> Diversion
+[2023.10.02-14.07.42:828][110]LogContentBrowser: End creating deferred item NewFolder
+[2023.10.02-14.07.54:578][273]LogFactory: FactoryCreateFile: SoundWave with SoundFactory (0 0 C:/Users/axelr/Downloads/Diversion printer.wav)
+[2023.10.02-14.07.54:603][273]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Diversion_printer...
+[2023.10.02-14.07.54:628][273]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Diversion/Diversion_printer.Diversion_printer: 262144
+[2023.10.02-14.07.54:629][273]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Diversion_printer...
+[2023.10.02-14.07.54:657][274]LogAudio: Display: Chunk size for SoundWave /Game/Sound/SFX/Diversion/Diversion_printer.Diversion_printer: 262144
+[2023.10.02-14.08.31:762][365]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_1000_StreamCache_Ver5027_MEM_65536MaxChnkSize_00483224128 wave Diversion_printer...
+[2023.10.02-14.08.31:791][365]LogAudio: Display: Chunk size for SoundWave /Game/Blueprints/Diversion/Level1/Diversion_printer.Diversion_printer: 262144
+[2023.10.02-14.08.33:242][407]BlueprintLog: New page: Compile WD_Hack_Menu
+[2023.10.02-14.08.33:338][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.10.02-14.08.35:045][453]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-14.08.35:062][453]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.02-14.08.35:079][453]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.02-14.08.35:079][453]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.02-14.08.35:079][453]LogWorldPartition: Display: GetPartitionedActors took 39 us (total: 888 us)
+[2023.10.02-14.08.35:089][453]LogWorldPartition: Display: GenerateStreaming took 10 ms (total: 127 ms)
+[2023.10.02-14.08.35:089][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-14.08.35:089][453]PIE: New page: PIE session: ThirdPersonMap (2 oct. 2023 à 18:08:35)
+[2023.10.02-14.08.35:089][453]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.08.35:180][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090700s)
+[2023.10.02-14.08.35:180][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.090734s)
+[2023.10.02-14.08.35:180][453]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-14.08.35:181][453]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.02-14.08.35:183][453]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.02-14.08.35:183][453]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.02-14.08.35:183][453]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.02-14.08.35:204][453]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.02-14.08.35:204][453]LogWorldPartition: Display: WorldPartition initialize took 21 ms (total: 4.42 sec)
+[2023.10.02-14.08.35:206][453]LogPlayLevel: PIE: World Init took: (0.025544s)
+[2023.10.02-14.08.35:282][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.10.02-14.08.35:285][453]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-14.08.35:285][453]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.02-14.08.35:285][453]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-14.08.35:285][453]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-14.08.35:285][453]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-14.08.35:285][453]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-14.08.35:288][453]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-14.08.35:311][453]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.02-14.08.35:311][453]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-14.08.35:311][453]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-14.08.35:311][453]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-14.08.35:312][453]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.10.02-14.08.35:312][453]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.10.02-14.08.35:314][453]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.10.02-14.08.35:314][453]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.10.02-14.08.35:314][453]LogInit: FAudioDevice initialized.
+[2023.10.02-14.08.35:314][453]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonMap'.
+[2023.10.02-14.08.35:317][453]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.02-14.08.35:405][453]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.02-16.08.35
+[2023.10.02-14.08.35:408][453]LogWorld: Bringing up level for play took: 0.091168
+[2023.10.02-14.08.35:411][453]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2023.10.02-14.08.35:412][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.02-14.08.35:413][453]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.02-14.08.35:420][453]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.08.35:420][453]PIE: Server logged in
+[2023.10.02-14.08.35:421][453]PIE: Play in editor total start time 0,359 seconds.
+[2023.10.02-14.08.36:134][458]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=22
+[2023.10.02-14.08.44:080][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.08.44:080][607]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.08.44:081][607]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-14.08.44:087][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.08.44:088][607]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.02-14.08.44:094][607]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-14.08.44:105][607]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.08.44:191][607]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.02-14.08.44:192][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.02-14.08.44:194][607]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.10.02-14.08.44:199][607]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.08.44:214][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.10.02-14.08.44:403][608]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2023.10.02-14.08.45:431][615]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.08.45:462][615]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.08.47:453][627]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.02-14.08.47:468][627]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.02-14.08.47:485][627]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.02-14.08.47:485][627]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.02-14.08.47:485][627]LogWorldPartition: Display: GetPartitionedActors took 37 us (total: 925 us)
+[2023.10.02-14.08.47:495][627]LogWorldPartition: Display: GenerateStreaming took 9 ms (total: 136 ms)
+[2023.10.02-14.08.47:495][627]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.02-14.08.47:495][627]PIE: New page: PIE session: ThirdPersonMap (2 oct. 2023 à 18:08:47)
+[2023.10.02-14.08.47:495][627]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.08.47:572][627]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077070s)
+[2023.10.02-14.08.47:572][627]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.077097s)
+[2023.10.02-14.08.47:572][627]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.02-14.08.47:572][627]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.02-14.08.47:574][627]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.02-14.08.47:574][627]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.02-14.08.47:574][627]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.02-14.08.47:593][627]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.02-14.08.47:593][627]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 4.44 sec)
+[2023.10.02-14.08.47:594][627]LogPlayLevel: PIE: World Init took: (0.021066s)
+[2023.10.02-14.08.47:671][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.10.02-14.08.47:673][627]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2023.10.02-14.08.47:673][627]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.02-14.08.47:673][627]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.02-14.08.47:674][627]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.02-14.08.47:674][627]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.02-14.08.47:674][627]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.02-14.08.47:674][627]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.02-14.08.47:674][627]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.02-14.08.47:674][627]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.02-14.08.47:674][627]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.02-14.08.47:674][627]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.02-14.08.47:674][627]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.02-14.08.47:676][627]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.02-14.08.47:698][627]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.02-14.08.47:698][627]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.02-14.08.47:698][627]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.02-14.08.47:698][627]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.02-14.08.47:698][627]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2023.10.02-14.08.47:698][627]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2023.10.02-14.08.47:701][627]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2023.10.02-14.08.47:701][627]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2023.10.02-14.08.47:701][627]LogInit: FAudioDevice initialized.
+[2023.10.02-14.08.47:701][627]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonMap'.
+[2023.10.02-14.08.47:704][627]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.02-14.08.47:793][627]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.02-16.08.47
+[2023.10.02-14.08.47:796][627]LogWorld: Bringing up level for play took: 0.091904
+[2023.10.02-14.08.47:799][627]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2023.10.02-14.08.47:800][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.02-14.08.47:801][627]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.02-14.08.47:807][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.02-14.08.47:808][627]PIE: Server logged in
+[2023.10.02-14.08.47:809][627]PIE: Play in editor total start time 0,34 seconds.
+[2023.10.02-14.08.48:726][631]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=23
+[2023.10.02-14.08.51:276][666]Cmd: ToggleDebugCamera
+[2023.10.02-14.08.51:294][666]LogWorldPartition: New Streaming Source: DebugCameraController_0 -> Position: X=1031.484 Y=-2998.915 Z=226.712
+[2023.10.02-14.09.11:418][ 50]Set new viewmode: Wireframe
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: ================================================
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: Total job queries 364, among them cache hits 19 (5.22%)
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: Tracking 345 distinct input hashes that result in 289 distinct outputs (83.77%)
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: RAM used: 2.78 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.02-14.09.11:712][ 52]LogShaderCompilers: Display: ================================================
+[2023.10.02-14.09.13:578][ 55]Set new viewmode: Wireframe
+[2023.10.02-14.09.14:585][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.09.14:585][ 57]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.02-14.09.14:587][ 57]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.02-14.09.14:592][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.09.14:593][ 57]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.02-14.09.14:598][ 57]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.02-14.09.14:608][ 57]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.02-14.09.14:690][ 57]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.02-14.09.14:695][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.02-14.09.14:696][ 57]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2023.10.02-14.09.14:717][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.10.02-14.09.14:852][ 58]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2023.10.02-14.09.16:010][ 89]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.09.16:041][ 89]LogSlate: Window 'Message Log' being destroyed
+[2023.10.02-14.09.59:229][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.02-14.09.59:234][377]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-14.09.59:273][377]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EH/SYIV4ABB1S5XR3BCAUYGH9
+[2023.10.02-14.09.59:273][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/SYIV4ABB1S5XR3BCAUYGH9832CDE49467677ADEF6C4BBFCA63F464.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/EH/SYIV4ABB1S5XR3BCAUYGH9.uasset'
+[2023.10.02-14.09.59:275][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Menu" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Menu.uasset" SILENT=true
+[2023.10.02-14.09.59:291][377]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Menu
+[2023.10.02-14.09.59:292][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Hack_MenuCDA01B9947A315CB2EB771AB1FBB3726.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Menu.uasset'
+[2023.10.02-14.09.59:293][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Camera/Camera_Move_Cue" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_Move_Cue.uasset" SILENT=true
+[2023.10.02-14.09.59:293][377]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Camera/Camera_Move_Cue
+[2023.10.02-14.09.59:294][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_Move_CueEF57263E4E417C6A7033B5A68DF19AAA.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_Move_Cue.uasset'
+[2023.10.02-14.09.59:294][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Camera/BP_CameraControl1" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl1.uasset" SILENT=true
+[2023.10.02-14.09.59:322][377]LogSavePackage: Moving output files for package: /Game/Blueprints/Camera/BP_CameraControl1
+[2023.10.02-14.09.59:323][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_CameraControl1635FD16C476E98F1294C1FBA0493BD24.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Camera/BP_CameraControl1.uasset'
+[2023.10.02-14.09.59:323][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Camera/Camera_move_ahead_" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_move_ahead_.uasset" SILENT=true
+[2023.10.02-14.09.59:327][377]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Camera/Camera_move_ahead_
+[2023.10.02-14.09.59:327][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Camera_move_ahead_58A42CA94321D1D2F1916CAB9B90B11C.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Camera/Camera_move_ahead_.uasset'
+[2023.10.02-14.09.59:331][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/SFX/Diversion/Diversion_printer" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Diversion/Diversion_printer.uasset" SILENT=true
+[2023.10.02-14.09.59:336][377]LogSavePackage: Moving output files for package: /Game/Sound/SFX/Diversion/Diversion_printer
+[2023.10.02-14.09.59:336][377]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Diversion_printerC64C0F1640046E8B61E9998E4C2A8189.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Sound/SFX/Diversion/Diversion_printer.uasset'
+[2023.10.02-14.09.59:345][377]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.32 sec)
+[2023.10.02-14.09.59:358][377]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.02-14.09.59:358][377]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Menu.WD_Hack_Menu
+[2023.10.02-14.09.59:359][377]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Camera/BP_CameraControl1.BP_CameraControl1
+[2023.10.02-14.09.59:359][377]LogContentValidation: Display: Validating /Script/Engine.SoundCue /Game/Sound/SFX/Camera/Camera_Move_Cue.Camera_Move_Cue
+[2023.10.02-14.09.59:359][377]LogContentValidation: Display: Validating /Game/Blueprints/Camera/BP_CameraControl1.BP_CameraControl1_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_CameraControl_C_UAID_98EECBD0681D7F8201_1315839792
+[2023.10.02-14.09.59:359][377]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sound/SFX/Camera/Camera_move_ahead_.Camera_move_ahead_
+[2023.10.02-14.09.59:359][377]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/Sound/SFX/Diversion/Diversion_printer.Diversion_printer
