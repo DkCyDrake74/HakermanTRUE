@@ -2910,3 +2910,10 @@ LogInit: Object subsystem initialized
 [2023.10.04-09.37.22:408][391]LogPlayLevel: Display: Destroying online subsystem :Context_23
 [2023.10.04-09.37.25:762][488]LogSlate: Window 'Message Log' being destroyed
 [2023.10.04-09.37.25:766][488]LogSlate: Window 'Message Log' being destroyed
+[2023.10.04-09.42.46:535][ 89]LogSlate: Window 'BP_distributer' being destroyed
+[2023.10.04-09.42.46:540][ 89]LogSlate: Window 'BP_distributer' being destroyed
+[2023.10.04-09.42.46:553][ 89]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-09.42.46:553][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.04-09.42.46:645][ 89]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.10.04-09.42.46:645][ 89]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.04-09.42.46:645][ 89]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
