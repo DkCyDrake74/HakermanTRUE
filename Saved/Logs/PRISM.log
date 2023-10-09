@@ -1141,3 +1141,732 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.09-18.58.21:295][772]LogSlate: Window 'Content Browser' being destroyed
 [2023.10.09-18.58.21:957][792]LogSlate: Window 'Message Log' being destroyed
 [2023.10.09-18.58.21:963][792]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.12:582][327]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-18.59.14:433][327]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.10.09-18.59.14:464][327]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.10.09-18.59.14:470][327]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.10.09-18.59.14:517][328]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.10.09-18.59.21:409][532]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WD_DevKit
+[2023.10.09-18.59.21:512][532]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.10.09-18.59.22:358][558]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WD_DevKit.WD_DevKit
+[2023.10.09-18.59.22:358][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-18.59.22:364][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-18.59.22:468][558]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.10.09-18.59.23:815][558]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.09-18.59.23:815][558]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.09-18.59.24:441][558]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.09-18.59.24:465][558]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.10.09-18.59.56:326][496]BlueprintLog: New page: Compile WD_DevKit
+[2023.10.09-18.59.56:431][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.10.09-19.02.09:180][378]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.10.09-19.03.50:012][193]BlueprintLog: New page: Compile WD_DevKit
+[2023.10.09-19.03.50:068][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.10.09-19.05.14:320][174]BlueprintLog: New page: Compile WD_DevKit
+[2023.10.09-19.05.14:373][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.10.09-19.06.03:613][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.09-19.06.03:613][646]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.10.09-19.06.21:965][179]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap
+[2023.10.09-19.06.21:965][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.06.22:634][180]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: Total job queries 353, among them cache hits 28 (7.93%)
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: Tracking 325 distinct input hashes that result in 275 distinct outputs (84.62%)
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: RAM used: 2.63 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.16%
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.09-19.07.29:353][ 96]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.07.37:939][344]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.09-19.07.37:943][344]LogSlate: Window 'Project Settings' being destroyed
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.12:066][302]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.10.09-19.08.45:302][259]BlueprintLog: New page: Compile ThirdPersonMap
+[2023.10.09-19.08.45:505][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.10.09-19.08.51:050][420]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.09-19.08.51:067][420]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.09-19.08.51:067][420]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.09-19.08.51:067][420]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2023.10.09-19.08.51:072][420]LogWorldPartition: Display: GenerateStreaming took 4 ms
+[2023.10.09-19.08.51:072][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-19.08.51:072][420]PIE: New page: PIE session: ThirdPersonMap (9 oct. 2023 à 23:08:51)
+[2023.10.09-19.08.51:076][420]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.10.09-19.08.51:076][420]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.10.09-19.08.51:076][420]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.08.51:154][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078882s)
+[2023.10.09-19.08.51:154][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.078924s)
+[2023.10.09-19.08.51:154][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.08.51:155][420]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.09-19.08.51:156][420]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.09-19.08.51:156][420]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.09-19.08.51:156][420]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.09-19.08.51:176][420]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.09-19.08.51:176][420]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 2.43 sec)
+[2023.10.09-19.08.51:176][420]LogPlayLevel: PIE: World Init took: (0.021417s)
+[2023.10.09-19.08.51:237][420]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.10.09-19.08.51:241][420]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-19.08.51:241][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-19.08.51:241][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-19.08.51:242][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-19.08.51:242][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-19.08.51:242][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-19.08.51:244][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-19.08.51:269][420]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-19.08.51:269][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-19.08.51:269][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-19.08.51:269][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-19.08.51:270][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.10.09-19.08.51:270][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.10.09-19.08.51:272][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.10.09-19.08.51:272][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.10.09-19.08.51:272][420]LogInit: FAudioDevice initialized.
+[2023.10.09-19.08.51:272][420]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2023.10.09-19.08.51:275][420]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-19.08.51:366][420]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.09-21.08.51
+[2023.10.09-19.08.51:371][420]LogWorld: Bringing up level for play took: 0.095579
+[2023.10.09-19.08.51:373][420]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.10.09-19.08.51:394][420]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-19.08.51:394][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-19.08.51:395][420]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.09-19.08.51:409][420]LogScript: Warning: Accessed None trying to read property Media
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_0
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:0A9F
+[2023.10.09-19.08.51:409][420]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.09-19.08.51:409][420]PIE: Server logged in
+[2023.10.09-19.08.51:411][420]PIE: Play in editor total start time 0,362 seconds.
+[2023.10.09-19.08.53:518][423]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=2
+[2023.10.09-19.08.59:873][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.08.59:873][546]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.08.59:874][546]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.08.59:879][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.08.59:880][546]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.09-19.08.59:885][546]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-19.08.59:898][546]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.08.59:955][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.08.59:958][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.09-19.08.59:959][546]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.10.09-19.09.00:025][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.10.09-19.09.00:218][547]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.10.09-19.09.01:040][571]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.09.01:044][571]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.09.16:322][ 14]BlueprintLog: New page: Compile WD_DevKit
+[2023.10.09-19.09.16:435][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.10.09-19.09.18:528][ 73]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-19.09.18:545][ 73]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.09-19.09.18:562][ 73]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.09-19.09.18:562][ 73]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.09-19.09.18:562][ 73]LogWorldPartition: Display: GetPartitionedActors took 37 us (total: 92 us)
+[2023.10.09-19.09.18:567][ 73]LogWorldPartition: Display: GenerateStreaming took 4 ms (total: 9 ms)
+[2023.10.09-19.09.18:567][ 73]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-19.09.18:567][ 73]PIE: New page: PIE session: ThirdPersonMap (9 oct. 2023 à 23:09:18)
+[2023.10.09-19.09.18:567][ 73]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.09.18:652][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084645s)
+[2023.10.09-19.09.18:652][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.084674s)
+[2023.10.09-19.09.18:652][ 73]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.09.18:653][ 73]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.09-19.09.18:654][ 73]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.09-19.09.18:654][ 73]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.09-19.09.18:654][ 73]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.09-19.09.18:673][ 73]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.09-19.09.18:673][ 73]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 2.45 sec)
+[2023.10.09-19.09.18:674][ 73]LogPlayLevel: PIE: World Init took: (0.021545s)
+[2023.10.09-19.09.18:718][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.10.09-19.09.18:723][ 73]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-19.09.18:723][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-19.09.18:723][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-19.09.18:724][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-19.09.18:724][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-19.09.18:724][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-19.09.18:726][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.10.09-19.09.18:750][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.10.09-19.09.18:753][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.10.09-19.09.18:753][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.10.09-19.09.18:753][ 73]LogInit: FAudioDevice initialized.
+[2023.10.09-19.09.18:753][ 73]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2023.10.09-19.09.18:756][ 73]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-19.09.18:843][ 73]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.09-21.09.18
+[2023.10.09-19.09.18:848][ 73]LogWorld: Bringing up level for play took: 0.091200
+[2023.10.09-19.09.18:850][ 73]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.10.09-19.09.18:851][ 73]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-19.09.18:851][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-19.09.18:852][ 73]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.09-19.09.18:858][ 73]LogScript: Warning: Accessed None trying to read property Media
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_0
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:0A9F
+[2023.10.09-19.09.18:858][ 73]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.09-19.09.18:859][ 73]PIE: Server logged in
+[2023.10.09-19.09.18:859][ 73]PIE: Play in editor total start time 0,314 seconds.
+[2023.10.09-19.09.46:012][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.09.46:012][663]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.09.46:013][663]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.09.46:018][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.09.46:019][663]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.09-19.09.46:023][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-19.09.46:032][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.09.46:086][663]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-19.09.46:086][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.09-19.09.46:087][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.10.09-19.09.46:092][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.09.46:107][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.10.09-19.09.46:295][664]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.10.09-19.09.47:359][695]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.09.47:363][695]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.09.53:164][838]LogEditorTransaction: Undo Drag and Drop Widget
+[2023.10.09-19.09.57:860][953]BlueprintLog: New page: Compile WD_DevKit
+[2023.10.09-19.09.57:932][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2023.10.09-19.10.33:002][984]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.BP_Door_1_1
+[2023.10.09-19.10.33:002][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.10.33:689][984]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.10.09-19.10.40:131][175]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.10.40:131][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.10.41:917][224]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door_code.BP_Door_code
+[2023.10.09-19.10.41:917][224]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.10.50:374][458]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.10.50:374][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.10.58:981][710]LogContentBrowser: Attempting asset rename: BP_Door_1_1 -> BP_Door_Router
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.BP_Door_Router_C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.SKEL_BP_Door_Router_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.SKEL_BP_Door_Router_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.SKEL_BP_Door_Router_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.SKEL_BP_Door_Router_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.SKEL_BP_Door_Router_C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.10.59:982][710]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router.BP_Door_Router_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.PackageMetaData'
+[2023.10.09-19.11.00:077][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.11.00:123][710]LogSavePackage: Moving output files for package: /Game/Blueprints/Digicode_door/Level1/BP_Door_Router
+[2023.10.09-19.11.00:123][710]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Door_RouterAA70371A4EE37D81C1F5C789302D6435.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door_Router.uasset'
+[2023.10.09-19.11.00:125][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Digicode_door/Level1/BP_Door_1_1" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door_1_1.uasset" SILENT=true
+[2023.10.09-19.11.00:125][710]LogSavePackage: Moving output files for package: /Game/Blueprints/Digicode_door/Level1/BP_Door_1_1
+[2023.10.09-19.11.00:126][710]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Door_1_173CE272248C76B06037795AA5EFF199F.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door_1_1.uasset'
+[2023.10.09-19.11.00:133][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 193 ms)
+[2023.10.09-19.11.00:149][710]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.09-19.11.00:149][710]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door_Router.BP_Door_Router
+[2023.10.09-19.11.00:149][710]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.BP_Door_1_1
+[2023.10.09-19.11.00:149][710]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.Default__BP_Door_1_1_C
+[2023.10.09-19.11.00:149][710]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Blueprints/Digicode_door/Level1/BP_Door_1_1.BP_Door_1_1_C
+[2023.10.09-19.11.09:407][976]Cmd: DELETE
+[2023.10.09-19.11.09:418][976]Cmd: ACTOR DELETE
+[2023.10.09-19.11.09:623][976]LogEditorActor: Deleted Actor: BP_Door_Router_C
+[2023.10.09-19.11.09:689][976]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.10.09-19.11.09:691][976]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2023.10.09-19.11.09:704][977]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.12:414][ 55]LogContentBrowser: Deferred new asset file creation: BP_Door_Router1
+[2023.10.09-19.11.12:421][ 55]LogContentBrowser: Creating deferred item: BP_Door_Router1
+[2023.10.09-19.11.12:457][ 56]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Door_Router1).
+[2023.10.09-19.11.12:783][ 66]LogContentBrowser: Attempting asset rename: BP_Door_Router1 -> BP_Door_Router1
+[2023.10.09-19.11.12:876][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.10.09-19.11.12:891][ 66]LogContentBrowser: End creating deferred item BP_Door_Router1
+[2023.10.09-19.11.15:789][151]LogContentBrowser: Attempting asset rename: BP_Door_Router1 -> BP_Door_
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.SKEL_BP_Door__C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.BP_Door__C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.SKEL_BP_Door__C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.SKEL_BP_Door__C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.SKEL_BP_Door__C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.SKEL_BP_Door__C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:809][151]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door_.BP_Door__C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_Router1.PackageMetaData'
+[2023.10.09-19.11.15:816][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.11.15:898][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Digicode_door/Level1/BP_Door_" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door_.uasset" SILENT=true
+[2023.10.09-19.11.15:910][151]LogSavePackage: Moving output files for package: /Game/Blueprints/Digicode_door/Level1/BP_Door_
+[2023.10.09-19.11.15:910][151]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Door_EDC6C9954DF0D8B8BCFE0C8D7850470C.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door_.uasset'
+[2023.10.09-19.11.15:918][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 294 ms)
+[2023.10.09-19.11.15:991][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.10.09-19.11.16:047][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.10.09-19.11.16:106][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.09-19.11.16:116][151]AssetCheck: New page: Asset Save: BP_Door_
+[2023.10.09-19.11.16:116][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door_.BP_Door_
+[2023.10.09-19.11.18:071][208]LogContentBrowser: Attempting asset rename: BP_Door_ -> BP_Door
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.SKEL_BP_Door_C' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.SKEL_BP_Door_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.SKEL_BP_Door_C:BndEvt__BP_Door_Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.SKEL_BP_Door_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:092][208]LogMetaData: Removing '/Game/Blueprints/Digicode_door/Level1/BP_Door.SKEL_BP_Door_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Digicode_door/Level1/BP_Door_.PackageMetaData'
+[2023.10.09-19.11.18:101][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.11.18:146][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Digicode_door/Level1/BP_Door" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door.uasset" SILENT=true
+[2023.10.09-19.11.18:158][208]LogSavePackage: Moving output files for package: /Game/Blueprints/Digicode_door/Level1/BP_Door
+[2023.10.09-19.11.18:158][208]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Door53C2332A4535704B82FDAB9F3B45305F.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door.uasset'
+[2023.10.09-19.11.18:164][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 358 ms)
+[2023.10.09-19.11.18:290][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2023.10.09-19.11.18:345][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.10.09-19.11.18:398][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.10.09-19.11.18:409][208]AssetCheck: New page: Asset Save: BP_Door
+[2023.10.09-19.11.18:409][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door
+[2023.10.09-19.11.20:551][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.20:551][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.20:554][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_0
+[2023.10.09-19.11.20:557][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_0
+[2023.10.09-19.11.20:564][266]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.10.09-19.11.20:769][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.20:769][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.20:772][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_1
+[2023.10.09-19.11.20:775][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_1
+[2023.10.09-19.11.21:424][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.21:424][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C
+[2023.10.09-19.11.21:430][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_UAID_98EECBD0681D19B101_1177914471
+[2023.10.09-19.11.21:433][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door as actor: BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_UAID_98EECBD0681D19B101_1177914471
+[2023.10.09-19.11.21:470][290]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: Total job queries 398, among them cache hits 40 (10.05%)
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: Tracking 358 distinct input hashes that result in 298 distinct outputs (83.24%)
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: RAM used: 2.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.17%
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.09-19.11.22:302][312]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.09-19.11.22:303][312]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.09-19.11.22:303][312]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.09-19.11.22:303][312]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.11.23:996][355]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.24:149][359]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.24:280][363]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.24:480][369]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.24:714][376]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.24:847][380]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.25:047][386]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.25:114][388]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.25:213][391]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.25:612][403]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.26:361][424]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.28:523][486]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.28:694][488]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.29:293][504]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.29:726][517]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.30:855][549]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.38:734][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door
+[2023.10.09-19.11.38:735][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.11.44:353][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door_Router.BP_Door_Router
+[2023.10.09-19.11.44:354][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.11.55:556][225]BlueprintLog: New page: Compile BP_Door
+[2023.10.09-19.11.55:684][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.10.09-19.11.55:798][226]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.RecastNavMesh_UAID_047C1653135F838201-Default).
+[2023.10.09-19.11.57:832][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-19.11.57:851][287]LogContentBundle: [Container: ThirdPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.10.09-19.11.57:868][287]LogWorldPartition: Display: GenerateStreaming started...
+[2023.10.09-19.11.57:868][287]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.10.09-19.11.57:868][287]LogWorldPartition: Display: GetPartitionedActors took 41 us (total: 133 us)
+[2023.10.09-19.11.57:873][287]LogWorldPartition: Display: GenerateStreaming took 4 ms (total: 13 ms)
+[2023.10.09-19.11.57:873][287]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.09-19.11.57:873][287]LogPlayLevel: [PlayLevel] Compiling ThirdPersonMap before play...
+[2023.10.09-19.11.58:021][287]LogPlayLevel: [PlayLevel] Compiling WD_MG_Router before play...
+[2023.10.09-19.11.58:072][287]LogPlayLevel: [PlayLevel] Compiling WD_DevKit before play...
+[2023.10.09-19.11.58:209][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.10.09-19.11.58:210][287]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (3 blueprints)
+[2023.10.09-19.11.58:210][287]PIE: New page: PIE session: ThirdPersonMap (9 oct. 2023 à 23:11:58)
+[2023.10.09-19.11.58:210][287]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.11.58:288][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.078790s)
+[2023.10.09-19.11.58:288][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.078819s)
+[2023.10.09-19.11.58:288][287]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.11.58:289][287]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.10.09-19.11.58:290][287]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.10.09-19.11.58:290][287]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.10.09-19.11.58:290][287]LogWorldPartition: UWorldPartition::Initialize(Asset=ThirdPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.10.09-19.11.58:309][287]LogContentBundle: [Container: ThirdPersonMap] Creating new contrainer.
+[2023.10.09-19.11.58:309][287]LogWorldPartition: Display: WorldPartition initialize took 18 ms (total: 2.47 sec)
+[2023.10.09-19.11.58:309][287]LogPlayLevel: PIE: World Init took: (0.021368s)
+[2023.10.09-19.11.58:373][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.10.09-19.11.58:374][287]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-19.11.58:374][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-19.11.58:374][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-19.11.58:375][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-19.11.58:375][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-19.11.58:375][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-19.11.58:377][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-19.11.58:400][287]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-19.11.58:400][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-19.11.58:400][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-19.11.58:400][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-19.11.58:400][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.10.09-19.11.58:400][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.10.09-19.11.58:403][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.10.09-19.11.58:403][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.10.09-19.11.58:403][287]LogInit: FAudioDevice initialized.
+[2023.10.09-19.11.58:404][287]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonMap'.
+[2023.10.09-19.11.58:407][287]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-19.11.58:490][287]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 30) at 2023.10.09-21.11.58
+[2023.10.09-19.11.58:493][287]LogWorld: Bringing up level for play took: 0.086531
+[2023.10.09-19.11.58:496][287]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.10.09-19.11.58:496][287]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-19.11.58:496][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-19.11.58:497][287]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=1181.000 Y=-2987.000 Z=96.344
+[2023.10.09-19.11.58:504][287]LogScript: Warning: Accessed None trying to read property Media
+	ThirdPersonMap_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.ThirdPersonMap_C_1
+	Function /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap_C:ExecuteUbergraph_ThirdPersonMap:0A9F
+[2023.10.09-19.11.58:504][287]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Media". Node:  Open Source Graph:  EventGraph Function:  Execute Ubergraph Third Person Map Blueprint:  ThirdPersonMap
+[2023.10.09-19.11.58:504][287]PIE: Server logged in
+[2023.10.09-19.11.58:505][287]PIE: Play in editor total start time 0,654 seconds.
+[2023.10.09-19.12.00:104][295]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=4
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01D0
+[2023.10.09-19.12.45:050][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01F4
+[2023.10.09-19.12.45:050][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:0218
+[2023.10.09-19.12.45:050][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:050][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01D0
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01F4
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:0218
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs'!
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C.ExecuteUbergraph_BP_Ordinateurs
+
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01D0
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:01F4
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.12.45:051][337]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Ordinateurs_C_UAID_98EECBD0681D429E01_1765530623
+	Function /Game/Blueprints/Ordinateur_mails/BP_Ordinateurs.BP_Ordinateurs_C:ExecuteUbergraph_BP_Ordinateurs:0218
+[2023.10.09-19.12.45:051][337]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs Blueprint:  BP_Ordinateurs
+[2023.10.09-19.14.24:020][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.14.24:020][447]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.10.09-19.14.24:021][447]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.14.24:026][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.14.24:026][447]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.09-19.14.24:050][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-19.14.24:062][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.14.24:132][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.14.24:136][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.09-19.14.24:137][447]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.10.09-19.14.24:162][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.10.09-19.14.24:347][448]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.09-19.14.27:163][499]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.14.27:202][499]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.14.28:293][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.10.09-19.14.28:299][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.14.28:462][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.10.09-19.14.28:550][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.09-19.14.28:627][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.10.09-19.14.28:650][526]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM
+[2023.10.09-19.14.28:650][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.14.28:662][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM
+[2023.10.09-19.14.28:662][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/GBFZM53FX73W1ERTD24FRMF6C4AFF24370855FD00733B62FD13393.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM.uasset'
+[2023.10.09-19.14.28:663][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 13 ms (total: 371 ms)
+[2023.10.09-19.14.28:663][526]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM
+[2023.10.09-19.14.28:744][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.10.09-19.14.28:766][526]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/ThirdPersonMap
+[2023.10.09-19.14.28:766][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/ThirdPersonMap88009F104BC1B6EBE31A7F9B45B44B96.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/ThirdPersonMap.umap'
+[2023.10.09-19.14.28:803][526]LogFileHelpers: Saving map 'ThirdPersonMap' took 0.174
+[2023.10.09-19.14.28:805][526]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM
+[2023.10.09-19.14.28:806][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/GBFZM53FX73W1ERTD24FRM872B08C84EF5D472B69B6AAEB250C644.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/IM/GBFZM53FX73W1ERTD24FRM.uasset'
+[2023.10.09-19.14.28:810][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MiniJeux/router/Lvl1/WD_MG_Router" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/MiniJeux/router/Lvl1/WD_MG_Router.uasset" SILENT=true
+[2023.10.09-19.14.28:890][526]LogSavePackage: Moving output files for package: /Game/UI/MiniJeux/router/Lvl1/WD_MG_Router
+[2023.10.09-19.14.28:890][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_MG_Router137AE6324E0F10CE711E08B2AFD61B67.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/MiniJeux/router/Lvl1/WD_MG_Router.uasset'
+[2023.10.09-19.14.28:894][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WD_DevKit" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/UI/WD_DevKit.uasset" SILENT=true
+[2023.10.09-19.14.28:899][526]LogSavePackage: Moving output files for package: /Game/UI/WD_DevKit
+[2023.10.09-19.14.28:899][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_DevKitA2402BD0475C007A61B1E9BC87DB74F8.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/WD_DevKit.uasset'
+[2023.10.09-19.14.28:923][526]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Digicode_door/Level1/BP_Door" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door.uasset" SILENT=true
+[2023.10.09-19.14.28:936][526]LogSavePackage: Moving output files for package: /Game/Blueprints/Digicode_door/Level1/BP_Door
+[2023.10.09-19.14.28:937][526]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Door718B4428489F47CF85AA519ADB6D26F1.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/Blueprints/Digicode_door/Level1/BP_Door.uasset'
+[2023.10.09-19.14.28:955][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 655 ms (total: 1.02 sec)
+[2023.10.09-19.14.28:969][526]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.09-19.14.28:969][526]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap
+[2023.10.09-19.14.28:969][526]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MiniJeux/router/Lvl1/WD_MG_Router.WD_MG_Router
+[2023.10.09-19.14.28:970][526]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WD_DevKit.WD_DevKit
+[2023.10.09-19.14.28:971][526]LogContentValidation: Display: Validating /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door_C_UAID_98EECBD0681D19B101_1177914471
+[2023.10.09-19.14.28:971][526]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Digicode_door/Level1/BP_Door.BP_Door
+[2023.10.09-19.15.02:099][513]LogWorldPartition: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Door1_C_UAID_98EECBD0681D1CAF01_1575037888 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/R3/M6C3Q1XQULM5GRU3E28OA6.PackageMetaData in its package
+[2023.10.09-19.15.02:107][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.09-19.15.02:229][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.10.09-19.15.39:865][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.10.09-19.15.44:964][747]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.10.09-19.15.45:188][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Meshes\ConstructionEquipment\Mixed\SM_GrateRustySet02.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:189][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Materials\Chrome\MI_ChromeSet02.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:644][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Materials\Generic\M_GenericLabel.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:653][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Materials\Glass\MI_GlassSet05.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:654][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Materials\Plastic\MI_PlasticSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:654][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Materials\Wood\MI_WoodSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:655][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Concrete\MI_ConcreteSet01.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:656][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Plastic\MI_PlasticSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:656][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Wood\MI_WoodSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:657][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Textures\Wood\T_WoodSet01_Normal.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:660][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Materials\Bricks\MI_BricksSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:660][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Materials\Generic\M_GenericBricks.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:663][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Materials\Concrete\MI_ConcreteSet01.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:664][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Materials\Plastic\MI_PlasticSet06.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:681][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Meshes\Buildings\House\HouseSet10\SM_HouseSet10WindowsSlim.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:681][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Meshes\Buildings\House\HouseSet12\SM_HouseSet12FenceMedium.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:682][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Materials\Wood\MI_WoodSet15.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:682][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Textures\Wood\T_WoodSet02_Normal.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:683][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet04\Meshes\Buildings\House\HouseSet13\SM_HouseSet13DoorSafe.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:683][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Meshes\ConstructionEquipment\Pier\SM_PierSet01FenceClosing.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:684][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Chrome\MI_ChromeSet01.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:685][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Meshes\ConstructionEquipment\Pier\SM_PierSet01GroundWoodC.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:685][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Wood\MI_WoodSet07.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:686][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Textures\Wood\T_WoodSet02_Normal.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:687][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Meshes\ConstructionEquipment\Ventilator\SM_VentilatorSet01Box.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:687][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Chrome\MI_ChromeSet03.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:688][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Chrome\MI_ChromeSet07.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:688][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet06\Materials\Plastic\MI_PlasticSet02.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.45:701][747]LogLinker: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\LPGenericPropsSet10\Meshes\HouseEquipment\Table\SM_TableSet27.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2023.10.09-19.15.46:586][747]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/2.2
+[2023.10.09-19.15.46:587][747]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.10.09-19.15.46:587][747]LightingResults: New page: Lighting Build
+[2023.10.09-19.15.46:587][747]LoadErrors: New page: Loading map: 2.umap
+[2023.10.09-19.15.46:652][747]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.15.46:652][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.15.46:710][747]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.15.46:727][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.15.46:736][747]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.10.09-19.15.46:736][747]MapCheck: New page: Map Check
+[2023.10.09-19.15.46:736][747]LightingResults: New page: Lighting Build
+[2023.10.09-19.15.46:803][747]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-19.15.46:860][747]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: Total job queries 441, among them cache hits 44 (9.98%)
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: Tracking 397 distinct input hashes that result in 324 distinct outputs (81.61%)
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: RAM used: 3.09 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.19%
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.10.09-19.15.46:878][747]LogShaderCompilers: Display: ================================================
+[2023.10.09-19.15.46:904][747]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.15.46:907][747]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.15.46:985][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.10.09-19.15.47:051][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.09-19.15.47:181][747]LogAudio: Display: Audio Device (ID: 1) registered with world '2'.
+[2023.10.09-19.15.47:182][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.15.47:182][747]LogAIModule: Creating AISystem for world 2
+[2023.10.09-19.15.47:419][747]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.10.09-19.15.47:420][747]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-23.558 Y=9.381 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.10.09-19.15.47:565][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.10.09-19.15.47:597][747]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.10.09-19.15.47:599][747]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,057ms to complete.
+[2023.10.09-19.15.47:599][747]LogFileHelpers: Loading map '2' took 1.013
+[2023.10.09-19.15.48:107][753]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/2.2:PersistentLevel.RecastNavMesh-Default).
+[2023.10.09-19.15.48:963][776]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/2.2:PersistentLevel.2
+[2023.10.09-19.15.48:963][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.15.53:157][881]BlueprintLog: New page: Compile 2
+[2023.10.09-19.15.53:393][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.10.09-19.15.55:182][932]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-19.15.55:201][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-19.15.55:201][932]PIE: New page: PIE session: 2 (9 oct. 2023 à 23:15:55)
+[2023.10.09-19.15.55:201][932]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.10.09-19.15.55:334][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133296s)
+[2023.10.09-19.15.55:334][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.133331s)
+[2023.10.09-19.15.55:334][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-19.15.55:335][932]LogAIModule: Creating AISystem for world 2
+[2023.10.09-19.15.55:335][932]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2023.10.09-19.15.55:404][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2023.10.09-19.15.55:406][932]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-19.15.55:406][932]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-19.15.55:406][932]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-19.15.55:406][932]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-19.15.55:406][932]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-19.15.55:406][932]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-19.15.55:409][932]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-19.15.55:432][932]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-19.15.55:432][932]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-19.15.55:432][932]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-19.15.55:432][932]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-19.15.55:432][932]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.10.09-19.15.55:432][932]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.10.09-19.15.55:434][932]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.10.09-19.15.55:435][932]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.10.09-19.15.55:435][932]LogInit: FAudioDevice initialized.
+[2023.10.09-19.15.55:435][932]LogAudio: Display: Audio Device (ID: 5) registered with world '2'.
+[2023.10.09-19.15.55:438][932]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-19.15.55:557][932]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 30) at 2023.10.09-21.15.55
+[2023.10.09-19.15.55:585][932]LogWorld: Bringing up level for play took: 0.146168
+[2023.10.09-19.15.55:587][932]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.09-19.15.55:588][932]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-19.15.55:588][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_0
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:593][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_1
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:593][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:593][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_3
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:593][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_4
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:632][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:632][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_5
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:632][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_6
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:633][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_7
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:633][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_2
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:633][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2'!
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Last function called:
+	/Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C.ExecuteUbergraph_BP_AI_gardes_Level_2
+
+[2023.10.09-19.15.55:633][932]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_AI_gardes_Level_2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_AI_gardes_Level_2_C_8
+	Function /Game/AI/Gardes/Level2/GardesRandom/BP_AI_gardes_Level_2.BP_AI_gardes_Level_2_C:ExecuteUbergraph_BP_AI_gardes_Level_2:21DA
+[2023.10.09-19.15.55:633][932]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Set PrinterPos Graph:  EventGraph Function:  Execute Ubergraph BP AI Gardes Level 2 Blueprint:  BP_AI_gardes_Level_2
+[2023.10.09-19.15.55:634][932]PIE: Server logged in
+[2023.10.09-19.15.55:635][932]PIE: Play in editor total start time 0,434 seconds.
+[2023.10.09-19.15.55:835][933]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '  (U+202f)'
+[2023.10.09-19.15.55:881][933]LogSlate: Took 0.045312 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2023.10.09-19.16.01:493][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.16.01:493][ 76]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.10.09-19.16.01:496][ 76]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-19.16.01:503][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.16.01:541][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-19.16.01:551][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-19.16.01:614][ 76]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-19.16.01:614][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.09-19.16.01:616][ 76]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.10.09-19.16.01:621][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-19.16.01:648][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.10.09-19.16.01:830][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.09-19.16.02:298][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2023.10.09-19.16.02:302][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-19.16.02:361][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.09-19.16.02:427][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.10.09-19.16.02:726][ 82]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.10.09-19.16.02:726][ 82]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/204A960774C700A8F2E049299639B213F.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.10.09-19.16.02:766][ 82]LogFileHelpers: Saving map '2' took 0.406
+[2023.10.09-19.16.02:772][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 469 ms (total: 1.49 sec)
+[2023.10.09-19.16.02:783][ 82]AssetCheck: New page: Asset Save: 2
+[2023.10.09-19.16.02:783][ 82]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.10.09-19.16.03:999][106]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-19.16.04:055][106]LogSlate: Window 'Message Log' being destroyed
