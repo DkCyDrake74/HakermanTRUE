@@ -8763,3 +8763,521 @@ Would you like to regenerate the Skeleton from this mesh?
 [2023.10.09-21.11.31:376][719]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/PNJ/MESH/BPMegan/BP_Megan_Auto2
 [2023.10.09-21.11.31:376][719]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Megan_Auto27A360C514F2232D79F14809709BCAA87.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Saved/Autosaves/Game/AI/PNJ/MESH/BPMegan/BP_Megan_Auto2.uasset'
 [2023.10.09-21.11.31:376][719]LogFileHelpers: Auto-saving content packages took 0.019
+[2023.10.09-21.13.41:297][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.13.41:316][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.13.41:316][196]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:13:41)
+[2023.10.09-21.13.41:316][196]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.13.41:321][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005141s)
+[2023.10.09-21.13.41:322][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.005174s)
+[2023.10.09-21.13.41:322][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.13.41:322][196]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.13.41:322][196]LogPlayLevel: PIE: World Init took: (0.000837s)
+[2023.10.09-21.13.41:377][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.10.09-21.13.41:379][196]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.13.41:379][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.13.41:379][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.13.41:379][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.13.41:379][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.13.41:379][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.13.41:382][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.13.41:407][196]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.13.41:407][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.13.41:408][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.13.41:408][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.13.41:408][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.10.09-21.13.41:408][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.10.09-21.13.41:409][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.10.09-21.13.41:411][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.10.09-21.13.41:411][196]LogInit: FAudioDevice initialized.
+[2023.10.09-21.13.41:411][196]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level_Test'.
+[2023.10.09-21.13.41:413][196]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.13.41:415][196]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.13.41
+[2023.10.09-21.13.41:415][196]LogWorld: Bringing up level for play took: 0.001704
+[2023.10.09-21.13.41:417][196]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2023.10.09-21.13.41:418][196]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.13.41:418][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.13.41:419][196]PIE: Server logged in
+[2023.10.09-21.13.41:421][196]PIE: Play in editor total start time 0,105 seconds.
+[2023.10.09-21.13.42:742][200]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: ================================================
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Total job queries 803, among them cache hits 151 (18.80%)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Tracking 598 distinct input hashes that result in 354 distinct outputs (59.20%)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: RAM used: 4.68 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.29%
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Shaders Compiled: 212
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100.00%)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Average time worker was idle: 53.98 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Time job spent in pending queue: average 0.52 s, longest 4.33 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Job execution time: average 3.07 s, max 6.64 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Job life time (pending + execution): average 3.59 s, max 6.69
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 41.91 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Jobs were issued in 134 batches (only local compilation was used), average 1.58 jobs/batch
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Average processing rate: 5.06 jobs/sec
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Total thread time: 203.69 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Total thread preprocess time: 12.13 s
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Percentage time preprocessing: 5.96%
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Effective parallelization: 4.86 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 1.32 sec, max 2.40 sec, min 0.81 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   10 times, average 1.16 sec, max 2.12 sec, min 0.84 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.16 sec, max 1.44 sec, min 0.89 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   18 times, average 1.10 sec, max 2.18 sec, min 0.63 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 1.08 sec, max 1.22 sec, min 0.95 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.91% of total time (compiled   22 times, average 0.92 sec, max 1.57 sec, min 0.71 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.71% of total time (compiled   18 times, average 1.10 sec, max 2.18 sec, min 0.63 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 7.83% of total time (compiled   17 times, average 0.94 sec, max 1.64 sec, min 0.66 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.46% of total time (compiled   10 times, average 1.32 sec, max 2.40 sec, min 0.81 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.83% of total time (compiled   11 times, average 1.08 sec, max 1.64 sec, min 0.82 sec)
+[2023.10.09-21.13.43:177][206]LogShaderCompilers: Display: ================================================
+[2023.10.09-21.13.52:841][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.13.52:841][485]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.13.52:841][485]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.13.52:841][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.13.52:846][485]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.13.52:853][485]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.13.52:903][485]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-21.13.52:904][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.09-21.13.52:905][485]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.10.09-21.13.52:910][485]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.13.52:914][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.10.09-21.13.53:145][486]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2023.10.09-21.13.54:428][499]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.13.54:451][499]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.14.11:889][966]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.11:889][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.11:936][966]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.11:936][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.11:997][966]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.11:997][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.12:836][987]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.12:836][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.12:884][987]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.12:884][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.12:941][987]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.14.12:941][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.14.51:885][147]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/AI/PNJ/MESH/BPMegan/Ch22_1001_Diffuse.Ch22_1001_Diffuse
+[2023.10.09-21.14.52:655][147]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.10.09-21.15.05:611][465]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/axelr/Downloads/Talking.fbx)
+[2023.10.09-21.15.05:618][465]LogFbx: Loading FBX Scene from C:/Users/axelr/Downloads/Talking.fbx
+[2023.10.09-21.15.05:657][465]LogFbx: FBX Scene Loaded Succesfully
+[2023.10.09-21.15.09:312][465]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(0) Hips
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(1) Spine
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(2) Spine1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(3) Spine2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(4) Neck
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(5) Head
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(6) HeadTop_End
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(7) LeftShoulder
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(8) LeftArm
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(9) LeftForeArm
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(10) LeftHand
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(23) LeftHandRing1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(24) LeftHandRing2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(25) LeftHandRing3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(26) LeftHandRing4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(31) RightShoulder
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(32) RightArm
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(33) RightForeArm
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(34) RightHand
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(35) RightHandThumb1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(36) RightHandThumb2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(37) RightHandThumb3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(38) RightHandThumb4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(39) RightHandIndex1
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(40) RightHandIndex2
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(41) RightHandIndex3
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(42) RightHandIndex4
+[2023.10.09-21.15.09:356][465]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(47) RightHandRing1
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(48) RightHandRing2
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(49) RightHandRing3
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(50) RightHandRing4
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(51) RightHandPinky1
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(52) RightHandPinky2
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(53) RightHandPinky3
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(54) RightHandPinky4
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(55) LeftUpLeg
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(56) LeftLeg
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(57) LeftFoot
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(58) LeftToeBase
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(59) LeftToe_End
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(60) RightUpLeg
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(61) RightLeg
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(62) RightFoot
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(63) RightToeBase
+[2023.10.09-21.15.09:357][465]LogFbx: SortedLinks :(64) RightToe_End
+[2023.10.09-21.15.09:357][465]LogFbx: Parsing AnimStack mixamo.com
+[2023.10.09-21.15.10:679][465]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AI/PNJ/MESH/BPMegan/Animations/Talking.Talking
+[2023.10.09-21.15.11:958][500]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AI/PNJ/MESH/BPMegan/Animations/Talking.Talking
+[2023.10.09-21.15.12:081][500]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.15.30:738][ 47]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/AI/PNJ/MESH/BPMegan/AB_Megan.AB_Megan
+[2023.10.09-21.15.30:738][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.15.30:744][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.15.30:753][ 47]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.09-21.15.31:693][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.15.31:823][ 47]LogViewport: Scene viewport resized to 475x409, mode Windowed.
+[2023.10.09-21.15.31:865][ 47]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.09-21.15.38:317][239]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2023.10.09-21.16.32:313][832]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.16.32:317][832]LogBlueprint: Warning: [AssetLog] /Game/AI/PNJ/MESH/BPMegan/AB_Megan.AB_Megan (no disk path found): [Compiler] Talking to Idle__1_  will never be taken, please connect something to  Can Enter Transition
+[2023.10.09-21.16.32:450][832]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2023.10.09-21.16.39:921][ 54]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.16.40:016][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.09-21.16.52:502][426]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.16.52:588][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.10.09-21.16.58:308][595]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.16.58:403][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.10.09-21.17.00:256][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.17.00:277][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.17.00:277][650]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:17:00)
+[2023.10.09-21.17.00:277][650]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.17.00:283][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005513s)
+[2023.10.09-21.17.00:283][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.005543s)
+[2023.10.09-21.17.00:283][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.17.00:283][650]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.17.00:284][650]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2023.10.09-21.17.00:338][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.10.09-21.17.00:340][650]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.17.00:340][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.17.00:340][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.17.00:340][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.17.00:340][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.17.00:341][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.17.00:343][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.17.00:369][650]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.17.00:369][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.17.00:369][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.17.00:369][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.17.00:371][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.10.09-21.17.00:371][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.10.09-21.17.00:373][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.10.09-21.17.00:373][650]LogInit: FAudioDevice initialized.
+[2023.10.09-21.17.00:373][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.10.09-21.17.00:373][650]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level_Test'.
+[2023.10.09-21.17.00:376][650]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.17.00:377][650]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.17.00
+[2023.10.09-21.17.00:378][650]LogWorld: Bringing up level for play took: 0.001878
+[2023.10.09-21.17.00:380][650]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2023.10.09-21.17.00:381][650]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.17.00:381][650]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.17.00:381][650]PIE: Server logged in
+[2023.10.09-21.17.00:383][650]PIE: Play in editor total start time 0,106 seconds.
+[2023.10.09-21.17.03:473][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.17.03:473][695]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.17.03:473][695]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.17.03:473][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.17.03:548][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.17.03:556][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.17.03:613][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.17.03:614][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.09-21.17.03:615][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.10.09-21.17.03:625][695]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.10.09-21.17.03:812][696]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2023.10.09-21.17.04:567][712]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.17.04:573][712]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.17.32:281][519]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.10.09-21.17.32:286][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-21.17.32:335][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/Level_Test" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/Level_Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.10.09-21.17.32:391][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.10.09-21.17.32:407][519]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/Level_Test
+[2023.10.09-21.17.32:408][519]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Level_Test471B985145FD7ED172EE69876051CDC4.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/Level_Test.umap'
+[2023.10.09-21.17.32:442][519]LogFileHelpers: Saving map 'Level_Test' took 0.106
+[2023.10.09-21.17.32:442][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BPMegan/BP_Megan" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/BP_Megan.uasset" SILENT=true
+[2023.10.09-21.17.32:447][519]LogSavePackage: Moving output files for package: /Game/AI/PNJ/MESH/BPMegan/BP_Megan
+[2023.10.09-21.17.32:448][519]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/BP_Megan57EAC7BF4907DB7AC0F36C89EE465F73.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/BP_Megan.uasset'
+[2023.10.09-21.17.32:459][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BPMegan/AB_Megan" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/AB_Megan.uasset" SILENT=true
+[2023.10.09-21.17.32:473][519]LogSavePackage: Moving output files for package: /Game/AI/PNJ/MESH/BPMegan/AB_Megan
+[2023.10.09-21.17.32:473][519]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/AB_Megan9855EA5441695D4CC9678B94FD27193E.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/AB_Megan.uasset'
+[2023.10.09-21.17.32:482][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BPMegan/Animations/Talking" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/Animations/Talking.uasset" SILENT=true
+[2023.10.09-21.17.32:486][519]LogSavePackage: Moving output files for package: /Game/AI/PNJ/MESH/BPMegan/Animations/Talking
+[2023.10.09-21.17.32:486][519]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/Talking06A6D422438990D85B175CA0CE9B1F55.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/Animations/Talking.uasset'
+[2023.10.09-21.17.32:495][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 12.2 sec)
+[2023.10.09-21.17.32:560][519]AssetCheck: New page: Asset Save: multiple assets
+[2023.10.09-21.17.32:560][519]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/Level_Test.Level_Test
+[2023.10.09-21.17.32:560][519]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/AI/PNJ/MESH/BPMegan/AB_Megan.AB_Megan
+[2023.10.09-21.17.32:560][519]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/PNJ/MESH/BPMegan/BP_Megan.BP_Megan
+[2023.10.09-21.17.32:560][519]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/AI/PNJ/MESH/BPMegan/Animations/Talking.Talking
+[2023.10.09-21.18.16:864][808]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.18.16:951][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2023.10.09-21.18.22:387][960]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.18.22:405][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.18.22:405][960]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:18:22)
+[2023.10.09-21.18.22:405][960]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.18.22:412][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006562s)
+[2023.10.09-21.18.22:413][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.006595s)
+[2023.10.09-21.18.22:413][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.18.22:413][960]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.18.22:413][960]LogPlayLevel: PIE: World Init took: (0.000835s)
+[2023.10.09-21.18.22:470][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2023.10.09-21.18.22:473][960]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.18.22:473][960]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.18.22:473][960]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.18.22:474][960]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.18.22:474][960]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.18.22:474][960]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.18.22:476][960]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.18.22:500][960]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.18.22:501][960]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.18.22:501][960]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.18.22:501][960]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.18.22:501][960]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.10.09-21.18.22:501][960]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.10.09-21.18.22:503][960]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.10.09-21.18.22:503][960]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.10.09-21.18.22:503][960]LogInit: FAudioDevice initialized.
+[2023.10.09-21.18.22:503][960]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level_Test'.
+[2023.10.09-21.18.22:506][960]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.18.22:507][960]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.18.22
+[2023.10.09-21.18.22:508][960]LogWorld: Bringing up level for play took: 0.001911
+[2023.10.09-21.18.22:511][960]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2023.10.09-21.18.22:512][960]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.18.22:512][960]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.18.22:513][960]PIE: Server logged in
+[2023.10.09-21.18.22:514][960]PIE: Play in editor total start time 0,109 seconds.
+[2023.10.09-21.18.32:532][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.18.32:532][138]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.18.32:532][138]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.18.32:533][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.18.32:601][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.18.32:609][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.18.32:661][138]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-21.18.32:661][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.09-21.18.32:664][138]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.10.09-21.18.32:669][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.18.32:672][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.10.09-21.18.32:844][139]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2023.10.09-21.18.33:721][158]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.18.33:728][158]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.18.41:669][381]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.18.41:754][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2023.10.09-21.18.45:028][477]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.18.45:047][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.18.45:047][477]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:18:45)
+[2023.10.09-21.18.45:047][477]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.18.45:053][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005190s)
+[2023.10.09-21.18.45:053][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.005218s)
+[2023.10.09-21.18.45:053][477]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.18.45:053][477]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.18.45:053][477]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2023.10.09-21.18.45:107][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.10.09-21.18.45:109][477]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.18.45:109][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.18.45:109][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.18.45:111][477]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.18.45:111][477]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.18.45:111][477]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.18.45:113][477]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.18.45:138][477]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.18.45:139][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.18.45:139][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.18.45:139][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.18.45:139][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.10.09-21.18.45:139][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.10.09-21.18.45:141][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.10.09-21.18.45:141][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.10.09-21.18.45:141][477]LogInit: FAudioDevice initialized.
+[2023.10.09-21.18.45:141][477]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level_Test'.
+[2023.10.09-21.18.45:145][477]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.18.45:147][477]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.18.45
+[2023.10.09-21.18.45:147][477]LogWorld: Bringing up level for play took: 0.001611
+[2023.10.09-21.18.45:149][477]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2023.10.09-21.18.45:150][477]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.18.45:150][477]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.18.45:151][477]PIE: Server logged in
+[2023.10.09-21.18.45:151][477]PIE: Play in editor total start time 0,104 seconds.
+[2023.10.09-21.19.10:822][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.19.10:822][ 22]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.19.10:822][ 22]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.19.10:822][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.19.10:829][ 22]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.19.10:837][ 22]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.19.10:891][ 22]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.19.10:891][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.09-21.19.10:892][ 22]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.10.09-21.19.10:902][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.10.09-21.19.11:126][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2023.10.09-21.19.12:713][ 48]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.19.12:719][ 48]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.19.14:534][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.10.09-21.19.14:539][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.09-21.19.14:604][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PNJ/MESH/BPMegan/AB_Megan" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/AB_Megan.uasset" SILENT=true
+[2023.10.09-21.19.14:620][101]LogSavePackage: Moving output files for package: /Game/AI/PNJ/MESH/BPMegan/AB_Megan
+[2023.10.09-21.19.14:621][101]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/AB_Megan64FA8088465BB657FC171794CE529DD4.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/AI/PNJ/MESH/BPMegan/AB_Megan.uasset'
+[2023.10.09-21.19.14:630][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 12.3 sec)
+[2023.10.09-21.19.14:639][101]AssetCheck: New page: Asset Save: AB_Megan
+[2023.10.09-21.19.14:639][101]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/AI/PNJ/MESH/BPMegan/AB_Megan.AB_Megan
+[2023.10.09-21.19.26:076][433]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.19.26:164][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.10.09-21.19.31:611][595]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.19.31:701][595]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.10.09-21.19.41:786][896]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.19.41:806][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.19.41:806][896]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:19:41)
+[2023.10.09-21.19.41:806][896]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.19.41:812][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006202s)
+[2023.10.09-21.19.41:812][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.006233s)
+[2023.10.09-21.19.41:813][896]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.19.41:813][896]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.19.41:814][896]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2023.10.09-21.19.41:872][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.10.09-21.19.41:875][896]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.19.41:876][896]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.19.41:876][896]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.19.41:877][896]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.19.41:877][896]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.19.41:877][896]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.19.41:879][896]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.19.41:905][896]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.19.41:905][896]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.19.41:905][896]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.19.41:905][896]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.19.41:906][896]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.10.09-21.19.41:906][896]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.10.09-21.19.41:909][896]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.10.09-21.19.41:909][896]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.10.09-21.19.41:909][896]LogInit: FAudioDevice initialized.
+[2023.10.09-21.19.41:909][896]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level_Test'.
+[2023.10.09-21.19.41:912][896]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.19.41:913][896]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.19.41
+[2023.10.09-21.19.41:914][896]LogWorld: Bringing up level for play took: 0.001517
+[2023.10.09-21.19.41:916][896]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2023.10.09-21.19.41:916][896]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.19.41:916][896]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.19.41:918][896]PIE: Server logged in
+[2023.10.09-21.19.41:919][896]PIE: Play in editor total start time 0,112 seconds.
+[2023.10.09-21.20.01:382][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.20.01:382][334]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.20.01:382][334]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.20.01:382][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.20.01:387][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.20.01:396][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.20.01:448][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.09-21.20.01:448][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.09-21.20.01:450][334]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.10.09-21.20.01:454][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.20.01:458][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.10.09-21.20.01:622][335]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2023.10.09-21.20.02:525][344]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.20.02:554][344]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.20.09:928][548]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.20.10:013][548]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.10.09-21.20.11:318][586]BlueprintLog: New page: Compile AB_Megan
+[2023.10.09-21.20.11:407][586]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.10.09-21.20.13:992][663]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.09-21.20.14:011][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.09-21.20.14:011][663]PIE: New page: PIE session: Level_Test (10 oct. 2023 à 01:20:14)
+[2023.10.09-21.20.14:011][663]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.20.14:016][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005207s)
+[2023.10.09-21.20.14:016][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/Level_Test.Level_Test to /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test (0.005234s)
+[2023.10.09-21.20.14:016][663]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.09-21.20.14:017][663]LogAIModule: Creating AISystem for world Level_Test
+[2023.10.09-21.20.14:017][663]LogPlayLevel: PIE: World Init took: (0.000704s)
+[2023.10.09-21.20.14:073][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.10.09-21.20.14:075][663]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.10.09-21.20.14:075][663]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.09-21.20.14:075][663]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.09-21.20.14:076][663]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.09-21.20.14:076][663]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.09-21.20.14:076][663]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.09-21.20.14:078][663]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.09-21.20.14:104][663]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Razer USB Sound Card)
+[2023.10.09-21.20.14:104][663]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.09-21.20.14:104][663]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.09-21.20.14:104][663]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.09-21.20.14:104][663]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.10.09-21.20.14:104][663]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.10.09-21.20.14:106][663]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.10.09-21.20.14:106][663]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.10.09-21.20.14:106][663]LogInit: FAudioDevice initialized.
+[2023.10.09-21.20.14:106][663]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level_Test'.
+[2023.10.09-21.20.14:109][663]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.10.09-21.20.14:112][663]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test up for play (max tick rate 30) at 2023.10.09-23.20.14
+[2023.10.09-21.20.14:112][663]LogWorld: Bringing up level for play took: 0.001776
+[2023.10.09-21.20.14:114][663]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2023.10.09-21.20.14:114][663]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test.Level_Test:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.10.09-21.20.14:115][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.10.09-21.20.14:116][663]PIE: Server logged in
+[2023.10.09-21.20.14:117][663]PIE: Play in editor total start time 0,105 seconds.
+[2023.10.09-21.21.00:141][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.21.00:141][912]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_Level_Test
+[2023.10.09-21.21.00:141][912]LogWorld: UWorld::CleanupWorld for Level_Test, bSessionEnded=true, bCleanupResources=true
+[2023.10.09-21.21.00:141][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.21.00:146][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.09-21.21.00:154][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.09-21.21.00:207][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.09-21.21.00:207][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.09-21.21.00:209][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.10.09-21.21.00:217][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.10.09-21.21.00:390][913]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2023.10.09-21.21.01:326][919]LogSlate: Window 'Message Log' being destroyed
+[2023.10.09-21.21.01:351][919]LogSlate: Window 'Message Log' being destroyed
