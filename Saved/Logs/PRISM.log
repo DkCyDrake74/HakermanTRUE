@@ -3766,3 +3766,84 @@ Script Stack (0 frames) :
 [2023.12.06-11.16.49:992][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
 [2023.12.06-11.16.50:165][529]LogPlayLevel: Display: Destroying online subsystem :Context_32
 [2023.12.06-11.16.53:474][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.12.06-11.17.28:206][838]LogSlate: Window 'WD_MG_Router' being destroyed
+[2023.12.06-11.17.28:212][838]LogSlate: Window 'WD_MG_Router' being destroyed
+[2023.12.06-11.17.28:216][838]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:216][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:376][838]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:377][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:386][838]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:386][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:499][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.06-11.17.28:499][838]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:499][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:657][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.06-11.17.28:658][838]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:658][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:721][838]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:721][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.28:731][838]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.17.28:731][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: ================================================
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: Total job queries 380, among them cache hits 16 (4.21%)
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: Tracking 364 distinct input hashes that result in 293 distinct outputs (80.49%)
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: RAM used: 2.88 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.18%
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.06-11.17.34:122][902]LogShaderCompilers: Display: ================================================
+[2023.12.06-11.18.35:509][177]LogSlate: Window 'Message' being destroyed
+[2023.12.06-11.18.35:515][177]Message dialog closed, result: Ok, title: Message, text: FilenameToLongPackageName failed to convert ''. The Result would be indistinguishable from using '' as the InFilename.
+[2023.12.06-11.18.49:689][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.12.06-11.18.50:915][517]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.06-11.18.50:920][517]LogSlate: Window 'Project Settings' being destroyed
+[2023.12.06-11.18.51:842][535]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.12.06-11.19.05:452][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.06-11.19.05:568][927]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu/MainMenu.MainMenu
+[2023.12.06-11.19.05:577][927]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/MainMenu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.06-11.19.05:577][927]LightingResults: New page: Lighting Build
+[2023.12.06-11.19.05:577][927]LoadErrors: New page: Loading map: MainMenu.umap
+[2023.12.06-11.19.05:622][927]LogTexture: Display: Building textures: /Game/MainMenu/1.1 (TFO_AutoDXT, 2000x2000 x1x1x1) (Required Memory Estimate: 274.720687 MB), EncodeSpeed: Fast
+[2023.12.06-11.19.05:627][927]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.19.05:627][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.19.05:674][927]LogTexture: Display: Building textures: /Game/MainMenu/wp7043567.wp7043567 (TFO_AutoDXT, 3840x2160 x1x1x1) (Required Memory Estimate: 569.59375 MB), EncodeSpeed: Fast
+[2023.12.06-11.19.05:704][927]LogContentBundle: [Container: ThirdPersonMap] Deleting container.
+[2023.12.06-11.19.05:738][927]MapCheck: New page: Map Check
+[2023.12.06-11.19.05:738][927]LightingResults: New page: Lighting Build
+[2023.12.06-11.19.05:771][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.06-11.19.05:822][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.12.06-11.19.05:834][927]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.19.05:834][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.19.05:865][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.12.06-11.19.05:896][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.06-11.19.05:904][927]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.12.06-11.19.05:904][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-11.19.05:904][927]LogAIModule: Creating AISystem for world MainMenu
+[2023.12.06-11.19.05:990][927]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.06-11.19.06:080][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.12.06-11.19.06:089][927]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.06-11.19.06:090][927]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,11ms to complete.
+[2023.12.06-11.19.06:090][927]LogFileHelpers: Loading map 'MainMenu' took 0.513
+[2023.12.06-11.19.13:085][130]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainMenu/WD_Main_Menu.WD_Main_Menu
+[2023.12.06-11.19.13:085][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-11.19.13:095][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.06-11.19.13:762][130]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.06-11.19.13:762][130]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.06-11.19.22:127][376]BlueprintLog: New page: Compile WD_Main_Menu
+[2023.12.06-11.19.22:194][376]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.12.06-11.19.23:189][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.12.06-11.19.23:194][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.06-11.19.23:252][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu/WD_Main_Menu" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/MainMenu/WD_Main_Menu.uasset" SILENT=true
+[2023.12.06-11.19.23:260][403]LogSavePackage: Moving output files for package: /Game/MainMenu/WD_Main_Menu
+[2023.12.06-11.19.23:260][403]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Main_Menu0B4067CB4B292D3062F666A1EC243B62.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/MainMenu/WD_Main_Menu.uasset'
+[2023.12.06-11.19.23:288][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 1.15 sec)
+[2023.12.06-11.19.23:295][403]AssetCheck: New page: Asset Save: WD_Main_Menu
+[2023.12.06-11.19.23:295][403]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MainMenu/WD_Main_Menu.WD_Main_Menu
+[2023.12.06-11.19.24:992][454]LogSlate: Window 'WD_Main_Menu' being destroyed
+[2023.12.06-11.19.24:996][454]LogSlate: Window 'WD_Main_Menu' being destroyed
+[2023.12.06-11.19.25:007][454]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.19.25:007][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.06-11.19.25:014][454]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.12.06-11.19.25:014][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
