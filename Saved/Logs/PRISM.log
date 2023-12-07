@@ -2025,3 +2025,1031 @@ Make sure 'BP_Camera_2_1_C' has been compiled for  Set rotationValidMax
 [2023.12.07-21.47.20:155][613]LogPlayLevel: Display: Destroying online subsystem :Context_33
 [2023.12.07-21.47.21:543][652]LogSlate: Window 'Message Log' being destroyed
 [2023.12.07-21.47.21:548][652]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.49.27:170][863]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-21.49.27:181][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-21.49.27:181][863]PIE: New page: PIE session: 2 (7 déc. 2023 à 23:49:27)
+[2023.12.07-21.49.27:182][863]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.12.07-21.49.27:318][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137535s)
+[2023.12.07-21.49.27:318][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.137564s)
+[2023.12.07-21.49.27:318][863]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.49.27:318][863]LogAIModule: Creating AISystem for world 2
+[2023.12.07-21.49.27:320][863]LogPlayLevel: PIE: World Init took: (0.001279s)
+[2023.12.07-21.49.27:417][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.12.07-21.49.27:419][863]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-21.49.27:419][863]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-21.49.27:419][863]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-21.49.27:420][863]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-21.49.27:420][863]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-21.49.27:420][863]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-21.49.27:422][863]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-21.49.27:558][863]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-21.49.27:558][863]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-21.49.27:558][863]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-21.49.27:558][863]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-21.49.27:558][863]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.12.07-21.49.27:558][863]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.12.07-21.49.27:560][863]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.12.07-21.49.27:560][863]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.12.07-21.49.27:560][863]LogInit: FAudioDevice initialized.
+[2023.12.07-21.49.27:560][863]LogAudio: Display: Audio Device (ID: 10) registered with world '2'.
+[2023.12.07-21.49.27:563][863]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-21.49.27:690][863]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 30) at 2023.12.07-22.49.27
+[2023.12.07-21.49.27:695][863]LogWorld: Bringing up level for play took: 0.132074
+[2023.12.07-21.49.27:697][863]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.12.07-21.49.27:698][863]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-21.49.27:698][863]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-21.49.27:706][863]PIE: Server logged in
+[2023.12.07-21.49.27:707][863]PIE: Play in editor total start time 0,526 seconds.
+[2023.12.07-21.49.37:411][150]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/ThirdPerson/Maps/2.2_C:ExecuteUbergraph_2'!
+[2023.12.07-21.49.37:411][150]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/2.2_C.ExecuteUbergraph_2
+
+[2023.12.07-21.49.37:411][150]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_6
+	2_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.2_C_2
+	Function /Game/ThirdPerson/Maps/2.2_C:ExecuteUbergraph_2:0B5E
+[2023.12.07-21.49.37:411][150]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_6". Node:  Close Widget Graph:  EventGraph Function:  Execute Ubergraph 2 Blueprint:  2
+[2023.12.07-21.49.43:520][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.49.43:520][330]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.12.07-21.49.43:522][330]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.49.43:528][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.49.43:534][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-21.49.43:547][330]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.49.43:636][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.49.43:641][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.07-21.49.43:643][330]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.12.07-21.49.43:669][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.12.07-21.49.43:858][331]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.12.07-21.49.45:069][364]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.49.45:074][364]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.49.52:878][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.12.07-21.49.52:883][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.49.52:932][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.07-21.49.53:021][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.12.07-21.49.53:324][577]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.12.07-21.49.53:324][577]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/2B7167E01466C6066CF1B2491C6342736.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.12.07-21.49.53:351][577]LogFileHelpers: Saving map '2' took 0.421
+[2023.12.07-21.49.53:357][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 474 ms (total: 2.66 sec)
+[2023.12.07-21.49.53:375][577]AssetCheck: New page: Asset Save: 2
+[2023.12.07-21.49.53:375][577]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.12.07-21.50.07:975][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.12.07-21.50.08:224][  7]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/1.1
+[2023.12.07-21.50.08:224][  7]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.50.08:224][  7]LightingResults: New page: Lighting Build
+[2023.12.07-21.50.08:224][  7]LoadErrors: New page: Loading map: 1.umap
+[2023.12.07-21.50.08:314][  7]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.08:314][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.08:365][  7]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.08:366][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.08:367][  7]MapCheck: New page: Map Check
+[2023.12.07-21.50.08:367][  7]LightingResults: New page: Lighting Build
+[2023.12.07-21.50.08:476][  7]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.50.08:503][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.12.07-21.50.08:514][  7]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.08:517][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.08:616][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.12.07-21.50.08:702][  7]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2023.12.07-21.50.08:814][  7]LogAudio: Display: Audio Device (ID: 1) registered with world '1'.
+[2023.12.07-21.50.08:814][  7]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.50.08:815][  7]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.50.09:394][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.50.09:510][  7]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.12.07-21.50.09:525][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.50.09:525][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,236ms to complete.
+[2023.12.07-21.50.09:525][  7]LogFileHelpers: Loading map '1' took 1.301
+[2023.12.07-21.50.11:043][ 47]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/1.1:PersistentLevel.1
+[2023.12.07-21.50.11:044][ 47]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.50.41:142][931]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.41:142][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.44:340][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.12.07-21.50.44:670][ 21]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/2.2
+[2023.12.07-21.50.44:670][ 21]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.50.44:670][ 21]LightingResults: New page: Lighting Build
+[2023.12.07-21.50.44:670][ 21]LoadErrors: New page: Loading map: 2.umap
+[2023.12.07-21.50.44:687][ 21]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.44:687][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.44:688][ 21]MapCheck: New page: Map Check
+[2023.12.07-21.50.44:688][ 21]LightingResults: New page: Lighting Build
+[2023.12.07-21.50.44:784][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.50.44:808][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2023.12.07-21.50.44:815][ 21]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.50.44:818][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.50.44:925][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.12.07-21.50.45:013][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.12.07-21.50.45:144][ 21]LogAudio: Display: Audio Device (ID: 1) registered with world '2'.
+[2023.12.07-21.50.45:145][ 21]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.50.45:145][ 21]LogAIModule: Creating AISystem for world 2
+[2023.12.07-21.50.45:400][ 21]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.50.45:401][ 21]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-23.558 Y=9.381 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.12.07-21.50.45:563][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.12.07-21.50.45:582][ 21]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.50.45:582][ 21]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,281ms to complete.
+[2023.12.07-21.50.45:582][ 21]LogFileHelpers: Loading map '2' took 0.912
+[2023.12.07-21.50.46:051][ 27]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/2.2:PersistentLevel.RecastNavMesh-Default).
+[2023.12.07-21.50.48:188][ 87]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/2.2:PersistentLevel.2
+[2023.12.07-21.50.48:189][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.51.13:472][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2023.12.07-21.51.13:712][824]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/1.1
+[2023.12.07-21.51.13:712][824]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.51.13:712][824]LightingResults: New page: Lighting Build
+[2023.12.07-21.51.13:712][824]LoadErrors: New page: Loading map: 1.umap
+[2023.12.07-21.51.13:795][824]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.13:795][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.13:857][824]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.13:857][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.13:858][824]MapCheck: New page: Map Check
+[2023.12.07-21.51.13:858][824]LightingResults: New page: Lighting Build
+[2023.12.07-21.51.13:965][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.51.13:991][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.12.07-21.51.14:001][824]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.14:004][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.14:110][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2023.12.07-21.51.14:201][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.12.07-21.51.14:300][824]LogAudio: Display: Audio Device (ID: 1) registered with world '1'.
+[2023.12.07-21.51.14:300][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.51.14:300][824]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.51.14:864][824]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.51.14:979][824]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.12.07-21.51.14:994][824]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.51.14:995][824]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,215ms to complete.
+[2023.12.07-21.51.14:995][824]LogFileHelpers: Loading map '1' took 1.283
+[2023.12.07-21.51.17:587][893]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/1.1:PersistentLevel.1
+[2023.12.07-21.51.17:587][893]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.51.31:969][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.12.07-21.51.32:301][302]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/2.2
+[2023.12.07-21.51.32:301][302]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.51.32:301][302]LightingResults: New page: Lighting Build
+[2023.12.07-21.51.32:301][302]LoadErrors: New page: Loading map: 2.umap
+[2023.12.07-21.51.32:371][302]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.32:371][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.32:427][302]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.32:427][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.32:427][302]MapCheck: New page: Map Check
+[2023.12.07-21.51.32:427][302]LightingResults: New page: Lighting Build
+[2023.12.07-21.51.32:541][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.51.32:575][302]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2023.12.07-21.51.32:585][302]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.51.32:591][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.51.32:700][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.12.07-21.51.32:800][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2023.12.07-21.51.32:933][302]LogAudio: Display: Audio Device (ID: 1) registered with world '2'.
+[2023.12.07-21.51.32:933][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.51.32:933][302]LogAIModule: Creating AISystem for world 2
+[2023.12.07-21.51.33:160][302]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.51.33:161][302]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-23.558 Y=9.381 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.12.07-21.51.33:320][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2023.12.07-21.51.33:338][302]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.51.33:338][302]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,286ms to complete.
+[2023.12.07-21.51.33:338][302]LogFileHelpers: Loading map '2' took 1.037
+[2023.12.07-21.51.33:800][308]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/2.2:PersistentLevel.RecastNavMesh-Default).
+[2023.12.07-21.51.35:521][357]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/2.2:PersistentLevel.2
+[2023.12.07-21.51.35:521][357]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.52.19:754][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.12.07-21.52.20:005][655]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/1.1
+[2023.12.07-21.52.20:005][655]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.52.20:005][655]LightingResults: New page: Lighting Build
+[2023.12.07-21.52.20:005][655]LoadErrors: New page: Loading map: 1.umap
+[2023.12.07-21.52.20:084][655]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.20:084][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.20:140][655]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.20:140][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.20:141][655]MapCheck: New page: Map Check
+[2023.12.07-21.52.20:141][655]LightingResults: New page: Lighting Build
+[2023.12.07-21.52.20:239][655]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.52.20:268][655]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.12.07-21.52.20:278][655]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.20:280][655]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.20:380][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.12.07-21.52.20:463][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2023.12.07-21.52.20:575][655]LogAudio: Display: Audio Device (ID: 1) registered with world '1'.
+[2023.12.07-21.52.20:575][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.52.20:576][655]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.52.21:143][655]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.52.21:259][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.12.07-21.52.21:274][655]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.52.21:274][655]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,232ms to complete.
+[2023.12.07-21.52.21:274][655]LogFileHelpers: Loading map '1' took 1.270
+[2023.12.07-21.52.25:639][780]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/1.1:PersistentLevel.1
+[2023.12.07-21.52.25:639][780]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.52.44:306][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2023.12.07-21.52.44:644][314]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/2.2
+[2023.12.07-21.52.44:644][314]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.52.44:644][314]LightingResults: New page: Lighting Build
+[2023.12.07-21.52.44:644][314]LoadErrors: New page: Loading map: 2.umap
+[2023.12.07-21.52.44:713][314]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.44:713][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.44:768][314]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.44:769][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.44:769][314]MapCheck: New page: Map Check
+[2023.12.07-21.52.44:769][314]LightingResults: New page: Lighting Build
+[2023.12.07-21.52.44:870][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.52.44:894][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.12.07-21.52.44:903][314]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.52.44:907][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.52.45:009][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2023.12.07-21.52.45:094][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.12.07-21.52.45:242][314]LogAudio: Display: Audio Device (ID: 1) registered with world '2'.
+[2023.12.07-21.52.45:243][314]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.52.45:243][314]LogAIModule: Creating AISystem for world 2
+[2023.12.07-21.52.45:472][314]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.52.45:472][314]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-23.558 Y=9.381 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2023.12.07-21.52.45:627][314]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.12.07-21.52.45:643][314]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.52.45:645][314]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,938ms to complete.
+[2023.12.07-21.52.45:645][314]LogFileHelpers: Loading map '2' took 1.001
+[2023.12.07-21.52.46:100][320]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/ThirdPerson/Maps/2.2:PersistentLevel.RecastNavMesh-Default).
+[2023.12.07-21.52.48:258][382]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPerson/Maps/2.2:PersistentLevel.2
+[2023.12.07-21.52.48:258][382]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.52.55:086][564]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/section_text_style.section_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.52.55:086][564]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h3_text_style.h3_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.52.55:086][564]LogEditorClassViewer: Warning: Class /Game/UIMaterialLab/Widgets/Styles/h2_text_style.h2_text_style_C has parent /Script/CommonUI.CommonTextStyle, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.52.55:087][564]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.52.55:087][564]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.52.55:087][564]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.12.07-21.53.12:144][ 69]BlueprintLog: New page: Compile 2
+[2023.12.07-21.53.12:411][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.12.07-21.53.13:195][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.12.07-21.53.13:198][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.53.13:249][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/2" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.07-21.53.13:337][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.12.07-21.53.13:642][ 85]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/2
+[2023.12.07-21.53.13:642][ 85]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/202D376D0439C1F5A28DC2EA2F055B94B.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/2.umap'
+[2023.12.07-21.53.13:666][ 85]LogFileHelpers: Saving map '2' took 0.419
+[2023.12.07-21.53.13:671][ 85]LogFileHelpers: InternalPromptForCheckoutAndSave took 472 ms (total: 3.13 sec)
+[2023.12.07-21.53.13:684][ 85]AssetCheck: New page: Asset Save: 2
+[2023.12.07-21.53.13:684][ 85]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/2.2
+[2023.12.07-21.53.15:674][145]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-21.53.15:685][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-21.53.15:685][145]PIE: New page: PIE session: 2 (7 déc. 2023 à 23:53:15)
+[2023.12.07-21.53.15:685][145]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.12.07-21.53.15:815][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.129233s)
+[2023.12.07-21.53.15:815][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/2.2 to /Game/ThirdPerson/Maps/UEDPIE_0_2.2 (0.129263s)
+[2023.12.07-21.53.15:815][145]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.53.15:815][145]LogAIModule: Creating AISystem for world 2
+[2023.12.07-21.53.15:816][145]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2023.12.07-21.53.15:905][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2023.12.07-21.53.15:906][145]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.12.07-21.53.15:906][145]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-21.53.15:906][145]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-21.53.15:906][145]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-21.53.15:906][145]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-21.53.15:907][145]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-21.53.15:907][145]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-21.53.15:907][145]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-21.53.15:907][145]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-21.53.15:907][145]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-21.53.15:907][145]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-21.53.15:907][145]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-21.53.15:909][145]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-21.53.16:047][145]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-21.53.16:047][145]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-21.53.16:047][145]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-21.53.16:047][145]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-21.53.16:048][145]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.12.07-21.53.16:048][145]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.12.07-21.53.16:049][145]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.12.07-21.53.16:049][145]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.12.07-21.53.16:049][145]LogInit: FAudioDevice initialized.
+[2023.12.07-21.53.16:049][145]LogAudio: Display: Audio Device (ID: 11) registered with world '2'.
+[2023.12.07-21.53.16:054][145]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-21.53.16:168][145]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_2.2 up for play (max tick rate 30) at 2023.12.07-22.53.16
+[2023.12.07-21.53.16:173][145]LogWorld: Bringing up level for play took: 0.119519
+[2023.12.07-21.53.16:175][145]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2023.12.07-21.53.16:176][145]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_2.2:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-21.53.16:176][145]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-21.53.16:183][145]PIE: Server logged in
+[2023.12.07-21.53.16:184][145]PIE: Play in editor total start time 0,499 seconds.
+[2023.12.07-21.53.38:750][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.53.38:750][818]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_2
+[2023.12.07-21.53.38:752][818]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.53.38:759][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.53.38:765][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-21.53.38:777][818]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.53.38:869][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.53.38:872][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-21.53.38:873][818]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.12.07-21.53.38:904][818]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2023.12.07-21.53.39:065][819]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2023.12.07-21.53.40:256][852]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.53.40:261][852]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.53.55:633][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2023.12.07-21.53.55:886][306]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPerson/Maps/1.1
+[2023.12.07-21.53.55:887][306]Cmd: MAP LOAD FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.07-21.53.55:887][306]LightingResults: New page: Lighting Build
+[2023.12.07-21.53.55:887][306]LoadErrors: New page: Loading map: 1.umap
+[2023.12.07-21.53.55:973][306]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.53.55:973][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.53.56:032][306]LogWorld: UWorld::CleanupWorld for 2, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.53.56:033][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.53.56:034][306]MapCheck: New page: Map Check
+[2023.12.07-21.53.56:034][306]LightingResults: New page: Lighting Build
+[2023.12.07-21.53.56:134][306]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.53.56:161][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.12.07-21.53.56:173][306]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.53.56:175][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.53.56:273][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.12.07-21.53.56:365][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.12.07-21.53.56:466][306]LogAudio: Display: Audio Device (ID: 1) registered with world '1'.
+[2023.12.07-21.53.56:467][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.53.56:467][306]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.53.57:024][306]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.07-21.53.57:137][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.12.07-21.53.57:152][306]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.07-21.53.57:152][306]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,218ms to complete.
+[2023.12.07-21.53.57:152][306]LogFileHelpers: Loading map '1' took 1.267
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: ================================================
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: Total job queries 513, among them cache hits 37 (7.21%)
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: Tracking 476 distinct input hashes that result in 362 distinct outputs (76.05%)
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: RAM used: 3.66 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.22%
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.12.07-21.54.08:436][610]LogShaderCompilers: Display: ================================================
+[2023.12.07-21.54.24:511][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-21.54.24:521][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-21.54.24:521][ 74]PIE: New page: PIE session: 1 (7 déc. 2023 à 23:54:24)
+[2023.12.07-21.54.24:521][ 74]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-21.54.24:606][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083601s)
+[2023.12.07-21.54.24:606][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/1.1 to /Game/ThirdPerson/Maps/UEDPIE_0_1.1 (0.083631s)
+[2023.12.07-21.54.24:606][ 74]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.54.24:606][ 74]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.54.24:607][ 74]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2023.12.07-21.54.24:689][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.12.07-21.54.24:694][ 74]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-21.54.24:694][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-21.54.24:694][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-21.54.24:695][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-21.54.24:695][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-21.54.24:695][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-21.54.24:697][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-21.54.24:843][ 74]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-21.54.24:844][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-21.54.24:844][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-21.54.24:844][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-21.54.24:844][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.12.07-21.54.24:844][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.12.07-21.54.24:846][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.12.07-21.54.24:846][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.12.07-21.54.24:846][ 74]LogInit: FAudioDevice initialized.
+[2023.12.07-21.54.24:846][ 74]LogAudio: Display: Audio Device (ID: 12) registered with world '1'.
+[2023.12.07-21.54.24:849][ 74]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-21.54.24:944][ 74]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_1.1 up for play (max tick rate 30) at 2023.12.07-22.54.24
+[2023.12.07-21.54.24:948][ 74]LogWorld: Bringing up level for play took: 0.098194
+[2023.12.07-21.54.24:950][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2023.12.07-21.54.24:951][ 74]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-21.54.24:951][ 74]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-21.54.24:959][ 74]PIE: Server logged in
+[2023.12.07-21.54.24:960][ 74]PIE: Play in editor total start time 0,439 seconds.
+[2023.12.07-21.54.27:501][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.54.27:501][ 94]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-21.54.27:572][ 94]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.27:579][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.27:587][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-21.54.27:598][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.27:681][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.54.27:688][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.07-21.54.27:690][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.12.07-21.54.27:696][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.54.27:713][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2023.12.07-21.54.27:899][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2023.12.07-21.54.28:550][114]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.54.28:555][114]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.54.34:142][269]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.07-21.54.34:142][269]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.34:142][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.34:623][281]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.07-21.54.34:623][281]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.34:623][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.35:033][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.12.07-21.54.35:034][291]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.35:034][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.35:436][301]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.35:436][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.35:450][301]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.54.35:450][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.54.49:561][716]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1.WD_Hack_Diversion1
+[2023.12.07-21.54.49:562][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.54.49:567][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.54.50:052][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.07-21.54.50:052][716]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.07-21.55.06:816][202]BlueprintLog: New page: Compile WD_Hack_Diversion1
+[2023.12.07-21.55.07:016][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.12.07-21.55.07:903][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.07-21.55.07:903][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.12.07-21.55.15:137][433]BlueprintLog: New page: Compile WD_Hack_Diversion1
+[2023.12.07-21.55.15:141][433]LogBlueprint: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\UI\UI_Phone\UI_Phone_Level1\WD_Hack_Diversion1.uasset: [Compiler] Could not find a variable named "Imprimante_button" in 'WD_Hack_Diversion1_C'.
+Make sure 'WD_Hack_Diversion1_C' has been compiled for  Get Imprimante_button
+[2023.12.07-21.55.15:141][433]LogBlueprint: Warning: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\UI\UI_Phone\UI_Phone_Level1\WD_Hack_Diversion1.uasset: [Compiler] Could not find a variable named "Imprimante_button" in 'WD_Hack_Diversion1_C'.
+Make sure 'WD_Hack_Diversion1_C' has been compiled for  Get Imprimante_button
+[2023.12.07-21.55.15:142][433]LogBlueprint: Error: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\UI\UI_Phone\UI_Phone_Level1\WD_Hack_Diversion1.uasset: [Compiler] The property associated with  Imprimante Button  could not be found in '/Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1.WD_Hack_Diversion1_C'
+[2023.12.07-21.55.15:142][433]LogBlueprint: Error: [AssetLog] D:\Game\HakermanTRUE\HakermanTRUE\Content\UI\UI_Phone\UI_Phone_Level1\WD_Hack_Diversion1.uasset: [Compiler] The property associated with  Imprimante Button  could not be found in '/Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1.WD_Hack_Diversion1_C'
+[2023.12.07-21.55.15:285][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2023.12.07-21.55.23:879][684]BlueprintLog: New page: Compile WD_Hack_Diversion1
+[2023.12.07-21.55.23:956][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.12.07-21.55.40:320][171]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-21.55.40:332][171]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-21.55.40:332][171]PIE: New page: PIE session: 1 (7 déc. 2023 à 23:55:40)
+[2023.12.07-21.55.40:332][171]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-21.55.40:428][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095402s)
+[2023.12.07-21.55.40:428][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/1.1 to /Game/ThirdPerson/Maps/UEDPIE_0_1.1 (0.095450s)
+[2023.12.07-21.55.40:428][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.55.40:428][171]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.55.40:429][171]LogPlayLevel: PIE: World Init took: (0.001469s)
+[2023.12.07-21.55.40:481][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.12.07-21.55.40:484][171]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-21.55.40:484][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-21.55.40:484][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-21.55.40:485][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-21.55.40:485][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-21.55.40:485][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-21.55.40:487][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-21.55.40:623][171]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-21.55.40:625][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-21.55.40:625][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-21.55.40:625][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-21.55.40:625][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.12.07-21.55.40:625][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.12.07-21.55.40:627][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.12.07-21.55.40:627][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.12.07-21.55.40:627][171]LogInit: FAudioDevice initialized.
+[2023.12.07-21.55.40:627][171]LogAudio: Display: Audio Device (ID: 13) registered with world '1'.
+[2023.12.07-21.55.40:631][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-21.55.40:720][171]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_1.1 up for play (max tick rate 30) at 2023.12.07-22.55.40
+[2023.12.07-21.55.40:724][171]LogWorld: Bringing up level for play took: 0.093186
+[2023.12.07-21.55.40:726][171]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2023.12.07-21.55.40:727][171]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-21.55.40:727][171]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-21.55.40:735][171]PIE: Server logged in
+[2023.12.07-21.55.40:736][171]PIE: Play in editor total start time 0,404 seconds.
+[2023.12.07-21.56.10:805][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.10:806][ 22]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.10:806][ 22]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.41:221][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.41:221][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:017F
+[2023.12.07-21.56.41:221][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:221][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:017F
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_1
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:015B
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.41:222][903]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:017F
+[2023.12.07-21.56.41:222][903]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.56.53:854][260]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/ThirdPerson/Maps/1.1_C:ExecuteUbergraph_1'!
+[2023.12.07-21.56.53:854][260]LogScript: Warning: Last function called:
+	/Game/ThirdPerson/Maps/1.1_C.ExecuteUbergraph_1
+
+[2023.12.07-21.56.53:854][260]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item
+	1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.1_C_1
+	Function /Game/ThirdPerson/Maps/1.1_C:ExecuteUbergraph_1:0092
+[2023.12.07-21.56.53:854][260]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Close Widget Graph:  EventGraph Function:  Execute Ubergraph 1 Blueprint:  1
+[2023.12.07-21.57.03:753][548]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.9
+[2023.12.07-21.57.03:845][551]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.8
+[2023.12.07-21.57.03:962][554]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.7
+[2023.12.07-21.57.04:064][557]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.6
+[2023.12.07-21.57.04:172][560]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.5
+[2023.12.07-21.57.04:270][563]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.4
+[2023.12.07-21.57.04:368][566]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.3
+[2023.12.07-21.57.04:467][569]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.2
+[2023.12.07-21.57.04:572][572]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.1
+[2023.12.07-21.57.04:671][575]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 4.0
+[2023.12.07-21.57.04:778][578]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.9
+[2023.12.07-21.57.04:878][581]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.8
+[2023.12.07-21.57.04:980][584]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.7
+[2023.12.07-21.57.05:081][587]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.6
+[2023.12.07-21.57.05:179][590]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.5
+[2023.12.07-21.57.05:283][593]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.4
+[2023.12.07-21.57.05:385][596]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.3
+[2023.12.07-21.57.05:489][599]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.2
+[2023.12.07-21.57.05:586][602]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.1
+[2023.12.07-21.57.05:687][605]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 3.0
+[2023.12.07-21.57.05:804][608]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.9
+[2023.12.07-21.57.05:911][611]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.8
+[2023.12.07-21.57.06:017][614]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.7
+[2023.12.07-21.57.06:139][617]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.6
+[2023.12.07-21.57.06:236][620]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.5
+[2023.12.07-21.57.06:343][623]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.4
+[2023.12.07-21.57.06:444][626]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.3
+[2023.12.07-21.57.06:544][629]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.2
+[2023.12.07-21.57.06:646][632]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.1
+[2023.12.07-21.57.06:757][635]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 2.0
+[2023.12.07-21.57.06:858][638]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.9
+[2023.12.07-21.57.06:964][641]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.8
+[2023.12.07-21.57.07:070][644]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.7
+[2023.12.07-21.57.07:171][647]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.6
+[2023.12.07-21.57.07:272][650]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.5
+[2023.12.07-21.57.07:375][653]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.4
+[2023.12.07-21.57.07:471][656]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.3
+[2023.12.07-21.57.07:569][659]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.2
+[2023.12.07-21.57.07:689][662]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.1
+[2023.12.07-21.57.07:781][665]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 1.0
+[2023.12.07-21.57.07:887][668]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.9
+[2023.12.07-21.57.07:986][671]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.8
+[2023.12.07-21.57.08:086][674]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.7
+[2023.12.07-21.57.08:190][677]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.6
+[2023.12.07-21.57.08:338][680]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.5
+[2023.12.07-21.57.08:461][683]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.4
+[2023.12.07-21.57.08:563][686]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.3
+[2023.12.07-21.57.08:665][689]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.2
+[2023.12.07-21.57.08:771][692]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.1
+[2023.12.07-21.57.08:873][695]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : 0.0
+[2023.12.07-21.57.08:974][698]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan time remain : -0.1
+[2023.12.07-21.57.09:076][701]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.1
+[2023.12.07-21.57.09:178][704]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.2
+[2023.12.07-21.57.09:277][707]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.3
+[2023.12.07-21.57.09:382][710]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.4
+[2023.12.07-21.57.09:485][713]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.5
+[2023.12.07-21.57.09:588][716]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.6
+[2023.12.07-21.57.09:694][719]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.7
+[2023.12.07-21.57.09:796][722]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.8
+[2023.12.07-21.57.09:895][725]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 0.9
+[2023.12.07-21.57.10:005][728]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.0
+[2023.12.07-21.57.10:098][731]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.1
+[2023.12.07-21.57.10:209][734]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.2
+[2023.12.07-21.57.10:307][737]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.3
+[2023.12.07-21.57.10:410][740]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.4
+[2023.12.07-21.57.10:517][743]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.5
+[2023.12.07-21.57.10:618][746]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.6
+[2023.12.07-21.57.10:716][749]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.7
+[2023.12.07-21.57.10:818][752]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.8
+[2023.12.07-21.57.10:919][755]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 1.9
+[2023.12.07-21.57.11:029][758]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.0
+[2023.12.07-21.57.11:125][761]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.1
+[2023.12.07-21.57.11:230][764]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.2
+[2023.12.07-21.57.11:324][767]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.3
+[2023.12.07-21.57.11:430][770]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.4
+[2023.12.07-21.57.11:533][773]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.5
+[2023.12.07-21.57.11:635][776]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.6
+[2023.12.07-21.57.11:736][779]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.7
+[2023.12.07-21.57.11:937][782]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.8
+[2023.12.07-21.57.11:957][783]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 2.9
+[2023.12.07-21.57.12:057][786]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.0
+[2023.12.07-21.57.12:157][789]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.1
+[2023.12.07-21.57.12:265][792]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.2
+[2023.12.07-21.57.12:377][795]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.3
+[2023.12.07-21.57.12:502][798]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.4
+[2023.12.07-21.57.12:599][801]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.5
+[2023.12.07-21.57.12:713][804]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.6
+[2023.12.07-21.57.12:823][807]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.7
+[2023.12.07-21.57.12:938][810]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.8
+[2023.12.07-21.57.13:041][813]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 3.9
+[2023.12.07-21.57.13:171][816]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.0
+[2023.12.07-21.57.13:268][819]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.1
+[2023.12.07-21.57.13:372][822]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.2
+[2023.12.07-21.57.13:482][825]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.3
+[2023.12.07-21.57.13:579][828]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.4
+[2023.12.07-21.57.13:686][831]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.5
+[2023.12.07-21.57.13:785][834]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.6
+[2023.12.07-21.57.13:885][837]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.7
+[2023.12.07-21.57.14:004][840]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.8
+[2023.12.07-21.57.14:107][843]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 4.9
+[2023.12.07-21.57.14:228][846]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 5.0
+[2023.12.07-21.57.14:318][849]LogBlueprintUserMessages: [BP_DIversionScanLevel1_C_2] Scan cooldown : 5.1
+[2023.12.07-21.57.40:980][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.57.40:980][590]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-21.57.40:981][590]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-21.57.40:986][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.57.40:991][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-21.57.40:999][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-21.57.41:043][590]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-21.57.41:050][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.07-21.57.41:052][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.12.07-21.57.41:059][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-21.57.41:077][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.12.07-21.57.41:297][591]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2023.12.07-21.57.47:377][772]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.57.47:383][772]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-21.57.48:244][798]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-21.57.48:255][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-21.57.48:255][798]PIE: New page: PIE session: 1 (7 déc. 2023 à 23:57:48)
+[2023.12.07-21.57.48:255][798]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-21.57.48:334][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.079671s)
+[2023.12.07-21.57.48:334][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/1.1 to /Game/ThirdPerson/Maps/UEDPIE_0_1.1 (0.079705s)
+[2023.12.07-21.57.48:334][798]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-21.57.48:335][798]LogAIModule: Creating AISystem for world 1
+[2023.12.07-21.57.48:336][798]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2023.12.07-21.57.48:379][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.07-21.57.48:383][798]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-21.57.48:383][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-21.57.48:383][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-21.57.48:384][798]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-21.57.48:384][798]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-21.57.48:384][798]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-21.57.48:386][798]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-21.57.48:522][798]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-21.57.48:523][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-21.57.48:523][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-21.57.48:523][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-21.57.48:523][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.12.07-21.57.48:523][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.12.07-21.57.48:525][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.12.07-21.57.48:525][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.12.07-21.57.48:525][798]LogInit: FAudioDevice initialized.
+[2023.12.07-21.57.48:525][798]LogAudio: Display: Audio Device (ID: 14) registered with world '1'.
+[2023.12.07-21.57.48:528][798]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-21.57.48:611][798]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_1.1 up for play (max tick rate 30) at 2023.12.07-22.57.48
+[2023.12.07-21.57.48:615][798]LogWorld: Bringing up level for play took: 0.086870
+[2023.12.07-21.57.48:617][798]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2023.12.07-21.57.48:619][798]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-21.57.48:619][798]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-21.57.48:627][798]PIE: Server logged in
+[2023.12.07-21.57.48:627][798]PIE: Play in editor total start time 0,373 seconds.
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Accessed None trying to read property CallFunc_Array_Get_Item_2
+	BP_Ordinateurs1_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_Ordinateurs_C_0
+	Function /Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1:0137
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-21.58.41:959][263]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.41:959][263]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-21.58.56:105][668]Cmd: stat fps
+[2023.12.07-22.00.49:772][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.00.49:772][936]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-22.00.49:773][936]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-22.00.49:779][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.00.49:783][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-22.00.49:791][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.00.49:839][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.00.49:844][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.07-22.00.49:846][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.12.07-22.00.49:886][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.12.07-22.00.50:131][937]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.12.07-22.00.51:187][967]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.00.51:192][967]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.00.51:866][987]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-22.00.51:876][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-22.00.51:876][987]PIE: New page: PIE session: 1 (8 déc. 2023 à 00:00:51)
+[2023.12.07-22.00.51:876][987]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-22.00.51:957][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080251s)
+[2023.12.07-22.00.51:957][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/1.1 to /Game/ThirdPerson/Maps/UEDPIE_0_1.1 (0.080287s)
+[2023.12.07-22.00.51:957][987]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-22.00.51:957][987]LogAIModule: Creating AISystem for world 1
+[2023.12.07-22.00.51:958][987]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2023.12.07-22.00.52:006][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.12.07-22.00.52:009][987]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-22.00.52:009][987]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-22.00.52:009][987]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-22.00.52:009][987]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-22.00.52:009][987]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-22.00.52:009][987]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-22.00.52:012][987]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-22.00.52:150][987]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-22.00.52:151][987]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-22.00.52:151][987]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-22.00.52:151][987]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-22.00.52:151][987]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.12.07-22.00.52:151][987]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.12.07-22.00.52:152][987]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.12.07-22.00.52:152][987]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.12.07-22.00.52:152][987]LogInit: FAudioDevice initialized.
+[2023.12.07-22.00.52:152][987]LogAudio: Display: Audio Device (ID: 15) registered with world '1'.
+[2023.12.07-22.00.52:156][987]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-22.00.52:244][987]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_1.1 up for play (max tick rate 30) at 2023.12.07-23.00.52
+[2023.12.07-22.00.52:248][987]LogWorld: Bringing up level for play took: 0.091329
+[2023.12.07-22.00.52:251][987]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.12.07-22.00.52:252][987]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-22.00.52:252][987]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-22.00.52:260][987]PIE: Server logged in
+[2023.12.07-22.00.52:260][987]PIE: Play in editor total start time 0,384 seconds.
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.01.43:419][369]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:419][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.01.43:420][369]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.02.30:644][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.02.30:644][701]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-22.02.30:646][701]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-22.02.30:651][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.02.30:656][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-22.02.30:665][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.02.30:712][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.02.30:717][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.07-22.02.30:720][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.12.07-22.02.30:743][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.12.07-22.02.30:929][702]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.12.07-22.02.32:102][737]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.02.32:108][737]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.04.00:678][954]BlueprintLog: New page: Compile WD_Hack_Diversion1
+[2023.12.07-22.04.00:756][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.12.07-22.04.29:427][796]BlueprintLog: New page: Compile WD_Hack_Diversion1
+[2023.12.07-22.04.29:505][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.12.07-22.04.31:603][856]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.07-22.04.31:613][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.07-22.04.31:614][856]PIE: New page: PIE session: 1 (8 déc. 2023 à 00:04:31)
+[2023.12.07-22.04.31:614][856]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-22.04.31:695][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081386s)
+[2023.12.07-22.04.31:696][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/1.1 to /Game/ThirdPerson/Maps/UEDPIE_0_1.1 (0.081424s)
+[2023.12.07-22.04.31:696][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-22.04.31:696][856]LogAIModule: Creating AISystem for world 1
+[2023.12.07-22.04.31:697][856]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2023.12.07-22.04.31:742][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.12.07-22.04.31:745][856]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.07-22.04.31:745][856]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.07-22.04.31:745][856]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.07-22.04.31:746][856]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.07-22.04.31:746][856]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.07-22.04.31:746][856]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.07-22.04.31:748][856]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.07-22.04.31:895][856]LogAudioMixer: Display: Using Audio Hardware Device Haut-parleurs (Realtek(R) Audio)
+[2023.12.07-22.04.31:895][856]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.07-22.04.31:895][856]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.07-22.04.31:895][856]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.07-22.04.31:895][856]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.12.07-22.04.31:895][856]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.12.07-22.04.31:897][856]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.12.07-22.04.31:897][856]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.12.07-22.04.31:897][856]LogInit: FAudioDevice initialized.
+[2023.12.07-22.04.31:897][856]LogAudio: Display: Audio Device (ID: 16) registered with world '1'.
+[2023.12.07-22.04.31:900][856]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.12.07-22.04.32:000][856]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_1.1 up for play (max tick rate 30) at 2023.12.07-23.04.32
+[2023.12.07-22.04.32:004][856]LogWorld: Bringing up level for play took: 0.103660
+[2023.12.07-22.04.32:006][856]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.12.07-22.04.32:006][856]LogScript: Warning: Accessed None trying to read property As BP Third Person Character
+	Perso_AnimBP_C /Game/ThirdPerson/Maps/UEDPIE_0_1.1:PersistentLevel.BP_ThirdPersonCharacter_C_0.CharacterMesh0.Perso_AnimBP_C_0
+	Function /Game/Perso/Perso_AnimBP.Perso_AnimBP_C:ExecuteUbergraph_Perso_AnimBP:0285
+[2023.12.07-22.04.32:006][856]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As BP Third Person Character". Node:  Result Graph:  Transition Function:  Execute Ubergraph Perso Anim BP Blueprint:  Perso_AnimBP
+[2023.12.07-22.04.32:018][856]PIE: Server logged in
+[2023.12.07-22.04.32:018][856]PIE: Play in editor total start time 0,405 seconds.
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_1' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.05.22:766][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.05.22:766][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_1". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.05.22:766][307]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.05.22:766][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.05.22:769][307]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets_2' of length 0 in '/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C:ExecuteUbergraph_BP_Ordinateurs1'!
+[2023.12.07-22.05.22:769][307]LogScript: Warning: Last function called:
+	/Game/Blueprints/Ordinateur_mails/Level1/BP_Ordinateurs1.BP_Ordinateurs1_C.ExecuteUbergraph_BP_Ordinateurs1
+
+[2023.12.07-22.05.22:769][307]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Array_Get_Item_2". Node:  Remove from Parent Graph:  EventGraph Function:  Execute Ubergraph BP Ordinateurs 1 Blueprint:  BP_Ordinateurs1
+[2023.12.07-22.06.40:584][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.06.40:584][514]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_1
+[2023.12.07-22.06.40:586][514]LogWorld: UWorld::CleanupWorld for 1, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-22.06.40:590][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.06.40:596][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.07-22.06.40:605][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-22.06.40:653][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.07-22.06.40:654][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.07-22.06.40:656][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.12.07-22.06.40:663][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.07-22.06.40:680][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.07-22.06.40:877][515]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.12.07-22.06.51:103][821]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.06.51:109][821]LogSlate: Window 'Message Log' being destroyed
+[2023.12.07-22.07.04:680][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2023.12.07-22.07.04:685][226]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-22.07.04:747][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Maps/1" FILE="../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.12.07-22.07.04:797][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.12.07-22.07.05:005][226]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Maps/1
+[2023.12.07-22.07.05:005][226]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/19B786B9F47916E961B0F7080D8A5F296.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/ThirdPerson/Maps/1.umap'
+[2023.12.07-22.07.05:025][226]LogFileHelpers: No new changes to save!
+[2023.12.07-22.07.05:025][226]LogFileHelpers: Saving map '1' took 0.279
+[2023.12.07-22.07.05:036][226]LogSavePackage: Moving output files for package: /Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1
+[2023.12.07-22.07.05:036][226]LogSavePackage: Moving '../../../../../HakermanTRUE/HakermanTRUE/Saved/WD_Hack_Diversion116FE80A547441D491B93F1B4F9368EB2.tmp' to '../../../../../HakermanTRUE/HakermanTRUE/Content/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1.uasset'
+[2023.12.07-22.07.05:060][226]LogFileHelpers: InternalPromptForCheckoutAndSave took 374 ms (total: 3.51 sec)
+[2023.12.07-22.07.05:069][226]AssetCheck: New page: Asset Save: multiple assets
+[2023.12.07-22.07.05:069][226]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/UI_Phone/UI_Phone_Level1/WD_Hack_Diversion1.WD_Hack_Diversion1
+[2023.12.07-22.07.05:070][226]LogContentValidation: Display: Validating /Script/Engine.World /Game/ThirdPerson/Maps/1.1
